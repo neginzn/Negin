@@ -1,0 +1,37 @@
+{
+  "output": "steam_brush_ad.mp4",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "scene_duration": 3.2,
+  "crossfade": 0.5,
+  "scenes": [
+    {
+      "image": "https://cdn.shopify.com/s/files/1/1025/5866/2999/files/hf_20260702_214956_27f670c4-2a73-4612-9fe7-41e41bbc59d6.png?v=1783036714",
+      "headline": ["Pet hair", "everywhere?"]
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/1025/5866/2999/files/7408c11f-1c67-40ee-937e-f40558de833d.jpg?v=1782218132",
+      "headline": ["Steam softens", "& detangles"]
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/1025/5866/2999/files/7165df38-bfc9-42c1-99a3-6d2e4d645b25.jpg?v=1782218131",
+      "headline": ["Gentle on skin —", "loved by cats & dogs"]
+    },
+    {
+      "image": "https://cdn.shopify.com/s/files/1/1025/5866/2999/files/3947208a-48e1-4f0f-bda0-2eae6591cd4e.jpg?v=1782218132",
+      "headline": ["Brush + Steam + Massage", "all in one"],
+      "fontsize": 62
+    }
+  ],
+  "endcard": {
+    "duration": 3.6,
+    "bg": "0xFFF3E4",
+    "fg": "0x2B1D12",
+    "accent": "0xE8641B",
+    "title": ["3-in-1 Steam", "Grooming Brush"],
+    "price": "From €17.99",
+    "cta": "Shop Now",
+    "brand": "PawsyCozy"
+  }
+}
