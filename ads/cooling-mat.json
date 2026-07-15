@@ -1,0 +1,24 @@
+{
+  "output": "cooling_mat_ad.mp4",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "scene_duration": 2.8,
+  "crossfade": 0.45,
+  "scenes": [
+    {"image": "img/hero.png", "headline": ["Your pet can’t say...", "“I’m overheating”"], "fontsize": 66},
+    {"image": "img/scene2.png", "headline": ["This mat cools them down", "the second they lie on it"], "fontsize": 56},
+    {"image": "img/scene3.png", "headline": ["Just add water —", "no fridge, no electricity"], "fontsize": 60},
+    {"image": "img/scene4.png", "headline": ["Pet-safe cooling gel", "stays cool for hours"], "fontsize": 60}
+  ],
+  "endcard": {
+    "duration": 3.4,
+    "bg": "0xE9F5FE",
+    "fg": "0x0D3B66",
+    "accent": "0x1E88E5",
+    "title": ["Water-Activated", "Cooling Mat"],
+    "price": "Beat the Summer Heat",
+    "cta": "Shop Now",
+    "brand": "PawsyCozy"
+  }
+}
