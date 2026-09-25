@@ -47,3 +47,7 @@
 - **واقعیت‌ها** (طبق Wikipedia و Fox News): اسم درست Viktor **Karamarkov** است، متولد ۱۹۸۱. لقبش «The Macedonian Raskolnikov» است. از مارس تا اکتبر ۲۰۰۹ در اسکوپیه چهار زن سالمند را کشت. تحت تأثیر رمان «جنایت و مکافات» بود. ۲۷ اکتبر ۲۰۰۹ دستگیر شد و به حبس ابد محکوم شد (زندان Idrizovo).
 - **عنوان پیشنهادی:** He Read "Crime and Punishment"… Then Lived It
 - **اولین شورت کاملاً اورجینال کانال.**
+
+## ویدیوی بعدی: سرقت Norrmalmstorg، استکهلم ۱۹۷۳ (منشأ اصطلاح «سندروم استکهلم»)
+- **واقعیت‌ها:** از ۲۳ تا ۲۸ اوت ۱۹۷۳. Jan-Erik Olsson به بانک Kreditbanken در میدان Norrmalmstorg دستبرد زد و ۴ کارمند را گروگان گرفت: Birgitta Lundblad، Elisabeth Oldgren، Kristin Enmark و Sven Säfström. خواست Clark Olofsson از زندان آورده شود و او هم به او پیوست. گروگان‌ها ۶ روز در گاوصندوق بودند، طرف گروگان‌گیرها را گرفتند و از پلیس ترسیدند. Kristin Enmark به نخست‌وزیر Olof Palme تلفن زد. ۲۸ اوت پلیس با گاز اشک‌آور وارد شد. اصطلاح را روان‌پزشک Nils Bejerot ساخت. Enmark بعدها (۲۰۱۵) این برچسب را زیر سؤال برد.
+- **عنوان پیشنهادی:** The Bank Robbery That Invented Stockholm Syndrome
