@@ -51,3 +51,5 @@
 ## ویدیوی بعدی: سرقت Norrmalmstorg، استکهلم ۱۹۷۳ (منشأ اصطلاح «سندروم استکهلم»)
 - **واقعیت‌ها:** از ۲۳ تا ۲۸ اوت ۱۹۷۳. Jan-Erik Olsson به بانک Kreditbanken در میدان Norrmalmstorg دستبرد زد و ۴ کارمند را گروگان گرفت: Birgitta Lundblad، Elisabeth Oldgren، Kristin Enmark و Sven Säfström. خواست Clark Olofsson از زندان آورده شود و او هم به او پیوست. گروگان‌ها ۶ روز در گاوصندوق بودند، طرف گروگان‌گیرها را گرفتند و از پلیس ترسیدند. Kristin Enmark به نخست‌وزیر Olof Palme تلفن زد. ۲۸ اوت پلیس با گاز اشک‌آور وارد شد. اصطلاح را روان‌پزشک Nils Bejerot ساخت. Enmark بعدها (۲۰۱۵) این برچسب را زیر سؤال برد.
 - **عنوان پیشنهادی:** The Bank Robbery That Invented Stockholm Syndrome
+
+**۲۶ سپتامبر:** تامبنیل ویدیو ۱ تست شد. A: تامبنیل اصلی (لئون، پرچم شوروی، RESIDENT EVIL / THE REAL STORY). B: تصویر واقع‌گرا با لئون نزدیک، ساختمان‌های شوروی، تابلوی خونی «RACCOON CITY IN REAL LIFE» و تابلوی زرد Biohazard. CTR قبل از تست: ۲.۱٪.
