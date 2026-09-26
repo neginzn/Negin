@@ -4,3 +4,4 @@
 
 - 📘 [راهنمای کامل یوتیوب](youtube/YOUTUBE_GUIDE.md)
 - 🗂 [کانال Stranger Files — برنامه‌ی راه‌اندازی](channels/stranger-files.md)
+- 🎬 [راهنمای ادیت با Premiere Pro](youtube/PREMIERE_PRO_GUIDE.md)
