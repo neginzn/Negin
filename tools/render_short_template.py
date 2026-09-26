@@ -22,13 +22,13 @@ img19 = load("Edmund_Kemper_2019_mugshot.jpg")
 
 # (start, end, image or None, [(text, color, size)], small label)
 SEGS = [
-    (0.0, 3.5, img64, [("AT 15", WHITE, 150), ("HE KILLED HIS", WHITE, 110), ("GRANDPARENTS", RED, 120)], "1964"),
-    (3.5, 7.5, img73f, [("BY 1973:", WHITE, 110), ("6 YOUNG WOMEN", RED, 110), ("HIS MOTHER", RED, 110), ("HER FRIEND", RED, 110)], "1973"),
-    (7.5, 10.0, imgpr, [("LISTEN TO HOW", WHITE, 115), ("HE TALKS", WHITE, 115), ("ABOUT IT", RED, 130)], None),
-    (10.0, 25.0, None, [("INTERVIEW CLIP", (150, 150, 150), 110), ("PLACE HERE", (150, 150, 150), 90), ("(10-15 SEC)", (110, 110, 110), 70)], None),
-    (25.0, 31.0, img73p, [("HE CALLED", WHITE, 130), ("THE POLICE", WHITE, 130), ("HIMSELF", RED, 150)], "APRIL 1973"),
-    (31.0, 36.0, img19, [("STILL IN PRISON", WHITE, 120), ("TODAY", RED, 150)], "2019"),
-    (36.0, 40.0, img73f, [("WHAT SCARES", WHITE, 125), ("YOU MORE?", RED, 150)], None),
+    (0.0, 2.8, img64, [("AT 15", WHITE, 150), ("HE KILLED HIS", WHITE, 110), ("GRANDPARENTS", RED, 120)], "1964"),
+    (2.8, 9.6, img73f, [("BY 1973:", WHITE, 110), ("6 YOUNG WOMEN", RED, 110), ("HIS MOTHER", RED, 110), ("HER FRIEND", RED, 110)], "1973"),
+    (9.6, 13.4, imgpr, [("LISTEN TO HOW", WHITE, 115), ("HE TALKS", WHITE, 115), ("ABOUT IT", RED, 130)], None),
+    (13.4, 28.4, None, [("INTERVIEW CLIP", (150, 150, 150), 110), ("PLACE HERE", (150, 150, 150), 90), ("(15 SEC)", (110, 110, 110), 70)], None),
+    (28.4, 36.5, img73p, [("HE CALLED", WHITE, 130), ("THE POLICE", WHITE, 130), ("HIMSELF", RED, 150)], "APRIL 1973"),
+    (36.5, 39.5, img19, [("STILL IN PRISON", WHITE, 120), ("TODAY", RED, 150)], "2019"),
+    (39.5, 43.0, img73f, [("WHAT SCARES", WHITE, 125), ("YOU MORE?", RED, 150)], None),
 ]
 TOTAL = SEGS[-1][1]
 
@@ -65,7 +65,7 @@ bgs = {id(s[2]): bg_for(s[2]) for s in SEGS if s[2] is not None}
 dark = Image.new("RGB", (W, H), (12, 12, 12))
 
 ff = imageio_ffmpeg.get_ffmpeg_exe()
-out = D + "kemper_short_visuals.mp4"
+out = D + "kemper_v2_visuals.mp4"
 p = subprocess.Popen([ff, "-y", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
                       "-c:v", "libx264", "-pix_fmt", "yuv420p", "-crf", "20", "-preset", "medium", out],
                      stdin=subprocess.PIPE, stderr=subprocess.DEVNULL)
