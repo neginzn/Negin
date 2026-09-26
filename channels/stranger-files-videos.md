@@ -79,3 +79,5 @@
 - **ساخت:** عکس‌های واقعی از Wikimedia: دوربین بانک Hibernia (FBI، public domain)، مغ‌شات ۱۹۷۵ (public domain)، عکس همراهی مارشال‌ها (CC BY 4.0) و عکس رنگی Patti Hearst (CC BY-SA 2.0). دو مورد آخر در Description اعتبار (Attribution) لازم دارند.
 - **قالب:** تصویر تمام‌صفحه (full-bleed) با زوم، بدون محو شدن از سیاه در شروع، و ضربه‌ی کوتاه زوم (punch-in) در هر برش. رندر با tools/render_short_fullbleed.py، صدای راوی edge-tts (en-US-ChristopherNeural) با tools/tts_edge.py.
 - **Related video:** ویدیوی بلند Patty Hearst.
+
+**۲۷ سپتامبر، ساعت ۰۰:۵۰:** کانال ۲۱ سابسکرایبر. تامبنیل شورت Hearst به فریم اول تغییر کرد. شورت Kemper: **۴۲۲ بازدید** (قبلاً ۲۶۹، و در ساعت اول فقط ۲). Karamarkov: ۲۸۷. Kedrowitz (captive): ۱.۴ هزار. Wesson: ۱.۳ هزار. Hearst: ۵ بازدید در ۴۴ دقیقه.
