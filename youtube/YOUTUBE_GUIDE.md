@@ -1,6 +1,6 @@
 # راهنمای کامل یوتیوب: الگوریتم، سئو و وایرال شدن
 
-> آخرین به‌روزرسانی: سپتامبر ۲۰۲۶
+> آخرین به‌روزرسانی: ۲۶ سپتامبر ۲۰۲۶ (به‌علاوه‌ی اعلام‌های Made On YouTube 2026)
 > این فایل پایگاه دانش پروژه است. هر وقت درباره‌ی ویدیو، عنوان، تامبنیل، اسکریپت یا رشد کانال کار می‌کنیم، از این قوانین استفاده می‌شود.
 
 ---
@@ -59,6 +59,27 @@
 - **جستجوی معنایی:** رتبه دیگر فقط به تطابق دقیق کلمه‌کلیدی وابسته نیست؛ **اعتبار موضوعی کانال (Topical Authority)**، ارتباط معنایی و رضایت مهم‌اند. محتوای گفتاری (زیرنویس/رونوشت) هم خوانده می‌شود.
 - **تست عنوان و تامبنیل (Test & Compare):** یوتیوب اجازه می‌دهد تا ۳ تامبنیل (و در نسخه‌های جدید عنوان) را A/B تست کنی؛ برنده بر اساس **سهم زمان تماشا (Watch time share)** انتخاب می‌شود، نه فقط CTR.
 - **محتوای هوش مصنوعی:** برای محتوای واقع‌نمای ساخته‌شده با AI باید برچسب «Altered or synthetic content» زده شود. محتوای تکراری/انبوه و کم‌ارزش («Inauthentic/Mass-produced») از برنامه‌ی درآمدزایی حذف می‌شود.
+
+
+### به‌روزرسانی‌های سپتامبر ۲۰۲۶
+**رسمی (Made On YouTube، ۲۳ سپتامبر ۲۰۲۶؛ منابع: TechCrunch و وبلاگ YouTube):**
+- **A/B تست خود ویدیو:** می‌شود تا **۳ نسخه‌ی مختلف از شروع ویدیو** را تست کرد تا معلوم شود کدام هوک بهتر است. برای بهتر کردن ریتنشن ۳۰ ثانیه‌ی اول ابزار خیلی مهمی است.
+- **Test & Compare عنوان** حالا جهانی شده: تا ۳ عنوان و تامبنیل، تا ۲ هفته، و برنده بر اساس **زمان تماشا**. فقط در Studio دسکتاپ و فقط با **Advanced features**.
+- **Dynamic thumbnails:** سه تامبنیل ساخته‌شده با AI که هر کدام به بخشی از مخاطبان نشان داده می‌شود.
+- **Ask Studio:** دستیار AI داخل Studio که عنوان و تامبنیل پیشنهاد می‌دهد و آنالیتیکس را توضیح می‌دهد.
+- **دوبله‌ی زنده (Live dubbing)** و تگ کردن محصولات Amazon برای سازندگان آمریکایی.
+
+**گزارش‌های منابع ثالث (رسماً تأیید نشده):**
+- در شورتز، **۳۰ تا ۶۰ دقیقه‌ی اول** پنجره‌ی تست است. اگر شورت در این مدت عملکرد خوبی نداشته باشد، پخشش کم می‌شود.
+- فیلتر شباهت: قالب، هوک یا سبک بصری **تکراری** (نسبت به کارهای قبلی خودت یا ترندهای فعلی) کمتر پخش می‌شود. **تنوع** در هوک و تصویر مهم است.
+- معیار شورتز از «درصد رد کردن» به سمت **زمان تماشا به ازای هر نمایش** رفته است.
+- در جولای، ماه‌های اوت و سپتامبر ۲۰۲۶ تغییر تأییدشده‌ی دیگری در الگوریتم رتبه‌بندی گزارش نشده است.
+
+**Inauthentic content (سیاست درآمدزایی):**
+- سیاست «Repetitious content» به **«Inauthentic content»** تغییر نام داده است (جولای ۲۰۲۵؛ بعضی منابع ۲۰۲۶ می‌گویند). محتوای قالبی و تکراری، آپلود انبوه و محتوایی که قابل تولید انبوه است، درآمد نمی‌گیرد.
+- در ژانویه‌ی ۲۰۲۶ موجی از حذف کانال‌ها از YPP گزارش شد. وجه مشترکشان: صدای مصنوعی، تامبنیل قالبی، حلقه‌های استوک فوتیج و سرعت آپلود غیرانسانی.
+- کانال‌های **بدون چهره** به خودی خود ممنوع نیستند. **اسکریپت اورجینال، انتخاب و ادیت واقعی و سبک ثابت** برای درآمدزایی کافی است.
+- برای صدای مصنوعی، تصویر AI واقع‌نما و اسکریپتی که عمدتاً AI نوشته، گزینه‌ی Altered/synthetic content را بزن (جریمه‌ی مرحله‌ای نزدن این گزینه را منابع ثالث گزارش کرده‌اند).
 
 ### نکته‌ی مهم درباره‌ی «تست اولیه»
 یوتیوب ویدیوی جدید را اول به گروه کوچکی (معمولاً مشترکین فعال و بیننده‌های مشابه) نشان می‌دهد. اگر عملکرد نسبت به **میانگین خودِ کانال** خوب باشد، دایره گسترش پیدا می‌کند. به همین دلیل:
@@ -557,6 +578,11 @@
 - [OutlierKit — Viewer Satisfaction Replaces Watch Time](https://outlierkit.com/resources/youtube-viewer-satisfaction-algorithm-2026/)
 - [Metricool — YouTube Shorts Algorithm](https://metricool.com/youtube-shorts-algorithm/)
 - [MilX — 2026 YouTube Algorithm Updates](https://milx.app/en/news/what-changed-in-the-youtube-algorithm-in-2026)
+- [TechCrunch — video A/B testing, dynamic thumbnails, live dubbing (Sep 23, 2026)](https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/)
+- [TechCrunch — AI features in Studio (Sep 23, 2026)](https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/)
+- [YouTube Help — A/B test titles and thumbnails](https://support.google.com/youtube/answer/16391400?hl=en-GB)
+- [ScaleLab — YouTube AI content crackdown 2026](https://scalelab.com/en/why-youtube-is-cracking-down-on-ai-generated-content-in-2026)
+- [SocialPilot — YouTube Algorithm September 2026](https://www.socialpilot.co/youtube-marketing/youtube-algorithm)
 - مستندات رسمی: YouTube Help Center، کانال «Creator Insider» و «YouTube Creators»
 
 > توجه: برخی جزئیات ۲۰۲۶ از منابع ثالث گزارش شده‌اند و یوتیوب همه‌ی جزئیات الگوریتم را رسماً منتشر نمی‌کند. شرایط YPP و قوانین را همیشه در YouTube Studio و Help Center تأیید کن.
