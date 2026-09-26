@@ -74,3 +74,8 @@
 
 **اصلاح ۲۶ سپتامبر، ساعت ۲۲:۴۰:** موضوع واقعی ویدیو ۲ ماجرای **Patty Hearst** است (ربوده شدن در ۴ فوریه‌ی ۱۹۷۴ توسط SLA و سرقت بانک Hibernia در سانفرانسیسکو در ۱۵ آوریل ۱۹۷۴). سرقت استکهلم فقط در فصل 19:06 آمده. Claude ابتدا موضوع را اشتباه فهمیده بود و Description و تامبنیل را برای استکهلم ساخته بود. عنوان به «The Strangest Bank Robbery Ever — Patty Hearst: Kidnapped…» و متن تامبنیل به «KIDNAPPED. THEN SHE JOINED THEM / SAN FRANCISCO 1974 / REC 04-15-1974» تغییر کرد. آمار بعد از ۳ ساعت: ۱۱ بازدید و ۱.۲ ساعت تماشا (حدود ۶.۵ دقیقه برای هر بیننده، خیلی بهتر از ویدیو ۱).
 **درس:** قبل از نوشتن بسته‌بندی، فصل‌بندی یا اسکریپت ویدیو را ببین.
+
+## شورت ۶: Patty Hearst (ساخته‌شده ۲۶ سپتامبر ۲۰۲۶، ۲۲.۶ ثانیه، کامل با صدا)
+- **ساخت:** عکس‌های واقعی از Wikimedia: دوربین بانک Hibernia (FBI، public domain)، مغ‌شات ۱۹۷۵ (public domain)، عکس همراهی مارشال‌ها (CC BY 4.0) و عکس رنگی Patti Hearst (CC BY-SA 2.0). دو مورد آخر در Description اعتبار (Attribution) لازم دارند.
+- **قالب:** تصویر تمام‌صفحه (full-bleed) با زوم، بدون محو شدن از سیاه در شروع، و ضربه‌ی کوتاه زوم (punch-in) در هر برش. رندر با tools/render_short_fullbleed.py، صدای راوی edge-tts (en-US-ChristopherNeural) با tools/tts_edge.py.
+- **Related video:** ویدیوی بلند Patty Hearst.
