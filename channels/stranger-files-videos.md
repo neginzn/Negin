@@ -84,3 +84,8 @@
 **۲۷ سپتامبر، ساعت ۰۰:۵۸:** تامبنیل شورت Wesson از عکس کودکان قربانی به مغ‌شات San Quentin خود Wesson تغییر کرد ✅ Kemper: ۴۴۶ بازدید.
 
 **شورت Patty Hearst، نسخه‌ی ۲ (پیشرفته):** صاحب کانال گفت نسخه‌ی اول «basic و مصنوعی» بود. نسخه‌ی جدید این‌ها را دارد: ۹ شات به جای ۵، ترنزیشن‌های zoom blur و punch-in و flash و whip و glitch، لرزش دوربین دستی، نویز فیلم و فلیکر، نور قرمز (light leak)، Vignette، تیتر با انیمیشن pop-in، زیرنویس کلمه‌به‌کلمه (کلمه‌ی فعال زرد، با زمان‌بندی از whisper)، و جلوه‌ی دوربین مداربسته (REC چشمک‌زن و ساعت). موسیقی drone تاریک ساختگی که زیر صدا خودکار کم می‌شود (sidechain)، به‌علاوه‌ی SFX (hit، whoosh، shutter، glitch، riser). بلندی صدا −14 LUFS. ابزارها: tools/render_short_v2.py و tools/sfx_synth.py. **این نسخه قالب استاندارد شورت‌های بعدی است.**
+
+## ایده‌ی ویدیوی بلند: Ervil LeBaron («Mormon Manson»)
+- **واقعیت‌ها** (Wikipedia و Washington Post ۱۹۸۹ و Deseret News ۱۹۸۸): رهبر فرقه‌ی Church of the First Born of the Lamb of God. چند نفر را که «مرتد» می‌دانست به قتل رساند یا دستور قتلشان را داد، از جمله برادرش Joel LeBaron (۱۹۷۲) و Rulon Allred (۱۹۷۷). در ۱۹۸۱ در زندان یوتا مرد. قبل از مرگ «کتاب قوانین الهی» (Book of the New Covenants) با فهرست «خائنان» نوشت. **قتل‌های ساعت ۴ (4 O'Clock murders):** در ۲۷ ژوئن ۱۹۸۸ پیروانش (به رهبری Heber و Aaron LeBaron) در یک ساعت، در سه جای تگزاس، ۴ نفر را کشتند (Mark و Duane Chynoweth، Jennifer ۸ ساله و Ed Marston). Jacqueline LeBaron در ۲۰۱۰ دستگیر شد. به این فرقه‌ها در مجموع بیش از ۲۰ مرگ نسبت داده می‌شود.
+- **عنوان:** Ervil LeBaron: The Cult Leader Who Killed From Beyond the Grave
+- **طول هدف:** ۲۲ تا ۲۸ دقیقه

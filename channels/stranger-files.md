@@ -270,3 +270,5 @@ New case every week. Subscribe and open the next file… if you dare.
 | شورت Kemper | At 15, He Killed His Grandparents. Then It Got Worse. (بدون اسم) | Edmund Kemper: At 15 He Killed His Grandparents |
 | شورت Karamarkov | The Serial Killer Who Thought He Was Raskolnikov (بدون اسم) | Viktor Karamarkov: The Real-Life Raskolnikov |
 | بلند Raccoon City | The Real Raccoon City Was in the Soviet Union (در حال تست) | فعلاً بماند. کلمات Sverdlovsk و anthrax در Description باشند |
+
+- **۲۷ سپتامبر ۲۰۲۶، طول ویدیوی بلند:** بین ۲۰ و ۳۰ دقیقه (تصمیم صاحب کانال). ویدیوهای یک‌ساعته ساخته نمی‌شوند.
