@@ -1,222 +1,290 @@
 # Yancy Noll: Killed at a Red Light by a "Student of Murder"
-## اسکریپت کامل انگلیسی برای Stranger Files (حدود ۲۲ دقیقه)
+## اسکریپت انگلیسی، نسخه‌ی ۲ (لحن گفتاری و قصه‌گو)
 
-> این اسکریپت **از صفر نوشته شده**. فقط **تکنیک‌های داستان‌گویی** از اسکریپت فارسی الهام گرفته شده، نه متنش. زاویه‌ی ما «نابغه‌ای که قتل را مطالعه کرد ولی با یک طرح مدادی گیر افتاد» است.
-> واقعیت‌ها طبق `research/yancy-noll.md` هستند. در موارد اختلاف منابع (تعداد گلوله‌ها، مدت مشورت هیئت منصفه) از بیان کلی استفاده شده.
-> **[VISUAL: …]** = تصویر پیشنهادی · **[CLIP: …]** = فیلم یا صدای واقعی، **حداکثر ۱۰ تا ۱۵ ثانیه** · هر بخش = یک فایل صدا در ElevenLabs.
-> سبک ادیت: آرام و سینمایی (قوانین بخش ۱۱ در `channels/stranger-files.md`).
-
----
-
-### 00_HOOK (00:00 تا 00:45)
-[VISUAL: black screen → slow fade to a Seattle intersection at dusk, traffic light turning red]
-
-> On the evening of August 31st, 2012, a man sat at a red light in north Seattle. He was ten minutes from home. He had no enemies, no criminal record, and no idea that the silver sports car rolling up beside him had been built — piece by piece, lesson by lesson — for this exact moment.
->
-> Five shots. The car disappeared through the red light.
->
-> The man behind the wheel of that car was a genius. He had spent years studying how to kill a stranger and never get caught. He read the manuals. He watched the training videos. He practiced.
->
-> And in the end, he was brought down by something no manual could prepare him for: a pencil sketch… and a phone call.
-
-[VISUAL: slow push-in on the Seattle Police sketch]
-
-> This is the case of Yancy Noll.
+> بازنویسی بعد از بازخورد صاحب کانال: نسخه‌ی ۱ «کتابی» بود و هوکش ضعیف بود.
+> سبک این نسخه: **مثل کسی که پرونده را برای دوستش تعریف می‌کند**. جمله‌های کوتاه، زمان حال، حرف زدن مستقیم با بیننده («you»)، تحلیل راوی، سؤال‌های بلاغی و یادآوری («Remember that»).
+> **هوک:** ۲ جمله درباره‌ی قربانی و بلافاصله اتفاق سر چهارراه. بدون مقدمه‌ی شاعرانه.
+> واقعیت‌ها طبق `research/yancy-noll.md` هستند. تحلیل‌ها **نظر راوی** است و به‌عنوان واقعیت گفته نمی‌شود.
+> **[VISUAL]** = تصویر · **[CLIP]** = فیلم یا صدای واقعی، حداکثر ۱۰ تا ۱۵ ثانیه · هر بخش = یک فایل صدا در ElevenLabs.
 
 ---
 
-### 01_WHO_WAS_YANCY (00:45 تا 02:45)
-[VISUAL: Seattle neighborhoods, a wine shop shelf, mountain trail. No real photos of Yancy unless licensed/short news clip]
+### 00_HOOK
+[VISUAL: police sketch, then the intersection at dusk]
 
-> Yancy Noll was forty-two years old. He worked as the wine steward at a QFC grocery store on Broadway, in Seattle's Capitol Hill — the guy regulars asked for when they wanted the right bottle for the right night.
+> This is Yancy Noll. Forty-two years old. He works at a grocery store in Seattle, and he knows more about wine than just about anyone you'll ever meet.
 >
-> People who knew him described him the same way, over and over: careful. Gentle. The last person in the room to raise his voice. He loved the outdoors. He loved good wine. He had no criminal history, no debts that anyone knew of, no one who wished him harm.
+> On August 31st, 2012, ten minutes after he clocks out, Yancy stops at a red light on his way home. A silver BMW pulls up right next to him. Yancy turns his head…
 >
-> That's what we know about Yancy Noll.
+> …and five shots are fired straight into his car.
 >
-> Except for one more thing.
+> The BMW runs the red light and disappears.
 >
-> On the evening of August 31st, 2012, about ten minutes after he left work, Yancy Noll was dead.
+> And the man driving it? He's a genius. Started college at twelve. Runs his own robotics company. And police will soon find out he's spent years teaching himself how to kill a total stranger… and get away with it.
+>
+> Spoiler: he doesn't. And what brings him down is almost embarrassing.
+
+[VISUAL: title card — STRANGER FILES / THE YANCY NOLL CASE]
 
 ---
 
-### 02_THE_RED_LIGHT (02:45 تا 05:45)
-[VISUAL: OpenStreetMap-style map, slow zoom to 15th Ave NE & NE 75th St · timestamp card "AUG 31, 2012 — 7:26 PM"]
+### 01_YANCY
+[VISUAL: Seattle streets, grocery store wine aisle, mountain trail]
 
-> It happened at around 7:26 p.m., at the intersection of 15th Avenue Northeast and Northeast 75th Street. A quiet residential crossing in north Seattle. Houses, trees, a stoplight.
+> So let's start with Yancy.
 >
-> Yancy's car stopped at the red light. A silver BMW Z4 convertible — top down, silver rims — pulled up next to him.
+> He's the wine steward at a QFC on Broadway, in Seattle's Capitol Hill. You come in looking for something for dinner, he's the guy who asks what you're cooking and walks you straight to the right bottle.
 >
-> Then came the shots. Five of them. They were fired from the driver's seat of the BMW, straight through its own closed passenger-side window. Yancy was hit multiple times in the head. He died almost instantly.
+> Outside of work, he's an outdoors guy. Trails, mountains, fresh air. Friends describe him as careful. Easygoing. The kind of person who'd rather walk away from an argument than win it.
 >
-> One of the bullets kept going. It tore into a nearby house and passed just feet from a ninety-two-year-old woman inside. Police would later recover that bullet from her home: nine millimeter.
+> No criminal record. No enemies. No drama.
 >
-> And then the BMW was gone — straight through the red light, at high speed.
-
-[VISUAL: pause — black frame, 2 seconds of silence]
-
-> To investigators, one detail stood out immediately. Firing through glass, from a car, at a target in another car — and landing shots to the head — is not something most people can do. Whoever did this had either been very lucky… or very well trained.
+> That's pretty much everything we know about Yancy Noll.
+>
+> Well… plus one more thing. On the evening of August 31st, 2012, he never made it home.
 
 ---
 
-### 03_WHAT_POLICE_HAD (05:45 تا 08:00)
-[VISUAL: three evidence cards appear one by one: "WITNESSES" · "A SKETCH" · "A SILVER BMW Z4"]
+### 02_THE_INTERSECTION
+[VISUAL: map zoom to 15th Ave NE & NE 75th St · card "7:26 PM"]
 
-> Two men nearby, Kevin Watts and Angjelo Rama, heard the gunfire and saw the car race away. Rama got a good look at the vehicle: a silver BMW convertible. Watts saw something even more valuable — the driver's face, in profile.
+> It's around 7:26 in the evening. Yancy is stopped at the light on 15th Avenue Northeast and 75th Street. Quiet neighborhood. Houses, trees, people walking dogs.
 >
-> Working with police, Watts helped create a sketch.
+> A silver BMW Z4 convertible rolls up beside him. Top down. Shiny silver rims. The kind of car you notice.
+>
+> And then — five shots.
+>
+> Now here's the first weird detail. The shooter doesn't get out. Doesn't lean over. Doesn't even roll down his own passenger window. He fires from the driver's seat, straight through his own closed window, into Yancy's car.
+>
+> Yancy is hit in the head, more than once. He dies almost instantly.
+>
+> One bullet misses. It flies into a house nearby and passes just feet away from a ninety-two-year-old woman sitting inside. She's okay. Police later dig the bullet out of her home. Nine millimeter.
+>
+> And the BMW? Gone. Straight through the red light.
 
-[VISUAL: the Seattle Police sketch, slow pan from hair to sunglasses]
+[VISUAL: black frame, 2 seconds silence]
 
-> A young man. Short, spiky dark hair. Sunglasses. A calm, almost expressionless profile.
+> Think about that for a second. Shooting through glass, from one car into another, and hitting someone in the head — that's not something people just… do. Either this guy got incredibly lucky, or he had practiced. A lot.
 >
-> So this was everything the Seattle Police Department had: a few witnesses, one pencil sketch, and a silver BMW Z4 somewhere in a city of more than six hundred thousand people.
->
-> They released the sketch to the public. And they waited.
+> Keep that in mind. It's going to matter.
 
 ---
 
-### 04_THE_CALL (08:00 تا 09:15)
-[VISUAL: phone on a desk, dim light · card "SEPT 14, 2012"]
+### 03_THE_CLUES
+[VISUAL: three cards appear: WITNESSES · SKETCH · SILVER Z4]
 
-> Two weeks passed. Then, on September 14th, a woman called the police. She had seen the sketch, she said — and she knew that face.
+> People nearby hear the shots and look up just in time to see the BMW take off.
 >
-> She gave them a name: Dinh Bowman. And an address — less than ten blocks from where Yancy Noll was killed.
+> One witness, Angjelo Rama, gets a good look at the car. Silver BMW convertible.
 >
-> When detectives pulled up a photo of Dinh Bowman, the resemblance was hard to ignore.
+> Another, Kevin Watts, sees something even better: the driver's face, from the side.
 >
-> But on paper, he was the least likely suspect in Seattle.
+> Watts sits down with police, and together they put together this sketch.
+
+[VISUAL: slow pan across the police sketch]
+
+> Spiky dark hair. Sunglasses. That blank, calm expression.
+>
+> So let's recap what Seattle police actually have. Some witnesses. One pencil drawing. And a silver BMW Z4… somewhere in a city of six hundred thousand people.
+>
+> That's it. That's the whole case.
+>
+> So they do the only thing they can. They put the sketch out there. News, flyers, everywhere. And they hope somebody, somewhere, recognizes that face.
 
 ---
 
-### 05_THE_GENIUS (09:15 تা 11:30)
-[VISUAL: slow pan over university campus, fencing silhouettes, engineering blueprints]
+### 04_THE_PHONE_CALL
+[VISUAL: phone on a kitchen table · card "SEPTEMBER 14"]
 
-> Dinh Bowman was twenty-nine years old. He had entered college at the age of twelve. As a teenager, he was a world-class fencer. He became an engineer and ran his own robotics company.
+> Two weeks go by. Nothing.
 >
-> In 2008 he married Jennifer Palm, a successful dentist. By every outside measure, they were a bright, accomplished, quiet couple.
+> Then, on September 14th, the phone rings. It's a woman. She says she's seen the sketch… and she's pretty sure she knows who it is.
+>
+> The name she gives them is Dinh Bowman. And his address? Less than ten blocks from the intersection where Yancy was killed.
+>
+> Detectives pull up a photo of Dinh Bowman. And, well… it's hard to argue with.
+>
+> But when they start digging into who this guy actually is, it makes no sense at all.
+
+---
+
+### 05_DINH
+[VISUAL: college campus, fencing silhouette, robotics blueprints]
+
+> Dinh Bowman is twenty-nine. And his résumé is ridiculous.
+>
+> He starts college at twelve. Twelve. As a teenager, he's a world-class fencer. He becomes an engineer and opens his own robotics company. In 2008, he marries Jennifer Palm, a successful dentist.
+>
+> Smart. Accomplished. Quiet. Nice house. Nice life.
+>
+> If you had to pick the least likely murderer in Seattle, he might be it.
 >
 > That's what we know about Dinh Bowman.
 >
-> Except for one more thing.
+> Well… plus one more thing.
 >
-> He owned a silver BMW Z4 convertible.
+> He drives a silver BMW Z4 convertible.
 
 ---
 
-### 06_THE_GARAGE (11:30 تا 13:15)
-[VISUAL: residential street at night, closed garage door · card "SEPT 21, 2012"]
+### 06_THE_GARAGE
+[VISUAL: residential street, closed garage door · card "SEPTEMBER 21"]
 
-> Detectives watched the house. The BMW was nowhere to be seen. Not on the street, not in the driveway. For days.
+> So police start watching his house. And here's the thing — the BMW isn't there. Not on the street, not in the driveway. Day after day.
 >
-> Then the garage door opened — and there it was. The car had been inside the entire time.
+> Until one day, the garage door opens… and there it is. It's been sitting in there the whole time. Hidden.
 >
-> On September 21st, police moved in. SWAT and homicide detectives served a warrant at the house on 25th Avenue Northeast. Dinh Bowman was arrested as he left home with his wife. The BMW was towed away for examination.
+> Now, why would you hide your car for three weeks?
 >
-> And the car started talking.
+> On September 21st, police move in. SWAT, homicide detectives, a warrant. Dinh is arrested as he's leaving the house with his wife, and the BMW gets towed away.
+>
+> And once investigators get a good look at that car, it basically starts confessing for him.
 
-[VISUAL: evidence cards]
+[VISUAL: evidence cards, one at a time]
 
-> The passenger-side window — the one the shots had been fired through — had recently been replaced. Detectives found small shards of glass still caught in the door frame.
+> The passenger-side window — remember, the one the shots went through? It's brand new. Recently replaced. And there are tiny shards of glass still stuck in the door frame.
 >
-> The garage smelled of fresh paint. The car's silver rims had been painted black.
+> The garage smells like fresh paint. Those shiny silver rims the witness remembered? They've been painted black.
 >
-> And all four tires had been swapped for cheaper ones. The original, expensive tires were later found hidden at his workshop.
+> All four tires have been swapped out for cheaper ones. And the original expensive tires? Later found hidden at his workshop.
 >
-> Someone had worked very hard to make this car look like a different car.
+> So let's be honest. This isn't a guy fixing up his car. This is a guy trying to turn his car into a different car.
 
 ---
 
-### 07_INTERROGATION (13:15 تا 15:30)
-[VISUAL: interrogation room still/footage]
+### 07_THE_INTERROGATION
+[VISUAL: interrogation room footage/still]
 
-> In the interrogation room, Dinh Bowman was calm. Almost relaxed. He made eye contact. He asked questions instead of answering them. And very quickly, he asked for a lawyer.
+> Now Dinh gets taken in for questioning. And if you've watched a lot of these cases, you'll notice something right away.
 >
-> In another room, detectives were talking to his wife. Jennifer did not appear calm. She told them about a trip the couple had taken to Portland, the day after the shooting — and a story about their car being broken into, which was why the window needed replacing.
+> He's calm. Like, weirdly calm. He keeps eye contact. He doesn't ramble. He asks the detectives questions instead of answering theirs. And pretty fast, he does the smartest thing a suspect can do: he asks for a lawyer.
 >
-> But receipts told a different story about the timing of that day. At one point, a detective's patience ran out.
+> Meanwhile, in another room, detectives are talking to his wife, Jennifer. And she's the complete opposite. Nervous. Avoiding eye contact.
+>
+> She tells them about a trip the two of them took to Portland, the day after the shooting. She says someone broke into the car, and that's why the window had to be replaced.
+>
+> Sounds reasonable. Except detectives check the receipts… and the timeline of that day doesn't quite line up with her story.
+>
+> And at one point, one of the detectives just loses it.
 
-[CLIP: 48 Hours / police interrogation footage of the detective confronting Jennifer — max 10–15 sec]
+[CLIP: 48 Hours / police interrogation — detective confronting Jennifer — max 10–15 sec]
 
-> It is important to be clear here: detectives believed Jennifer had helped cover up what happened. But prosecutors reviewed the case and decided not to charge her. She was never charged with any crime.
+> Now, I want to be really clear about this part. Detectives believed Jennifer helped cover things up. But prosecutors looked at the case and decided not to charge her. She was never charged with any crime.
 
 ---
 
-### 08_STUDENT_OF_MURDER (15:30 تا 18:30) ⭐ climax
-[VISUAL: dark screen, slow scroll of file names / book spines (generic, not real titles unless verified)]
+### 08_THE_COMPUTER ⭐
+[VISUAL: dark screen, slow scroll of folders]
 
-> Then investigators opened Dinh Bowman's computer. And the case changed completely.
+> So far, police have a car that's been disguised, a window that's been replaced, and a suspect who won't talk.
 >
-> Prosecutor Kristin Richardson would later describe what they found as "the equivalent of the Library of Congress on death."
+> What they don't have is a reason. Why would a guy like this shoot a total stranger?
 >
-> Books and articles about murder. A manual called "Arrest-Proof Yourself." Tutorials on how to draw a gun, aim, and fire through a car window at someone on the other side. Videos of Bowman himself — at a shooting range, and on a performance driving course.
+> And then they open his computer.
 >
-> And the searches didn't stop after the shooting. Detectives found that he had looked up how to remove gunshot residue. He had read news stories about the case. He had even visited a Facebook memorial page for Yancy Noll.
+> One of the prosecutors later called what they found "the equivalent of the Library of Congress on death." And honestly? That might be an understatement.
+>
+> Books and articles about murder. A manual called — and I'm not making this up — "Arrest-Proof Yourself."
+>
+> Tutorials on how to draw a gun, aim, and shoot through a car window at someone on the other side.
+>
+> Wait. Through a car window?
+>
+> Yeah. Remember that weird detail from the beginning? The shooter didn't roll his window down. He fired right through the glass. Exactly like the tutorial.
+>
+> And it keeps going. There are videos of Dinh himself at a shooting range. Videos of him on a driving course. This isn't a guy who snapped one evening. This is a guy who trained.
 
-[VISUAL: pause — 2 seconds]
+[VISUAL: pause, 2 seconds]
 
-> Among his belongings, investigators found a note: "Happy birthday to the best shooter in the wild west! Bang bang!"
+> And here's what really gets me. After the shooting, he's still on that computer. He looks up how to get rid of gunshot residue. He reads news stories about the case — about himself. And he visits a Facebook memorial page… for Yancy.
 >
-> Prosecutors now had their theory. This was not road rage. This was a man who had spent years preparing to commit the perfect murder of a stranger — and on August 31st, 2012, he decided it was time.
+> Let that sink in. He goes and looks at the page where Yancy's friends are posting about how much they miss him.
 >
-> Prosecutor Adrienne McCoy put it this way: it was "the fulfillment of a quest."
+> Oh, and one more thing police find. A little note that says: "Happy birthday to the best shooter in the wild west! Bang bang!"
 
 ---
 
-### 09_JAIL_CALLS (18:30 تا 19:30)
-[CLIP: 48 Hours jail call audio "Bunny… Snuggles" — max 10 sec, over a still of the jail exterior]
+### 09_THE_MOTIVE
+[VISUAL: the red light from the opening, slow push-in]
 
-> While he waited for trial, Bowman made hundreds of recorded phone calls to his wife. Investigators said they had rarely heard anything like them — pet names, baby talk, "Bunny" and "Snuggles."
+> So now prosecutors have their answer. And it's the scariest possible one.
 >
-> What they didn't hear, in any of them, was a single word about the man who had died.
+> They believe Dinh Bowman spent years preparing to commit the perfect murder. Not of someone he hated. Not for money. Just… a stranger. To see if he could. To see what it felt like.
+>
+> And on August 31st, 2012, a nice guy on his way home from work stopped at the wrong red light.
+>
+> One of the prosecutors, Adrienne McCoy, described it as "the fulfillment of a quest."
 
 ---
 
-### 10_TRIAL (19:30 تا 21:15)
-[VISUAL: courthouse exterior · card "NOV 2014"]
+### 10_JAIL_CALLS
+[CLIP: 48 Hours jail call audio — "Bunny… Snuggles" — max 10 sec]
 
-> The trial began in November 2014, more than two years after the shooting.
+> While Dinh waits for trial, he makes hundreds of phone calls to Jennifer from jail. And investigators say they've never heard anything quite like them.
 >
-> On the stand, Bowman told a new story. Yancy Noll, he said, had cut him off on the freeway, followed him aggressively, and at the red light, thrown a wine bottle at his head. Afraid Noll might have a gun, he fired first. Self-defense.
+> Pet names. "Bunny." "Snuggles." Baby talk. Over and over.
 >
-> But there were problems. If a wine bottle had really been thrown, it was the one piece of evidence that could have saved him — and by his own account, he threw it away. He never called the police. And when he was asked how a panicked man, supposedly not trying to kill anyone, landed shot after shot to the head, Bowman gave an answer that stunned the courtroom:
+> And not once — not in any of those calls — does he say a single word about the man he killed.
+
+---
+
+### 11_THE_TRIAL
+[VISUAL: courthouse · card "NOVEMBER 2014"]
+
+> The trial finally starts in November 2014. More than two years later.
+>
+> And when Dinh walks into that courtroom, he looks… different. Softer. Almost like a polite schoolboy. Which, by the way, is not unusual. A lot of defendants try to look as harmless as possible in front of a jury.
+>
+> Then he takes the stand, and tells a brand-new story.
+>
+> He says Yancy cut him off on the freeway. Followed him. Got aggressive. And at the red light, Yancy threw a wine bottle at his head. Dinh says he panicked, thought Yancy might have a gun, and fired first. Self-defense.
+>
+> Okay. Let's look at that for a second.
+>
+> If a wine bottle really hit you in the head, that bottle is the single best piece of evidence you have. It's literally the thing that proves your story. So what does a genius do with it?
+>
+> According to Dinh… he threw it away.
+>
+> He also never called the police. Never reported being attacked. Instead, he replaced his window, painted his rims, changed his tires, and hid his car.
+>
+> And then the prosecutor asks him the big question: if you were just panicking, if you weren't trying to kill anyone… how did you hit a man in the head, again and again, through a car window?
+>
+> And Dinh Bowman — the genius, the marksman — says:
 >
 > "Um… that surprised me."
 
 ---
 
-### 11_VERDICT (21:15 تا 22:15)
-[VISUAL: slow zoom out from the sketch · cards "DEC 2014 — GUILTY" · "JAN 2015 — 29 YEARS"]
+### 12_THE_VERDICT
+[VISUAL: slow zoom out from the police sketch · cards "DECEMBER 2014 — GUILTY" · "JANUARY 2015 — 29 YEARS"]
 
-> In December 2014, the jury found Dinh Bowman guilty of first-degree murder. Shortly after the verdict, he attempted suicide.
+> In December 2014, the jury finds Dinh Bowman guilty of first-degree murder. Not long after the verdict, he tries to take his own life.
 >
-> In January 2015, he was sentenced to twenty-nine years and one month in prison. His mother begged the judge to let her take his punishment instead. The judge was unmoved.
+> In January 2015, he's sentenced to twenty-nine years and one month in prison. His mother stands up in court and begs the judge to let her take the punishment instead. The judge doesn't budge.
 >
-> Jennifer Palm divorced him and started a new life.
+> Jennifer divorces him and starts over.
 >
-> Years of manuals. Hours of training videos. A car carefully disguised. And none of it mattered — because one witness remembered a face, one artist drew it, and one woman picked up the phone.
+> So think about it. Years of studying. Manuals. Training videos. Shooting ranges. Driving courses. A car he disguised piece by piece.
+>
+> And none of it mattered. Because one guy on the street remembered a face. And one woman saw a drawing on the news… and picked up the phone.
 
 ---
 
-### 12_OUTRO (22:15 تا 22:45)
-[VISUAL: the red light from the opening turns green · fade to black]
+### 13_OUTRO
+[VISUAL: the red light turns green · fade to black]
 
-> Yancy Noll was forty-two. He was driving home.
+> Yancy Noll was forty-two. He was just driving home.
 >
-> Do you believe this was road rage — or a thrill kill planned for years? Tell me in the comments.
+> So what do you think — was this really road rage? Or a thrill kill he'd been planning for years? Let me know in the comments.
 
 [VISUAL: end screen — Patty Hearst video + Subscribe]
 
 ---
 
 ## یادداشت‌های تولید
-- **فیلم‌های واقعی (CBS 48 Hours، KING 5):** فقط تکه‌های کوتاه (۳ تا ۱۵ ثانیه) در نقطه‌های [CLIP]، همیشه همراه روایت.
-- **طرح چهره‌ی پلیس سیاتل:** تصویر عمومی منتشرشده. چند بار استفاده شود (شروع، بخش ۳ و پایان) تا «موتیف» داستان شود.
-- **نقشه:** از OpenStreetMap (مجوز CC BY-SA). در Description بنویس: «Map data © OpenStreetMap contributors».
-- **عکس Yancy:** فقط اگر از منبع خبری کوتاه و محترمانه باشد. عکس صحنه‌ی جرم استفاده نشود.
+- **CLIPها:** فیلم بازجویی و تماس‌های زندان از CBS 48 Hours، فقط ۱۰ تا ۱۵ ثانیه، همیشه با روایت قبل و بعدش.
+- **طرح چهره‌ی پلیس:** در هوک، بخش ۳ و پایان تکرار می‌شود (موتیف).
+- **نقشه:** OpenStreetMap. در Description بنویس: «Map data © OpenStreetMap contributors».
 - **Jennifer:** جمله‌ی «never charged» حذف نشود.
+- **صدای ElevenLabs:** لحن گفتاری و کمی آرام (Stability حدود ۴۰ تا ۵۰٪). مکث بعد از «…» و قبل از جمله‌های مهم.
 EOF
-wc -w research/yancy-noll-script.md; git add -A && git commit -qm "Add original English script for Yancy Noll long video
-
-Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
-Claude-Session: https://claude.ai/code/session_01SyXH1D4uX4i4uXDKhV1h1w" && git push -q origin claude/youtube-viral-seo-rules-t1g9ga 2>&1 | tail -1
