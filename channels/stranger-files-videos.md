@@ -89,3 +89,5 @@
 - **واقعیت‌ها** (Wikipedia و Washington Post ۱۹۸۹ و Deseret News ۱۹۸۸): رهبر فرقه‌ی Church of the First Born of the Lamb of God. چند نفر را که «مرتد» می‌دانست به قتل رساند یا دستور قتلشان را داد، از جمله برادرش Joel LeBaron (۱۹۷۲) و Rulon Allred (۱۹۷۷). در ۱۹۸۱ در زندان یوتا مرد. قبل از مرگ «کتاب قوانین الهی» (Book of the New Covenants) با فهرست «خائنان» نوشت. **قتل‌های ساعت ۴ (4 O'Clock murders):** در ۲۷ ژوئن ۱۹۸۸ پیروانش (به رهبری Heber و Aaron LeBaron) در یک ساعت، در سه جای تگزاس، ۴ نفر را کشتند (Mark و Duane Chynoweth، Jennifer ۸ ساله و Ed Marston). Jacqueline LeBaron در ۲۰۱۰ دستگیر شد. به این فرقه‌ها در مجموع بیش از ۲۰ مرگ نسبت داده می‌شود.
 - **عنوان:** Ervil LeBaron: The Cult Leader Who Killed From Beyond the Grave
 - **طول هدف:** ۲۲ تا ۲۸ دقیقه
+
+**۲۷ سپتامبر، ساعت ۰۶:۳۰:** کانال ۲۶ سابسکرایبر. شورت Hearst (نسخه‌ی ۱): **۸۵۵ بازدید، ۱۳ لایک و ۴ کامنت** در ۶.۵ ساعت. شورت Kemper: **۱.۲ هزار بازدید، ۳۷ لایک و ۸ کامنت**. ویدیوی بلند Hearst: ۴۲ بازدید و ۱ لایک. صاحب کانال نگران است که لایک‌های آشنایان ثبت نشده. احتمالاً تأخیر نمایش آمار است، یا یوتیوب لایک‌های مشکوک را فیلتر کرده، یا تیک «Show how many viewers like this video» خاموش است.
