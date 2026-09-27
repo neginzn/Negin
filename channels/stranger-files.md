@@ -231,3 +231,42 @@ New case every week. Subscribe and open the next file… if you dare.
 - متن: کم، ساده، با **Fade** آرام (مثلاً فقط تاریخ و مکان با فونت ماشین‌تحریری)، **یا** فقط زیرنویس
 - رنگ: سیاه‌وسفید یا کم‌رنگ، کنتراست ملایم، نویز فیلم خیلی کم، Vignette ملایم
 - ریتم: آرام و سنگین. تصویر فرصت دارد «دیده شود»
+
+---
+
+## ۱۲. دستورالعمل سئوی کانال (به‌روزرسانی ۲۷ سپتامبر ۲۰۲۶) ⭐
+منابع: YouTube Help (تگ‌ها نقش کمی دارند و بیشتر برای غلط املایی‌اند؛ بیش از ۱۵ هشتگ یعنی همه نادیده گرفته می‌شوند)، OutlierKit، touhfa.art و hashtagtools (۲۰۲۶). جستجوی یوتیوب در ۲۰۲۶ **معنایی** است: کلمه‌ی دقیق کمتر مهم است و ارتباط، نیت جستجو و اعتبار (E-E-A-T) مهم‌ترند.
+
+### عنوان
+- **اسم پرونده یا شخص همیشه در عنوان**، ترجیحاً اول: `[Name]: [Hook]`. مردم True Crime را **با اسم** جستجو می‌کنند (شورت Wesson از جستجو بازدید گرفت).
+- زیر ۶۰ کاراکتر. هوک و اسم با هم. تامبنیل چیزی دیگر بگوید.
+- الگوهای جستجوی این حوزه: `[Name] case`، `what happened to [Name]`، `[Name] documentary`، `[Name] interview`، `the disturbing case of [Name]`
+
+### Description (۱۵۰ کاراکتر اول = مهم‌ترین بخش)
+1. **جمله‌ی اول:** اسم کامل + سال + مکان + چه اتفاقی افتاد (طبیعی، نه لیست کلمه)
+2. پاراگراف دوم: زمینه + اسم‌های مرتبط (گروه، قربانی، شهر، اصطلاحات مثل Stockholm Syndrome)
+3. فصل‌ها با اسم‌های کلیدی (فقط برای ویدیوی بلند)
+4. **Sources** (اعتبار + E-E-A-T) و Photo credits در صورت نیاز
+5. یک سؤال برای کامنت
+6. **۳ هشتگ:** `#[NameNoSpaces] #TrueCrime #[niche]`. #StrangerFiles اختیاری است (جستجو ندارد)
+- ❌ لیست کلمه‌کلیدی تکراری ته Description (keyword stuffing) نگذار.
+
+### تگ‌ها (نقش کم، ولی درست)
+- **۵ تا ۱۰ تگ متمرکز**، نه ۱۵ تا ۲۵ تگ عمومی
+- ترتیب: اسم کامل ← اسم کوتاه یا لقب ← **غلط‌های املایی رایج** ← عبارت long-tail ← یک یا دو تگ عمومی (true crime)
+- ❌ اسم آدم‌ها یا کانال‌های دیگر، و تگ‌هایی مثل unsolved برای پرونده‌ی حل‌شده
+
+### سایر
+- **زیرنویس دقیق (SRT)** آپلود شود. یوتیوب گفتار و رونوشت را برای جستجو می‌خواند.
+- **پلی‌لیست‌های کلمه‌کلیدی‌دار**، مثلاً «Kidnapping Cases»، «Serial Killer Interviews»، «Cold War Mysteries»
+- شورت‌ها: هشتگ #Shorts لازم نیست. عنوان کوتاه **با اسم پرونده**. Related video به ویدیوی بلند.
+- احترام به قربانیان و ذکر منبع = اعتماد و کیفیت (روند ۲۰۲۶: محتوای «forensic-first» و اخلاقی)
+
+### اصلاحات پیشنهادی ویدیوهای فعلی
+| ویدیو | عنوان فعلی | عنوان پیشنهادی |
+|---|---|---|
+| بلند Hearst | The Strangest Bank Robbery Ever — Patty Hearst: Kidnapped… (بیش از ۶۰ کاراکتر، اسم وسط عنوان) | Patty Hearst: The Kidnapped Heiress Who Robbed a Bank |
+| شورت Hearst | Kidnapped Heiress Caught Robbing Bank on Camera (بدون اسم) | Patty Hearst Caught Robbing a Bank on Camera |
+| شورت Kemper | At 15, He Killed His Grandparents. Then It Got Worse. (بدون اسم) | Edmund Kemper: At 15 He Killed His Grandparents |
+| شورت Karamarkov | The Serial Killer Who Thought He Was Raskolnikov (بدون اسم) | Viktor Karamarkov: The Real-Life Raskolnikov |
+| بلند Raccoon City | The Real Raccoon City Was in the Soviet Union (در حال تست) | فعلاً بماند. کلمات Sverdlovsk و anthrax در Description باشند |
