@@ -287,4 +287,3 @@
 - **نقشه:** OpenStreetMap. در Description بنویس: «Map data © OpenStreetMap contributors».
 - **Jennifer:** جمله‌ی «never charged» حذف نشود.
 - **صدای ElevenLabs:** لحن گفتاری و کمی آرام (Stability حدود ۴۰ تا ۵۰٪). مکث بعد از «…» و قبل از جمله‌های مهم.
-EOF
