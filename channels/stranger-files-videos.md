@@ -100,3 +100,8 @@
 - **واقعیت‌ها** (Seattle Times، CBS 48 Hours، KIRO 7 و Capitol Hill Seattle): ۳۱ اوت ۲۰۱۲، محله‌ی Capitol Hill سیاتل. Yancy Noll، مسئول بخش شراب فروشگاه QFC در Broadway و بدون هیچ سابقه‌ی کیفری، پشت چراغ قرمز داخل ماشینش با ۵ گلوله کشته شد. تیرانداز از یک BMW شلیک کرد. Dinh Bowman، که CBS او را «boy genius» (نابغه‌ی کودک) خواند، مقتول را اصلاً نمی‌شناخت. دادستانی گفت او «student of murder» بود و برای اینکه بفهمد کشتن چه حسی دارد، قربانی تصادفی انتخاب کرد (thrill killing). Bowman ادعای دفاع از خود کرد. دسامبر ۲۰۱۴ هیئت منصفه بعد از یک روز مشورت او را به قتل درجه‌ی یک محکوم کرد. ژانویه‌ی ۲۰۱۵ به ۲۹ سال و یک ماه زندان محکوم شد (زندان Clallam Bay).
 - **عنوان پیشنهادی:** Yancy Noll: Killed at a Red Light by a "Student of Murder"
 - **طول هدف:** ۲۰ تا ۲۵ دقیقه
+
+## شورت ۷: Joshua Scolman (ساخته‌شده ۲۷ سپتامبر ۲۰۲۶، ۶۱ ثانیه)
+- **واقعیت‌ها** (FOX 11 و AOL): اسم درست **Joshua Scolman** و **Timothy Nabors Jr.** (۲۵ ساله) است. ۲۱ اکتبر ۲۰۲۲ در Green Bay Correctional Institution (ویسکانسین) او را با چاقوی دست‌ساز کشت و به Lamonte Washington حمله کرد. انگیزه: رنگ پوست قربانی (hate crime). Scolman قبلاً برای تصادف مستی با ۳ کشته زندانی بود. حکم: حبس ابد بدون آزادی مشروط + ۲۵ سال.
+- **ساخت:** منبع ریلز Crime Tales بود. **فقط فوتیج و صدای دادگاه** نگه داشته شد (پدر، Scolman «I'm a weapon» و قاضی). راوی آن‌ها و لوگو و نوار عنوانشان حذف شد. صدای راوی خودمان با edge-tts (ChristopherNeural) در ۵ بخش. زیرنویس تنها متن روی تصویر است، بدون متن اضافه. موسیقی آمبینت ساختگی با ducking. بدون ترنزیشن و افکت. بلندی −14 LUFS. حجم ۲۷ مگابایت. ابزار: tools/build_short_from_clip.py.
+- **عنوان:** Joshua Scolman: "I'm a Weapon" — Killer Shows No Remorse
