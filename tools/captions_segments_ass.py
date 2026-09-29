@@ -3,20 +3,21 @@ import json, re
 m = WhisperModel('small.en', device='cpu', compute_type='int8')
 tr = json.load(open('tr.json'))
 build = open('build.py').read()
-exec(build[build.index('SEG = ['):build.index(']\ndef vf') + 1])
+exec(build[build.index('CROP = {'):build.index(']\ndef vf') + 1])
 parts = json.load(open('parts.json'))
-words, off = [], 0.0
+words, off, bounds = [], 0.0, []
 for (a, _), (p, d, k) in zip(SEG, parts):
     if isinstance(a, tuple):
         _, s, e = a
         for seg in tr:
             for ws, we, w in seg['w']:
-                if ws >= s - 0.05 and we <= e + 0.1:
+                if ws >= s - 0.05 and ws < e - 0.05:
                     words.append((w.strip(), off + ws - s, off + min(we, e) - s))
     else:
-        segs, _ = m.transcribe(a, word_timestamps=True, initial_prompt="Ali Abulaban, Ana, Rayburn Barron, TikTok, Scarface, San Diego.")
+        segs, _ = m.transcribe(a, word_timestamps=True, initial_prompt="Aileen Wuornos, Florida, Richard Mallory.")
         words += [(w.word.strip(), off + w.start, off + w.end) for sg in segs for w in sg.words]
     off += d
+    bounds.append(off)
 W = []
 i = 0
 while i < len(words):
@@ -25,11 +26,11 @@ while i < len(words):
         W += [('be', w[1], w[2]), ('excused.', words[i+1][1], words[i+1][2])]; i += 2; continue
     if lw == 'cold,' and i + 1 < len(words) and words[i+1][0].lower() == 'blooded':
         W.append(('cold-blooded', w[1], words[i+1][2])); i += 2; continue
-    W.append((w[0].replace('cheap', 'cheat').replace('Anna', 'Ana'), w[1], w[2])); i += 1
+    W.append((w[0].replace('Prince', 'prints').replace('ilene', 'Aileen').replace('warnose', 'Wuornos').replace('rock', 'Rock'), w[1], w[2])); i += 1
 words = W
 chunks, cur = [], []
 for w in words:
-    if cur and (len(cur) >= 3 or w[1] - cur[-1][2] > 0.4 or cur[-1][0].endswith(('.', '?', '!', ','))):
+    if cur and (any(cur[-1][1] < b <= w[1] + 0.05 for b in bounds) or len(cur) >= 3 or w[1] - cur[-1][2] > 0.4 or cur[-1][0].endswith(('.', '?', '!', ','))):
         chunks.append(cur); cur = []
     cur.append(w)
 if cur: chunks.append(cur)
