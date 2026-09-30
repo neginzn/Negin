@@ -1,20 +1,20 @@
 from faster_whisper import WhisperModel
 import json, re
 m = WhisperModel('small.en', device='cpu', compute_type='int8')
-tr = json.load(open('tr.json'))
+TR = {'src.mp4': json.load(open('tr.json')), 'n4.mp4': json.load(open('n4.json')), 'n6.mp4': json.load(open('n6.json'))}
 build = open('build.py').read()
-exec(build[build.index('CROP = {'):build.index(']\ndef vf') + 1])
+exec(build[build.index('R = '):build.index(']\ndef vf') + 1])
 parts = json.load(open('parts.json'))
 words, off, bounds = [], 0.0, []
 for (a, _), (p, d, k) in zip(SEG, parts):
     if isinstance(a, tuple):
-        _, s, e = a
-        for seg in tr:
+        _, f, s, e, _c = a
+        for seg in TR[f]:
             for ws, we, w in seg['w']:
                 if ws >= s - 0.05 and ws < e - 0.05:
                     words.append((w.strip(), off + ws - s, off + min(we, e) - s))
     else:
-        segs, _ = m.transcribe(a, word_timestamps=True, initial_prompt="Aileen Wuornos, Florida, Richard Mallory.")
+        segs, _ = m.transcribe(a, word_timestamps=True, initial_prompt="Sade Robinson, Maxwell Anderson, Milwaukee.")
         words += [(w.word.strip(), off + w.start, off + w.end) for sg in segs for w in sg.words]
     off += d
     bounds.append(off)
@@ -26,6 +26,8 @@ while i < len(words):
         W += [('be', w[1], w[2]), ('excused.', words[i+1][1], words[i+1][2])]; i += 2; continue
     if lw == 'cold,' and i + 1 < len(words) and words[i+1][0].lower() == 'blooded':
         W.append(('cold-blooded', w[1], words[i+1][2])); i += 2; continue
+    if w[0].startswith('-') and W:
+        p = W.pop(); W.append((p[0] + w[0], p[1], w[2])); i += 1; continue
     W.append((w[0].replace('Prince', 'prints').replace('ilene', 'Aileen').replace('warnose', 'Wuornos').replace('rock', 'Rock'), w[1], w[2])); i += 1
 words = W
 chunks, cur = [], []
