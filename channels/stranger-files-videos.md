@@ -163,3 +163,9 @@
 - **⚠️ تاریخ حکم:** اسکریپت «December 9th» گفته بود، ولی منابع محلی ۱۱ دسامبر ۲۰۱۴ را می‌گویند. به صاحب کانال گفته شد اصلاح کند (معلوم نیست اعمال شده یا نه).
 - **درس:** قبل از آپلود ویدیوی بلند، نسخه‌ی نهایی کامل چک شود. شروع کار ساعت حدود ۲۰ شب بود و آپلود ۸ صبح.
 - **۱ اکتبر، ساعت ۱۱:۴۶ (حدود ۴ ساعت بعد از انتشار):** عنوان نهایی «His Genius Got Him Caught | Dinh Bowman». طول ویدیو **۱۲:۳۴**. **۱۶ بازدید و ۲.۷ ساعت تماشا**، یعنی حدود ۱۰ دقیقه برای هر بیننده (حدود ۸۰٪ از ویدیو، بهترین عدد کانال). Hearst در ۳ ساعت اول ۱۱ بازدید و ۱.۲ ساعت داشت. Notices بدون Claim.
+
+## شورت ۱۲: Dinh Bowman / Jennifer Palm (ساخته‌شده ۱ اکتبر ۲۰۲۶، ۵۲ ثانیه)
+- برای هدایت بیننده به ویدیوی بلند Bowman (با Related video).
+- **ثانیه‌ی ۰:** بازجویی Jennifer: «Have you heard of any murders within a few blocks of your house?» «I'm not sure.» «It's a yes or no question.» «I'm not sure.»
+- روایت (Andrew، rate +8%) ← Bowman لم‌داده ← «paint smell... Do you know anything that goes on in your house?» ← BMW و رینگ‌های رنگ‌شده ← «your honesty right now is paramount» ← «He got 29 years. She was never charged.»
+- **ملاحظه‌ی حقوقی:** Jennifer هرگز متهم نشد. این در شورت صریح گفته شده و هیچ ادعایی علیه او نیست.
