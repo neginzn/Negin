@@ -187,3 +187,10 @@
 1. **Delphi / Richard Allen (پیشنهاد اول):** دادگاه تجدیدنظر ایندیانا در ۲۱ سپتامبر ۲۰۲۶ جلسه‌ی شفاهی برگزار کرد. یکی از قضات به دادستانی گفت «you protected him into psychosis». موضوع اعتراض اعترافات Allen در انزوای زندان است. رأی هنوز صادر نشده. فوتیج: ویدیوی «Bridge Guy»، کنفرانس‌های خبری، دادگاه و جلسه‌ی تجدیدنظر. در autocomplete عبارت «richard allen wife interrogation» دیده شد. پرونده دو طرف دارد، ولی ادعای بی‌گناهی نکنیم و هر دو طرف را منصفانه بگوییم.
 2. **Gilgo Beach / Rex Heuermann:** در آوریل ۲۰۲۶ اعتراف کرد (۷ قتل و اعتراف به قتل هشتم) و در ژوئن ۲۰۲۶ به حبس ابد محکوم شد. «From teary denial to guilty plea». پایان بسته دارد.
 3. **Menendez:** جلسه‌ی آزادی مشروط به فوریه یا مارس ۲۰۲۷ جلو افتاد. خیلی معروف است، ولی بعد از سریال Netflix رقابت زیادی دارد.
+- **بررسی دوباره‌ی Delphi (۲ اکتبر):**
+  - **autocomplete:** «delphi murders update» اولین پیشنهاد است و «delphi murders update today» هم هست، یعنی تقاضای فعلی برای خبر تازه. «richard allen appeal» دومین پیشنهاد است. این‌ها هم آمدند: «richard allen interrogation»، «richard allen wife interview»، «abby and libby on bridge full video».
+  - **مقایسه:** Gilgo («rex heuermann trial day 1») و Menendez (Netflix، خیلی اشباع) چنین تقاضای «update»ی ندارند.
+  - **ویدیوی کامل Bridge Guy (۴۳ ثانیه):** از ۱۲ مارس ۲۰۲۵ عمومی است و رسانه‌ها (CNN، WTHR، Oxygen) پخشش کرده‌اند.
+  - **رقابت:** مستندهای HBO و Hulu و Prime هم هست. یعنی پرونده خیلی معروف است ولی رقابت دارد.
+  - ⚠️ قربانیان ۱۳ و ۱۴ ساله‌اند. عکس‌های نشت‌کرده‌ی صحنه‌ی جرم و جزئیات خشن ممنوع است. لحن محترمانه باشد.
+  - **زاویه:** update و appeal در عنوان بیاید.
