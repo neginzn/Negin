@@ -56,3 +56,27 @@
 - نمای بیرونی ساختمان Indiana State House
 
 برای این‌ها از B-roll پل و جنگل استفاده کن.
+
+## بسته‌ی ۲: B-roll اضافه (بی‌صدا، ۲۹ کلیپ، حدود ۳ دقیقه)
+منبع: مستند «Inside the Search for a Killer» (WNDU، ۲۰۲۲) و گزارش‌های دادگاه WNDU و 21Alive.
+| فصل | فایل | کجا استفاده شود |
+|---|---|---|
+| CH 2 | `BROLL_CH02_delphi_downtown`، `BROLL_CH02_delphi_water_tower` | «Delphi, Indiana, a small town…» |
+| CH 2 | `BROLL_CH02_trail_parking_sign`، `BROLL_CH02_monon_bridge_sign`، `BROLL_CH02_trail_path`، `BROLL_CH02_trail_walk` | «…drops them off at the trail. They walk toward the Monon High Bridge…» |
+| CH 2 | `BROLL_CH02_bridge_boards_2` | «…wide gaps between the boards.» |
+| CH 2 | `BROLL_CH02_missing_poster`، `BROLL_CH02_woods_search_police`، `BROLL_CH02_police_walk_woods` | «…the families start searching…» |
+| CH 2 | `BROLL_CH02_police_tape_trail` | «…found in the woods near the creek.» |
+| CH 2/10 | `BROLL_CH02_justice_for_libby_abby_sign` | تابلوی «Justice for Libby and Abby» در شهر |
+| CH 3 | `BROLL_CH03_presser_2017` | «Police release the image and the audio…» |
+| CH 3 | `BROLL_CH03_fbi_posters` | «Thousands of tips come in.» |
+| CH 3 | `BROLL_CH03_old_sketch_2017`، **`BROLL_CH03_both_sketches`** | «Then two sketches… nothing alike.» ✅ طرح قدیمی پیدا شد. |
+| CH 3/6 | `BROLL_CH03_bridge_guy_walking_2` | Bridge Guy (بی‌صدا) |
+| CH 4 | `BROLL_CH04_sheriff_office`، `BROLL_CH04_police_car_delphi_street` | «…marked "cleared"… sits there. For five years.» و «Investigators go back to him.» |
+| CH 4 | `BROLL_CH04_allen_mugshot_2`، `BROLL_CH04_allen_escorted_2` | «His name is Richard Allen…» و «…is arrested.» |
+| CH 6 | `BROLL_CH06_courthouse_exterior`، `BROLL_CH06_courtroom_empty` | «The judge didn't allow it in front of the jury.» |
+| CH 7 | `BROLL_CH07_judges_bench`، `BROLL_CH07_judges_bench_2` | «The trial finally begins…» |
+| CH 7 | `BROLL_CH07_courthouse_crowd`، `BROLL_CH07_courthouse_crowd_2` | «November 11th: guilty on all counts.» (مردم جلوی دادگاه) |
+| CH 10 | `BROLL_CH10_girls_photos`، `BROLL_CH10_girls_photo_long` | «…two families are still waiting.» |
+
+**جمع کل تصویر:** حدود ۴ دقیقه B-roll بی‌صدا، به‌اضافه‌ی ۴.۶ دقیقه کلیپ با صدا که تصویرشان را بی‌صدا هم می‌شود دوباره استفاده کرد (بازجویی و دادگاه). برای ۹.۵ دقیقه روایت با شات‌های ۳ تا ۵ ثانیه‌ای کافی است. بعضی شات‌ها را با زوم آهسته یا اسلوموشن تکرار کن.
+⚠️ ویدیوهای زندان Westville صحنه‌های خیلی صریح و خشن دارند (برهنگی و آسیب به خود). عمداً استفاده نشد.
