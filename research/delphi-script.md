@@ -1,4 +1,4 @@
-# Delphi — اسکریپت صاحب کانال، نسخه‌ی ۲ (با اصلاحات واقعیت و جای کلیپ‌ها، ۳ اکتبر ۲۰۲۶)
+# Delphi — اسکریپت صاحب کانال، نسخه‌ی ۳ (۲ فصل طولانی‌تر و ۱ صحنه‌ی بازجویی) (با اصلاحات واقعیت و جای کلیپ‌ها، ۳ اکتبر ۲۰۲۶)
 
 > تغییرات نسبت به نسخه‌ی صاحب کانال با ✏️ در جدول پایین فایل آمده. 🎬 = جای کلیپ واقعی.
 
@@ -16,20 +16,26 @@ On that phone, police find a few seconds of video. A man walking behind the girl
 🎬 [Bridge Guy video — "Guys… down the hill."]
 Police release the image and the audio to the whole country, and the internet gives him a name: Bridge Guy.
 🎬 [police press conference, 2017]
-Thousands of tips come in. Then two sketches: one of an older man, and later, a completely different one of a much younger man. Nobody understands why they look nothing alike. Months pass, then years. Five years go by, and Bridge Guy is still just a shadow on a bridge.
+Thousands of tips come in. Then two sketches: one of an older man, and later, a completely different one of a much younger man. Nobody understands why they look nothing alike.
+April 2019. Two years in, the head of the Indiana State Police steps up to the microphone, and he talks straight to the killer.
+🎬 [press conference, April 22nd, 2019 — Doug Carter: "We believe you are hiding in plain sight."]
+He says police believe this man is from Delphi, that he lives there, or works there, or visits all the time. Remember that line. Because it turns out he was right. Months pass, then years. Five years go by, and Bridge Guy is still just a shadow on a bridge.
 
 CH 4 — The File in the Wrong Place · 3:30
 And here's where this case turns. Because Bridge Guy wasn't missing. He was in the file the whole time.
 Three days after the murders, a local man meets a conservation officer in a grocery store parking lot and tells him, on his own, that he was on that trail that afternoon. He says he walked toward the old bridge, sometime between 1:30 and 3:30, and that he passed three girls on the way. The officer writes it down, the note gets marked "cleared," and then it just sits there. For five years.
 His name is Richard Allen. He works at the CVS in town, and he lives a few minutes away.
-In 2022, a volunteer going through old files finds that note, and investigators go back to him. That's what we know about Richard Allen. Plus one more detail. He owns a .40 caliber pistol. And at the crime scene, between the girls, police had found one unfired .40 round. The state's expert says it was cycled through his gun.
+In 2022, a volunteer going through old files finds that note, and the sheriff reads one line again and again. Three girls. Because that afternoon, three teenage girls really were on that trail, and they had passed a man. Years later, one of them would sit in court and say, "That was the man I had waved at." Nobody outside the investigation knew about those three girls. So how did Allen?
+And notice the time. Allen says he was there from 1:30 to 3:30. Libby's video was recorded at 2:13. Right in the middle.
+Investigators go back to him. That's what we know about Richard Allen. Plus one more detail. He owns a .40 caliber pistol. And at the crime scene, between the girls, police had found one unfired .40 round. The state's expert says it was cycled through his gun.
 October 2022. Richard Allen is arrested.
 🎬 [arrest press conference, October 31st, 2022]
 Bridge Guy finally has a name. Or does he?
 
 CH 5 — Thirteen Months Alone · 5:15
-Before his arrest, Allen sits down with investigators, and he tells them he didn't do it. Watch how calm he is.
-🎬 [interrogation, October 2022 — Allen denies]
+October 13th, 2022. Allen sits down with investigators, and right away they tell him he's free to leave at any time. That's not kindness. It's a technique. If a man is free to go and still chooses to stay, everything he says counts. And he stays. He admits he was on that trail. But the moment they push, he gets defensive.
+🎬 [interrogation, October 13th, 2022]
+And notice what he says. Not "I didn't do it." He says, "I don't want to be associated with this thing any more than everyone else does." Then, when the pressure keeps coming, he tells them: arrest me, or take me home.
 After the arrest, he isn't sent to a local jail. He's held, for his own safety, in a maximum-security prison, in solitary confinement, for 13 months. And inside that cell, something changes. His lawyers say he slips into psychosis. And during that time, he starts confessing. To his wife on the phone, to his mother, to people around him. Dozens of times.
 🎬 [prison phone call — confession]
 And notice the contrast. Outside, a quiet pharmacy worker who denies everything. Inside, a man confessing again and again. So which one is the real Richard Allen? That's the question this whole appeal is about.
@@ -75,3 +81,8 @@ So tell me: was this trial fair? Write it in the comments. And when the ruling c
 - **جای ۷ کلیپ** 🎬 (بازجویی و تماس تلفنی در فصل ۵).
 - **پایان احساسی:** برگشت به Libby و دکمه‌ی record.
 - چند جمله‌ی خیلی کوتاه با ویرگول به هم وصل شد تا در ElevenLabs مکث کمتری بیفتد.
+
+## اضافه‌های نسخه‌ی ۳ (برای رسیدن به حدود ۱۲ تا ۱۳ دقیقه)
+- **فصل ۳:** کنفرانس خبری ۲۲ آوریل ۲۰۱۹. Doug Carter گفت «We believe you are hiding in plain sight» و گفت قاتل اهل دلفی است، آنجا کار می‌کند یا زیاد آنجا می‌رود (WFYI، AJC). بعداً معلوم شد Allen در دلفی کار می‌کرد.
+- **فصل ۴:** «سه دختر». Liggett گفت «I wasn't aware anyone had seen three girls on the trail that day». شاهد Railey Voorhies گفت «That was the man I had waved at». ویدیو ساعت ۲:۱۳ گرفته شد و Allen گفت بین ۱:۳۰ و ۳:۳۰ آنجا بوده (WLFI، GMA).
+- **فصل ۵:** بازجویی ۱۳ اکتبر ۲۰۲۲. جمله‌ی «You were always free to leave» (Fox59، WANE). Allen گفت «I don't want to be associated with this thing any more than everyone else does» (WWMT). جمله‌ی «Arrest me or take me home» را WDTN نقل کرده. **قبل از ادیت، در ویدیوی بازجویی چک شود که دقیقاً همین را گفته.**
