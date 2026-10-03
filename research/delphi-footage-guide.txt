@@ -1,0 +1,166 @@
+# Delphi — فوتیج به ترتیب اسکریپت
+فایل‌ها شماره دارند (۰۰۱ تا 072). به همین ترتیب در CapCut بچین. AUDIO = صدای واقعی دارد. mute = بی‌صدا، زیر صدای راوی.
+
+## CH 1
+001  September 21st, 2026. A courtroom inside the Indiana State House, three judges.
+     → CH01_001_mute_appeal_three_judges.mp4
+002  On the other, the lawyers of a man serving 130 years for killing two girls.
+     → CH01_002_mute_allen_mugshot_2.mp4
+003  The prosecutor explains why Allen was kept alone in a cell for more than a year…
+     → CH01_003_mute_STATE_confessions_lucid.mp4
+004  🎬 …says five words. (صدای قاضی: You protected him into psychosis)
+     → CH01_004_AUDIO_JUDGE_you_protected_him_into_psychosis.mp4
+005  For nine years, this case has been one of the most famous in America.
+     → CH01_005_mute_fbi_posters.mp4
+006  To understand why, we have to go back to a bridge.
+     → CH01_006_mute_monon_bridge_aerial.mp4
+
+## CH 2
+007  February 13th, 2017. Delphi, Indiana…
+     → CH02_007_mute_delphi_water_tower.mp4
+008  …a small town where most people know each other.
+     → CH02_008_mute_delphi_downtown.mp4
+009  Abby Williams is 13, Libby German is 14, and they're best friends.
+     → CH02_009_mute_abby_libby_photo.mp4
+010  That afternoon, Libby's older sister drops them off at the trail.
+     → CH02_010_mute_trail_parking_sign.mp4
+011  They walk toward the Monon High Bridge…
+     → CH02_011_mute_monon_bridge_sign.mp4
+012  …an old railroad bridge high above the creek…
+     → CH02_012_mute_trail_walk.mp4
+013  …with wide gaps between the boards.
+     → CH02_013_mute_bridge_boards.mp4
+014  Libby takes a photo of Abby on the bridge and posts it. That's the last thing anyone hears from them.
+     → CH02_014_mute_libby_phone_video_bridge.mp4
+015  When nobody shows up at pickup time, the families start searching…
+     → CH02_015_mute_missing_poster.mp4
+016  (ادامه‌ی همان جمله)
+     → CH02_016_mute_woods_search_police.mp4
+017  …and the next day, the girls are found in the woods near the creek.
+     → CH02_017_mute_police_tape_trail.mp4
+018  That's everything the town knows. Well, almost everything.
+     → CH02_018_mute_girls_photo_2.mp4
+019  Because Libby's phone was still recording.
+     → CH02_019_mute_libby_phone_video_bridge.mp4
+
+## CH 3
+020  On that phone, police find a few seconds of video. A man walking behind the girls… head down.
+     → CH03_020_mute_bridge_guy_walking_2.mp4
+021  🎬 And a voice. Three words. (صدای واقعی: Guys… down the hill)
+     → CH03_021_AUDIO_BRIDGE_GUY_short_one_line.mp4
+022  Police release the image and the audio to the whole country… Bridge Guy.
+     → CH03_022_mute_presser_2017.mp4
+023  Thousands of tips come in.
+     → CH03_023_mute_fbi_posters.mp4
+024  Then two sketches: one of an older man…
+     → CH03_024_mute_old_sketch_2017.mp4
+025  …and later, a completely different one of a much younger man.
+     → CH03_025_mute_young_sketch_2019.mp4
+026  Nobody understands why they look nothing alike.
+     → CH03_026_mute_both_sketches.mp4
+027  April 2019. Two years in, the head of the Indiana State Police steps up to the microphone…
+     → CH03_027_mute_young_sketch_presser.mp4
+028  🎬 …he talks straight to the killer. (صدای Carter: We believe you are hiding in plain sight)
+     → CH03_028_AUDIO_CARTER_hiding_in_plain_sight.mp4
+029  🎬 He says police believe this man is from Delphi… (صدای Carter: …or works here)
+     → CH03_029_AUDIO_CARTER_from_delphi_works_here.mp4
+030  Remember that line. Because it turns out he was right.
+     → CH03_030_mute_police_car_delphi_street.mp4
+031  Months pass, then years. Five years go by, and Bridge Guy is still just a shadow on a bridge.
+     → CH03_031_mute_BRIDGE_GUY_video_with_voice.mp4
+
+## CH 4
+032  And here's where this case turns… He was in the file the whole time.
+     → CH04_032_mute_sheriff_office.mp4
+033  Three days after the murders, a local man meets a conservation officer… passed three girls on the way.
+     → CH04_033_mute_trail_path.mp4
+034  The officer writes it down, the note gets marked "cleared,"… For five years.
+     → CH04_034_mute_sheriff_office.mp4
+035  His name is Richard Allen. He works at the CVS in town, and he lives a few minutes away.
+     → CH04_035_mute_allen_mugshot.mp4
+036  In 2022, a volunteer going through old files finds that note… Three girls.
+     → CH04_036_mute_justice_for_libby_abby_sign.mp4
+037  Years later, one of them would sit in court and say, "That was the man I had waved at."
+     → CH04_037_mute_courthouse_exterior.mp4
+038  And notice the time… Libby's video was recorded at 2:13. Right in the middle.
+     → CH04_038_mute_libby_phone_video_bridge.mp4
+039  Investigators go back to him. That's what we know about Richard Allen. Plus one more detail.
+     → CH04_039_mute_allen_mugshot_2.mp4
+040  🎬 He owns a .40 caliber pistol… cycled through his gun. (صدای واقعی Allen و همسرش درباره‌ی گلوله)
+     → CH04_040_AUDIO_BULLET_allen_and_wife_interview.mp4
+041  October 2022. Richard Allen is arrested.
+     → CH04_041_mute_allen_perp_walk.mp4
+042  🎬 (صدای Carter: It is not a day to celebrate…)
+     → CH04_042_AUDIO_ARREST_presser_carter.mp4
+043  Bridge Guy finally has a name. Or does he?
+     → CH04_043_mute_allen_escorted_2.mp4
+
+## CH 5
+044  October 13th, 2022. Allen sits down with investigators… And he stays.
+     → CH05_044_mute_INTERROGATION_allen_denies.mp4
+045  🎬 …he gets defensive. (صدای واقعی بازجویی: I did not murder two little girls)
+     → CH05_045_AUDIO_INTERROGATION_allen_denies.mp4
+046  🎬 After the arrest… solitary confinement, for 13 months. (صدای وکیل: a cell known as the hole)
+     → CH05_046_AUDIO_DEFENSE_cell_called_the_hole.mp4
+047  🎬 …he starts confessing… Dozens of times. (صدای واقعی تماس: I killed Abby and Libby)
+     → CH05_047_AUDIO_CONFESSION_phone_call.mp4
+048  And notice the contrast… So which one is the real Richard Allen?
+     → CH05_048_mute_BULLET_allen_and_wife_interview.mp4
+
+## CH 6
+049  His defense had another story… a belief called Odinism.
+     → CH06_049_mute_woods_aerial.mp4
+050  The judge didn't allow it in front of the jury.
+     → CH06_050_mute_courtroom_empty.mp4
+051  One witness… in his twenties, with brown, curly hair. Allen was 44 at the time.
+     → CH06_051_mute_young_sketch_2019.mp4
+052  And that younger sketch police spent two years showing the whole country? The jury never saw that either.
+     → CH06_052_mute_both_sketches.mp4
+
+## CH 7
+053  October 2024. The trial finally begins.
+     → CH07_053_mute_courthouse_exterior.mp4
+054  After seventeen days of testimony, the jury deliberates for about 19 hours, over four days.
+     → CH07_054_mute_judges_bench.mp4
+055  November 11th: guilty on all counts.
+     → CH07_055_mute_courthouse_crowd.mp4
+056  (ادامه)
+     → CH07_056_mute_courthouse_crowd_2.mp4
+057  In December, the judge gives him the maximum. 130 years.
+     → CH07_057_mute_judges_bench_2.mp4
+058  🎬 For the families, after almost eight years, it's over. (صدای کلانتر: There will never be any closure)
+     → CH07_058_AUDIO_SENTENCING_never_any_closure.mp4
+059  Or at least, that's what everyone thinks.
+     → CH07_059_mute_girls_photos.mp4
+
+## CH 8
+060  Allen's new lawyers file their appeal, with three arguments… his side of the story.
+     → CH08_060_mute_DEFENSE_cell_called_the_hole.mp4
+061  🎬 (صدای وکیل: We can't live in a world where the real killer goes free)
+     → CH08_061_AUDIO_DEFENSE_real_killer_goes_free.mp4
+062  🎬 The state answers every point… religious conversion… (صدای دادستان: very lucid, very coherent)
+     → CH08_062_AUDIO_STATE_confessions_lucid.mp4
+063  Some guards believed he was faking… Allen himself.
+     → CH08_063_mute_trail_walk.mp4
+
+## CH 9
+064  September 21st, 2026. Back in that courtroom… They ask why those two very different sketches were never shown…
+     → CH09_064_mute_appeal_three_judges.mp4
+065  🎬 They push hard on what happened to Allen in that cell… those five words.
+     → CH09_065_AUDIO_JUDGE_confronts_state_full.mp4
+066  The hearing ends. No ruling, and no deadline.
+     → CH09_066_mute_appeal_three_judges.mp4
+
+## CH 10
+067  So what happens now? Most likely, nothing changes…
+     → CH10_067_mute_courthouse_exterior.mp4
+068  But if this one is, the case goes back…
+     → CH10_068_mute_courtroom_empty.mp4
+069  Nine years later, two families are still waiting.
+     → CH10_069_mute_girls_photo_long.mp4
+070  And somewhere in a prison cell in Oklahoma, so is Richard Allen.
+     → CH10_070_mute_allen_mugshot_2.mp4
+071  …a fourteen-year-old girl saw a man walking behind her, and she pressed record.
+     → CH10_071_mute_libby_phone_video_bridge.mp4
+072  So tell me: was this trial fair?
+     → CH10_072_mute_justice_for_libby_abby_sign.mp4
