@@ -2,7 +2,7 @@
 
 Negin designs animated characters. Claude generates 5–10s footage clips of those
 characters from Negin's prompts; Negin edits the clips together.
-Talk to Negin in Persian (Farsi).
+Talk to Negin ONLY in Persian (Farsi) — every message, including short progress updates between steps.
 
 ## Golden rules (character consistency)
 1. Every character lives in `characters/<name>.md` (character bible) and has a
