@@ -9,13 +9,14 @@ Usage:
       --seconds 6 --bg "#BDE7FF" --out footage/bunny_bounce.mp4
 
 Motions: idle, bounce, jump, sway, wiggle, slide_in, zoom_in, spin_hop, walk
-Optional: --bg-image path, --scale 0.6, --x 0.5 --y 0.72 (anchor of feet, 0..1)
+Optional: --bg-image path, --scale 0.6, --x 0.5 --y 0.72 (anchor of feet, 0..1),
+          --push 0.06 (slow camera zoom on the background), --no-shadow
 """
 import argparse
 import math
 import subprocess
 
-from PIL import Image
+from PIL import Image, ImageDraw, ImageFilter
 
 W, H, FPS = 1080, 1920, 30
 
@@ -85,6 +86,8 @@ def main():
     ap.add_argument("--scale", type=float, default=0.6, help="character width / frame width")
     ap.add_argument("--x", type=float, default=0.5)
     ap.add_argument("--y", type=float, default=0.75, help="where the feet sit (0 top .. 1 bottom)")
+    ap.add_argument("--push", type=float, default=0.0, help="background zoom over the clip, e.g. 0.06")
+    ap.add_argument("--no-shadow", action="store_true")
     ap.add_argument("--out", required=True)
     args = ap.parse_args()
 
@@ -92,6 +95,9 @@ def main():
     base_w = round(W * args.scale)
     char = char.resize((base_w, round(char.height * base_w / char.width)), Image.LANCZOS)
     bg = make_bg(args)
+    shadow = Image.new("L", (base_w, base_w // 5), 0)
+    ImageDraw.Draw(shadow).ellipse((base_w * 0.1, 0, base_w * 0.9, base_w // 5 - 1), fill=110)
+    shadow = shadow.filter(ImageFilter.GaussianBlur(base_w // 25))
 
     ff = subprocess.Popen(
         ["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24",
@@ -106,7 +112,18 @@ def main():
         c = char.resize((cw, ch), Image.BILINEAR)
         if ang:
             c = c.rotate(-ang, resample=Image.BICUBIC, expand=True)
-        frame = bg.copy()
+        if args.push:
+            z = 1 + args.push * (t / args.seconds)
+            zw, zh = round(W * z), round(H * z)
+            frame = bg.resize((zw, zh), Image.BILINEAR).crop(
+                ((zw - W) // 2, (zh - H) // 2, (zw - W) // 2 + W, (zh - H) // 2 + H))
+        else:
+            frame = bg.copy()
+        if not args.no_shadow:
+            k = max(0.35, 1 + dy / 500)  # shadow shrinks while airborne
+            sw, sh = round(shadow.width * k * sx), round(shadow.height * k)
+            sm = shadow.resize((max(1, sw), max(1, sh)))
+            frame.paste((0, 0, 0), (round(W * args.x + dx - sw / 2), round(H * args.y - sh / 2)), sm)
         fx = round(W * args.x + dx - c.width / 2)
         fy = round(H * args.y + dy - c.height + (c.height - ch) / 2)  # feet anchored
         frame.paste(c, (fx, fy), c)
