@@ -31,3 +31,45 @@ Sources: joinbrands.com/blog/youtube-shorts-best-practices,
 aibrify.com/blog/youtube-shorts-retention-curve-playbook,
 arcloop.ai/handbook/en-US/pacing-control-ai-anime-short,
 neolemon.com/blog/how-to-create-consistent-characters-in-ai-videos-complete-guide
+
+---
+
+# Kids YouTube (Made for Kids) — Rules & What Works
+
+## Legal / YouTube settings (COPPA)
+- Content aimed mainly at children under 13 MUST be marked "Made for Kids" at upload.
+  Bright animated characters + nursery-rhyme pacing = YouTube treats it as kids content.
+- Made for Kids disables: comments, personalized ads, notification bell, mini-player,
+  end screens/cards. Monetization is lower (contextual ads only) — plan for it.
+- Wrong labelling can get the channel penalised (FTC fines are per video).
+
+## YouTube's quality principles (affect recommendations, YouTube Kids inclusion, monetization)
+High quality = kindness & healthy habits, learning & curiosity, creativity &
+imagination, life skills / problem-solving, diverse characters & world.
+LOW quality (avoid!):
+- Heavily promotional (products, logos, unboxing)
+- Negative behaviour (dangerous pranks, bullying, lying, disrespect)
+- Deceptively educational (wrong facts, misleading titles/thumbnails)
+- Hard to follow / confusing — explicitly "often the result of mass production or
+  autogeneration" → every AI-assisted video needs a clear story and clean audio
+- Sensational, bizarre, keyword-stuffed titles
+- Familiar characters in strange or risky situations
+
+## What works for kids (different from adult Shorts!)
+- **Familiarity wins**: same characters, same world, same style, a recurring
+  intro/catchphrase/song. Reuse increases watch time → our consistency rules matter.
+- **Simple loop per episode**: familiar opening → small problem/idea →
+  playful action → gentle, complete ending.
+- **Pacing by age**: under 3 → slow, simple, high-contrast, repetitive.
+  3–5 → songs, sing-along, act-along movements. 5+ → small stories, problem-solving.
+- **Songs & repetition** carry engagement and learning (colors, numbers, feelings,
+  routines like brushing teeth, sharing, bedtime).
+- No sudden scary tone changes, flashing, or loud jump scares.
+- The hook is still needed, but gentler: a character waving/popping in and saying
+  hello or a funny little surprise — not a shock.
+
+Sources: support.google.com/youtube/answer/10774223 (YouTube best practices for kids),
+vidiq.com/blog/post/is-your-youtube-content-made-for-children-ftc-coppa,
+gyre.pro/blog/how-to-monetize-a-youtube-kids-channel,
+whizzystudios.com/post/optimizing-3d-animated-videos-for-kids-on-youtube-best-practices-for-content-creators,
+carlaeng.substack.com/p/make-ai-videos-kids-guide
