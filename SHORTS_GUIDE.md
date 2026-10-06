@@ -73,3 +73,19 @@ vidiq.com/blog/post/is-your-youtube-content-made-for-children-ftc-coppa,
 gyre.pro/blog/how-to-monetize-a-youtube-kids-channel,
 whizzystudios.com/post/optimizing-3d-animated-videos-for-kids-on-youtube-best-practices-for-content-creators,
 carlaeng.substack.com/p/make-ai-videos-kids-guide
+
+---
+
+# Budget notes (Higgsfield prices checked 2026-10-06)
+| Model / settings (9:16) | Credits |
+|---|---|
+| Seedance 2.0 fast, 480p, no audio, 4s | 4 |
+| Seedance 2.0 fast, 480p, no audio, 5s | 5 |
+| Seedance 2.0 fast, 720p, no audio, 10s | 25 |
+| Seedance 2.0 std, 720p, with audio, 5s | 22.5 |
+| Wan 2.7 / Kling 3.0 std no sound, 5s | 7.5 |
+| Seedance 2.5 draft 480p, 5s | 15 |
+Rules: cheapest = Seedance 2.0 fast 480p, no audio (~1 credit/sec, ~4.5x cheaper than
+default std+audio). Add music/voice in the editor. Always use a start image so fewer
+generations fail. Reuse clips across episodes. Free daily alternative: Dreamina/CapCut
+(Seedance, no watermark).
