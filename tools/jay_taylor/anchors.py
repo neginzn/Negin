@@ -1,0 +1,12 @@
+A={"00":["This"],
+"01":["January","Early","Police","about a 15","His phone","His name","For the first","What the police","People in","And according","He was 17","and Jay wasn't"],
+"02":["During","Their son","Online groups","Jay had only","But they also","strict limits","And by the end","But there was","After midnight","And Jay went"],
+"03":["The first","It was a girl","and she was a victim","For months","Then he started","Every time","He wanted","So investigators"],
+"04":["The night","He writes","preferably","At 2","When the conversation","He sends","He lists","Then Ava","About half","Even then","His mother","Jay walks"],
+"05":["Outside","and Eva invites","He joins","But online","Prosecutors say","More people","And minutes","In the messages","The recording"],
+"06":["White Tiger thinks","The video is out","What he doesn't","Six days","a message arrives","A teenage girl","And she's not","She was in the group","and she decided","Quietly","Then she finds","@R","Her message","Colby takes the phone","He presses","He recognizes","He knows","Along with","Colby takes everything","Until that night","@R"],
+"07":["The name","German","His father","A former","That's what","@R","Prosecutors say his","They say he","First he","Then he pushed","The victims","from Germany","One of them","She attempted"],
+"08":["And here's","They knew","In July","A few months","He admitted","In February","They had his","Later that","According to German","Some of the","They took","He bought","@R"],
+"09":["June","They're hoping","He's asleep","But this time","Twenty","Analyzing"],
+"10":["January","Almost four","And then the doors","Because he was","Whatever","204","more than 30","His lawyer","And Shahriar","But the biggest","Under juvenile","10 years at most","@R","And there's one","And helping","So to convict","That a 13"],
+"11":["The court","Until a verdict","Not the platforms","Not the warnings","Not the network","In February","@R","They alleged","Jay's parents did","and it still","@R","So tell me","I'll be"]}
