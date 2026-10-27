@@ -1,0 +1,13 @@
+{
+  "bg": "bg.mp4",
+  "voice": "voice.wav",
+  "out": "demo_mascot.mp4",
+  "fps": 30,
+  "stroke": 5,
+  "segments": [
+    {"t0": 0.3, "t1": 4.9, "pose": "point_right", "h": 560, "target": [1180, 560],
+     "enter": "pop", "exit": "pop", "talk": true},
+    {"t0": 5.3, "t1": 10.0, "pose": "neutral", "h": 720, "anchor": [300, 1230],
+     "enter": "rise", "exit": "none", "talk": true, "poses": [[8.2, "think"]]}
+  ]
+}

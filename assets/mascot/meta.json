@@ -1,0 +1,8 @@
+{
+  "_note": "Coordinates are pixels inside each pose PNG. eyes = glowing eye centers, mouth = [x0, x1, y] of the closed mouth line (null = mouth hidden/already open), tip = pointing fingertip.",
+  "neutral":       {"eyes": [[122, 109], [165, 107]], "mouth": [128, 168, 140], "tip": null},
+  "point_right":   {"eyes": [[92, 111], [130, 107]],  "mouth": [93, 123, 142],  "tip": [217, 165]},
+  "point_up_left": {"eyes": [[132, 107], [173, 114]], "mouth": [142, 174, 141], "tip": [6, 85]},
+  "think":         {"eyes": [[57, 107], [95, 111]],   "mouth": null,            "tip": null},
+  "surprised":     {"eyes": [[100, 110], [140, 113]], "mouth": null,            "tip": null}
+}
