@@ -35,6 +35,7 @@
 یه مرد، وسط خیابون. یکی از اونا بهش می‌رسه.
 در عرض چند ثانیه، یه سفینه می‌رسه بالای سرش.
 و مرد… غیب می‌شه.
+وسط خیابون، فقط کفش‌هاش مونده. یه جفت کتونی قرمز.
 اخبار اعلام می‌کنه:
 «حداقل برای سی روز آینده آمادگی داشته باشید و در خانه‌های خود بمانید!»
 
@@ -169,19 +170,20 @@
 
 **[روز ۳۰: پایان، ۹:۴۵]**
 شش روز دیگه، توی خونه‌ی یه غریبه. بی‌صدا. بی‌نور.
-اونا خیابون شما رو تموم کردن و رفتن محله‌ی بعدی.
-صبح روز سی‌ام، ساعت پنج، سفینه‌ها مثل هر روز می‌رن سمت شمال.
-ولی ساعت شش… برنمی‌گردن.
-ساعت هفت. ساعت هشت. آسمون خالیه.
-آدم‌ها کم‌کم میان توی بالکن‌ها. یکی گریه می‌کنه. یکی می‌خنده.
-بعد، برق برمی‌گرده.
-تلویزیون خونه‌ی غریبه، خودش روشن می‌شه. همون صفحه‌ی قرمز روز اول:
-«این یک هشدار واقعی است. آن‌ها ۳۰ روز دیگر برمی‌گردند.»
-📊 روز ۳۰ | 👥 ۲ نفر | 💧 ۲۰ لیتر | 🥫 ۳ روز | 🔋 ✅
+اونا خیابون شما رو تموم کردن و رفتن محله‌ی بعدی. سه روزه هیچ آدم‌فضایی‌ای توی این خیابون نیست.
+صبح روز سی‌ام، ساعت پنج، تصمیم می‌گیری برگردی خونه‌ی خودت. لباس گرم، دفترچه‌ت، عکس خانواده‌ت.
+بیست متر. پله‌ها. طبقه‌ی خودت.
+و جلوی در خونه‌ت، یه چیزی هست که نباید اونجا باشه.
+یه جفت کتونی قرمز. مرتب. کنار هم. رو به در.
+همون کفش‌هایی که روز اول، وسط خیابون جا موند. وقتی اون مرد غیب شد.
+کسی اونا رو اینجا گذاشته. توی این سی روز، هیچ‌کس جز تو و جکس پاش رو توی این ساختمون نذاشته.
+و هیچ‌کس جز تو اون مرد رو ندیده بود.
+جکس از پشت سرت آروم می‌گه: «رفیق… کف کفش‌ها هنوز گرمه.»
+📊 روز ۳۰ | 👥 ۲ نفر | 💧 ۲۰ لیتر | 🥫 ۳ روز
 
 **[پایان‌بندی]**
-تو جای ما بودی چی کار می‌کردی؟ یه کلمه کامنت کن: **فرار**، **قایم**، یا **ساختمون کناری**.
-قسمت بعد: «۳۰ روز تا برگشتنشون».
+به نظرت کی کفش‌ها رو اونجا گذاشته؟ و چرا؟ توی کامنتا بنویس.
+قسمت بعد، جوابش رو می‌فهمیم.
 
 ---
 
@@ -206,7 +208,7 @@
 | 5 | 0:25 | آدم‌فضایی‌ها در خیابان | City street at night, several ALIENs chasing people running in panic |
 | 6 | 0:32 | خرابی شهر | Street full of crashed cars, a damaged building on fire, people running, SHIPs above |
 | 7 | 0:45 | آدم‌فضایی به مرد می‌رسد | An ALIEN raising its long hand toward a man in the middle of the street |
-| 8 | 0:50 | مرد غیب می‌شود | VANISH: a SHIP arriving above a man in the street, a bright white flash, the man is gone, only his shoes left |
+| 8 | 0:50 | مرد غیب می‌شود | VANISH: a SHIP arriving above a man in the street, a bright white flash, the man is gone, only a pair of red sneakers left on the road |
 | 9 | 1:05 | اخبار | TV news anchor with a pale scared face on screen, the character from <Image 1> watching in the dark |
 | 10 | 1:15 | حساب آب | The character from <Image 1> writing numbers in a notebook, six water bottles on the table |
 | 11 | 1:25 | پر کردن وان | The character from <Image 1> filling a bathtub to the top, pots and buckets of water on the floor |
@@ -247,9 +249,10 @@
 | 46 | 9:00 | آپارتمان غریبه | A stranger's empty apartment with family photos on the wall, both characters settling in quietly |
 | 47 | 9:10 | آدم‌فضایی‌ها در ساختمان قبلی | View from a window: ALIENs searching the building next door floor by floor, light through its windows |
 | 48 | 9:20 | رادیو روشن می‌شود | The empty old apartment lighting up with bright white light, both characters watching from the next building, shocked |
-| 49 | 9:45 | آسمان خالی | Morning sky over the city with no spaceships, people coming out onto balconies |
-| 50 | 10:00 | برگشت برق | Lights turning back on in the apartment, the TV switching on by itself |
-| 51 | 10:10 | پیام آخر | TV screen with a red emergency message, both characters frozen in front of it |
+| 49 | 9:45 | خیابان خالی | Quiet empty street at dawn, no aliens, glowing marks on all the doors, both characters peeking out |
+| 50 | 10:00 | برگشت به خانه‌ی قبلی | Both characters climbing the stairs of their old dark building with flashlights |
+| 51 | 10:10 | کفش‌های قرمز جلوی در | A pair of red sneakers placed neatly side by side in front of an apartment door, dim hallway |
+| 52 | 10:20 | چهره‌ها | Both characters staring at the red sneakers in shock, the character from <Image 2> crouching to touch them |
 
 > برای پر کردن ۱۰ تا ۱۲ دقیقه، از صحنه‌های مهم ۲ تا ۳ نسخه بساز (`wide shot` یا `close-up` به آخر پرامپت اضافه کن).
 
