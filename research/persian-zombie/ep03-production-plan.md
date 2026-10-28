@@ -47,3 +47,10 @@
 3. **ویدیوها:** ۱۶ ویدیو را بساز.
 4. **صدا:** فیلم‌نامه را بخوان و ضبط کن. هر روز را جدا ضبط کنی بهتر است (مثل T0، T1… که برای White Tiger فرستادی).
 5. **فرستادن:** هر فایل را با شماره‌ی صحنه نام‌گذاری کن (`08.mp4`، `12.png`). بعد من همه را با صدا هماهنگ و مونتاژ می‌کنم و شمارنده و زیرنویس و افکت رویش می‌گذارم.
+
+## پرامپت نهایی صحنه‌ی ۸ (ویدیو)
+Images: سفینه = `<Image 1>`، آدم‌فضایی = `<Image 2>`، دختر (`victim_girl_reference.jpg`) = `<Image 3>`. حالت Quality.
+
+```
+Wide shot from far away, static camera, the whole street visible. Night city street with crashed cars, fires and smoke. The girl from <Image 3> is running in panic down the middle of the street, keep her exact look: blonde hair, white t-shirt, navy shorts, red high-top sneakers. The green alien from <Image 2> chases her fast, catches her and grabs her arm tightly. In a second, the spaceship from <Image 1> rushes down from the sky right above them, a bright white flash fills the screen, and the girl is gone. Only her red sneakers remain on the road. Detailed hand-drawn cartoon illustration, thick black outlines, cinematic dark lighting.
+```

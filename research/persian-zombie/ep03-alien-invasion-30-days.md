@@ -32,9 +32,9 @@
 خیابون‌ها پر از ماشین‌های تصادف‌کرده‌ست. یه ساختمون اون‌ورتر آتیش گرفته. آدم‌ها با وحشت فرار می‌کنن.
 محاصره، از زمین و آسمون.
 ولی ترسناک‌ترین قسمتش هنوز مونده.
-یه مرد، وسط خیابون. یکی از اونا بهش می‌رسه.
+یه دختر، وسط خیابون، داره فرار می‌کنه. یکی از اونا بهش می‌رسه.
 در عرض چند ثانیه، یه سفینه می‌رسه بالای سرش.
-و مرد… غیب می‌شه.
+و دختر… غیب می‌شه.
 وسط خیابون، فقط کفش‌هاش مونده. یه جفت کتونی قرمز.
 اخبار اعلام می‌کنه:
 «حداقل برای سی روز آینده آمادگی داشته باشید و در خانه‌های خود بمانید!»
@@ -175,9 +175,9 @@
 بیست متر. پله‌ها. طبقه‌ی خودت.
 و جلوی در خونه‌ت، یه چیزی هست که نباید اونجا باشه.
 یه جفت کتونی قرمز. مرتب. کنار هم. رو به در.
-همون کفش‌هایی که روز اول، وسط خیابون جا موند. وقتی اون مرد غیب شد.
+همون کفش‌هایی که روز اول، وسط خیابون جا موند. وقتی اون دختر غیب شد.
 کسی اونا رو اینجا گذاشته. توی این سی روز، هیچ‌کس جز تو و جکس پاش رو توی این ساختمون نذاشته.
-و هیچ‌کس جز تو اون مرد رو ندیده بود.
+و هیچ‌کس جز تو اون دختر رو ندیده بود.
 جکس از پشت سرت آروم می‌گه: «رفیق… کف کفش‌ها هنوز گرمه.»
 📊 روز ۳۰ | 👥 ۲ نفر | 💧 ۲۰ لیتر | 🥫 ۳ روز
 
@@ -196,6 +196,7 @@
 در بخش Images: عکس قهرمان = `<Image 1>`، عکس جکس = `<Image 2>`.
 - `ALIEN:` a tall thin grey alien, taller than a person, smooth grey skin, large oval head, big glossy black almond-shaped eyes, no mouth visible, long thin arms with long fingers, drawn in the same cartoon style with thick black outlines.
 - `SHIP:` a giant dark disc-shaped spaceship, as big as a stadium, hovering silently over the city, with a white light beam shining down.
+- `VICTIM:` stickman girl from `victim_girl_reference.jpg`: blonde hair, white t-shirt, navy shorts, red high-top sneakers.
 - `VANISH:` a SHIP suddenly appearing right above a person, a bright white flash, and the person is gone.
 
 ### صحنه‌ها
@@ -207,8 +208,8 @@
 | 4 | 0:18 | سفینه‌ها بالای شهر | View from an apartment window: dozens of giant SHIPs hovering over a city skyline at night |
 | 5 | 0:25 | آدم‌فضایی‌ها در خیابان | City street at night, several ALIENs chasing people running in panic |
 | 6 | 0:32 | خرابی شهر | Street full of crashed cars, a damaged building on fire, people running, SHIPs above |
-| 7 | 0:45 | آدم‌فضایی به مرد می‌رسد | An ALIEN raising its long hand toward a man in the middle of the street |
-| 8 | 0:50 | مرد غیب می‌شود | VANISH: a SHIP arriving above a man in the street, a bright white flash, the man is gone, only a pair of red sneakers left on the road |
+| 7 | 0:45 | آدم‌فضایی به دختر می‌رسد | An ALIEN raising its long hand toward the VICTIM girl in the middle of the street |
+| 8 | 0:50 | دختر غیب می‌شود | (ویدیو، پرامپت کامل در ep03-production-plan.md) Wide shot, the VICTIM girl running, an ALIEN grabs her arm, a SHIP rushes down, white flash, she is gone, only her red sneakers remain |
 | 9 | 1:05 | اخبار | TV news anchor with a pale scared face on screen, the character from <Image 1> watching in the dark |
 | 10 | 1:15 | حساب آب | The character from <Image 1> writing numbers in a notebook, six water bottles on the table |
 | 11 | 1:25 | پر کردن وان | The character from <Image 1> filling a bathtub to the top, pots and buckets of water on the floor |
