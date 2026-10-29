@@ -293,3 +293,8 @@ Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shadi
 Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading, very dark. Inside a dark apartment entrance, both stickmen from the reference image frozen against the closed front door with heavy backpacks, holding their breath, while the shadows of feet pass slowly through the thin light gap under the door. 16:9, no text.
 ```
 
+**55 🖼** (روز ۲۱، جایش بعد از صحنه‌ی ۴۶) مرجع: دو نفر
+```
+Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading, dim light. In a stranger's kitchen, both stickmen from the reference image crouch next to a white water heater tank, one holding a bottle under the small valve at the bottom of the tank while clean water pours out, the other holding more empty bottles. 16:9, no text.
+```
+
