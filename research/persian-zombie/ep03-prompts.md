@@ -280,3 +280,16 @@ Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shadi
 ```
 Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading, dim hallway. Both stickmen from the reference image stare down at something on the floor in shock, the black beanie one crouching with his hand reaching down. 16:9, no text.
 ```
+
+## صحنه‌های اضافه‌شده بعد از اسکریپت نهایی
+
+**53 🖼** (روز ۳، جایش بعد از صحنه‌ی ۱۶ و قبل از ۱۷) مرجع: آدم‌فضایی
+```
+Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading, grey dusk light. A crossroads with abandoned cars. A tall green alien like the one in the reference image stands in the distance, its head turned, a pale blue light sweeping across the asphalt from its big black eyes toward a parked car. 16:9, no text.
+```
+
+**54 🖼** (روز ۱۶، جایش آخر صحنه‌ی ۳۹ و قبل از ۴۰) مرجع: دو نفر
+```
+Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading, very dark. Inside a dark apartment entrance, both stickmen from the reference image frozen against the closed front door with heavy backpacks, holding their breath, while the shadows of feet pass slowly through the thin light gap under the door. 16:9, no text.
+```
+

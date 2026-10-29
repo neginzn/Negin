@@ -653,6 +653,8 @@
 | 50 | 10:00 | برگشت به خانه‌ی قبلی | Both characters climbing the stairs of their old dark building with flashlights |
 | 51 | 10:10 | کفش‌های قرمز جلوی در | A pair of red sneakers placed neatly side by side in front of an apartment door, dim hallway |
 | 52 | 10:20 | چهره‌ها | Both characters staring at the red sneakers in shock, the character from <Image 2> crouching to touch them |
+| 53 | 2:35 | نور آبی روی خیابان (روز ۳) | An ALIEN's head turned, a pale blue light sweeping across the asphalt from its eyes toward a parked car at a crossroads |
+| 54 | 7:50 | قدم‌ها پشت در (روز ۱۶) | Both characters frozen against the closed door with backpacks, shadows of feet passing through the light gap under the door |
 
 > برای پر کردن ۱۰ تا ۱۲ دقیقه، از صحنه‌های مهم ۲ تا ۳ نسخه بساز (`wide shot` یا `close-up` به آخر پرامپت اضافه کن).
 
