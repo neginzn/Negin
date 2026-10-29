@@ -154,39 +154,39 @@ Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shadi
 
 **28 🖼** مرجع: دو نفر
 ```
-Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading. Inside a dark apartment, the stickman with the black beanie and black tracksuit proudly holds up a bag of chips, the stickman with the grey cap and navy hoodie shakes his head but smiles, both from the reference image. 16:9, no text.
+Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading, dim light. Inside a dark apartment, the stickman with the black beanie and black tracksuit from the reference image proudly pulls a pile of batteries, two flashlights and a small remote-control toy car out of his backpack, the stickman with the grey cap and navy hoodie looks at them surprised. 16:9, no text.
 ```
 
 **29 🖼** مرجع: دو نفر
 ```
-Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading, very dark. The stickman with the black beanie and black tracksuit from the reference image lies on a mattress at night playing a game on his phone, the bright white screen light on his face and the ceiling. 16:9, no text.
+Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading, dim light. Both stickmen from the reference image kneel on the floor, the one with the black beanie taping a flashlight on top of a small remote-control toy car, the one with the grey cap holding a notebook with a hand-drawn plan. 16:9, no text.
 ```
 
-**30 🎬** مرجع: قهرمان = `<Image 1>`، جکس = `<Image 2>`
+**30 🎬** مرجع: قهرمان = `<Image 1>`، جکس = `<Image 2>`، سفینه = `<Image 3>`
 ```
-Detailed hand-drawn cartoon illustration, thick black outlines, very dark room. The characters from <Image 1> and <Image 2> lie frozen on the floor of a dark apartment. A bright white light beam from outside slides across the window, stops, and floods through the curtain onto the floor next to them, then slowly moves away. Static camera.
+Detailed hand-drawn cartoon illustration, thick black outlines, very dark night. The characters from <Image 1> and <Image 2> crouch inside the dark entrance of an apartment building at 2am, peeking out. A bright white light beam from a spaceship like <Image 3> sweeps over the buildings across the street, comes closer and stops a few meters in front of the entrance, lighting the ground, then slowly slides away. Static camera.
 ```
 
 **31 🖼** مرجع: دو نفر
 ```
-Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading. Both stickmen from the reference image lie flat and frozen on the floor in the dark, eyes wide, holding their breath. 16:9, no text.
+Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading, very dark. Both stickmen from the reference image press themselves against the wall inside a dark building entrance, holding their breath, a thin strip of white light shining through the door gap onto the hallway floor. 16:9, no text.
 ```
 
-**32 🖼** مرجع: دو نفر
+**32 🎬** مرجع: سفینه = `<Image 1>`، آدم‌فضایی = `<Image 2>`
 ```
-Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading, faint grey morning light. Both stickmen from the reference image sit on the floor playing chess quietly, the black beanie one thinking hard. 16:9, no text.
+Detailed hand-drawn cartoon illustration, thick black outlines, dark night street. A small remote-control toy car with a flashlight taped on top drives down the empty street. A white light beam from a spaceship like <Image 1> and tall green aliens like <Image 2> turn toward the little car and slowly follow it away down the street. Static wide shot.
 ```
 
 ## بخش ۴: روز ۱۵ تا ۲۲ (صحنه‌های ۳۳ تا ۴۳)
 
 **33 🖼** مرجع: دو نفر
 ```
-Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading, night. The stickman with the grey cap and navy hoodie from the reference image sits by a window writing in a notebook, watching the city, spaceship lights far away. 16:9, no text.
+Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading, dim light. Both stickmen from the reference image in a messy apartment building a second remote-control toy car from household things: a toy truck, a speaker, a flashlight, tape and wires spread on the table. 16:9, no text.
 ```
 
-**34 🎬** مرجع: سفینه = `<Image 1>`
+**34 🖼** مرجع: دو نفر
 ```
-Detailed hand-drawn cartoon illustration, thick black outlines, early dawn light. Wide shot of a city at dawn. All the spaceships like <Image 1> slowly move away together toward the north, the streets below become empty. Static camera.
+Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading, dim light. Two small remote-control toy cars with flashlights lined up side by side on a table, both stickmen from the reference image smiling proudly behind them, a wall calendar showing day 15 marked with red crosses. 16:9, no readable text.
 ```
 
 **35 🖼** مرجع: دو نفر
@@ -211,7 +211,7 @@ Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shadi
 
 **39 🖼** مرجع: دو نفر
 ```
-Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading. The stickman with the black beanie and black tracksuit from the reference image slips a chocolate bar into his backpack with a smirk. 16:9, no text.
+Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading, dim light. Both stickmen from the reference image zip up two heavy backpacks packed with water bottles, nuts, dates, peanut butter jars, a small radio and flashlights, in a storage room. 16:9, no text.
 ```
 
 **40 🖼** مرجع: دو نفر
@@ -248,17 +248,17 @@ Detailed hand-drawn cartoon illustration, thick black outlines, blue dawn light.
 
 **46 🖼** مرجع: دو نفر
 ```
-Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading, dim light. A stranger's empty apartment with family photos on the wall, both stickmen from the reference image quietly putting down their bags. 16:9, no text.
+Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading, dim light. A stranger's empty apartment with family photos on the wall, both stickmen from the reference image quietly putting down their bags and covering the windows with blankets. 16:9, no text.
 ```
 
 **47 🖼** مرجع: آدم‌فضایی
 ```
-Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading. View from a window: tall green aliens like the one in the reference image searching the building next door floor by floor, their shapes visible through the windows. 16:9, no text.
+Detailed hand-drawn cartoon illustration, thick clean black outlines, flat shading, daylight. View from a window of the neighboring building: tall green aliens like the one in the reference image entering the entrance of the building across the street, their old building. 16:9, no text.
 ```
 
-**48 🎬** مرجع: سفینه = `<Image 1>`
+**48 🎬** بدون مرجع
 ```
-Detailed hand-drawn cartoon illustration, thick black outlines, daytime. View from a window of one apartment in the building next door. Suddenly that apartment's windows fill with a blinding white light from a spaceship like <Image 1> hovering above. Static camera.
+Detailed hand-drawn cartoon illustration, thick black outlines, dusk. View from a window of the neighboring building. Across the street, the windows of an apartment building light up one after another, floor by floor, with moving white light, as aliens search inside. Static camera.
 ```
 
 **49 🖼** بدون مرجع
