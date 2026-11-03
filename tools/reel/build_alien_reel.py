@@ -9,20 +9,20 @@ random.seed(4); np.random.seed(4)
 
 # ---------------- voice lines ----------------
 LINES=[ # (file, start, caption, highlight words)
- ('l1.wav',0.20,"ALIENS JUST INVADED YOUR CITY.",{"INVADED"}),
- ('l2.wav',2.25,"THE GOVERNMENT HAS NO PLAN.",{"NO","PLAN."}),
- ('l3.wav',4.15,"ANYONE THEY SPOT OUTSIDE... DISAPPEARS IN SECONDS.",{"DISAPPEARS"}),
- ('l4.wav',8.20,"YOU HAVE WHAT'S IN YOUR HOME.",{"HOME."}),
- ('l5.wav',9.55,"AND 30 DAYS.",{"30","DAYS."}),
- ('l6.wav',10.95,"STAY INSIDE AND RATION EVERYTHING.",{"RATION"}),
- ('l7.wav',13.55,"OR GO OUT AND LOOK FOR FOOD.",{"FOOD."}),
+ ('v1.wav',0.20,"ALIENS JUST INVADED YOUR CITY!",{"INVADED"}),
+ ('v2.wav',2.30,"THE GOVERNMENT? HAS NO PLAN.",{"NO","PLAN."}),
+ ('v3.wav',4.15,"ANYONE THEY SPOT OUTSIDE... DISAPPEARS. IN SECONDS.",{"DISAPPEARS."}),
+ ('v4.wav',8.25,"YOU HAVE WHAT'S IN YOUR HOME.",{"HOME."}),
+ ('v5.wav',9.75,"AND 30 DAYS.",{"30","DAYS."}),
+ ('v6.wav',11.05,"STAY INSIDE AND RATION EVERYTHING.",{"RATION"}),
+ ('v7.wav',13.55,"OR GO OUT AND LOOK FOR FOOD.",{"FOOD."}),
 ]
 def wav_read(p):
     with wave.open(p) as w:
         sr=w.getframerate(); a=np.frombuffer(w.readframes(w.getnframes()),np.int16).astype(np.float32)/32768
     return sr,a
 durs=[]
-for f,st,_,_ in LINES+[('l8.wav',16.05,'',set())]:
+for f,st,_,_ in LINES+[('v8.wav',16.05,'',set())]:
     sr,a=wav_read(S+f); durs.append(len(a)/sr)
 
 # ---------------- fonts ----------------
@@ -64,7 +64,7 @@ def caption(img,text,hl,t0,t,y=1400,font=FCAP):
     img.alpha_composite(lay,(int((W-lay.width)/2),int(y-lay.height/2)))
 
 # ---------------- HUD ----------------
-HUD_T=9.55
+HUD_T=9.75
 def hud(img,t):
     if t<HUD_T: return
     k=t-HUD_T
@@ -223,12 +223,12 @@ def lp(x,c=0.02):
     return y
 # drone
 swell=np.interp(tt,[0,1,7.9,9,12.7,15.5,16,17.4,18],[0,0.55,0.7,0.6,0.8,1.0,0.45,0.35,0])
-dr=(np.sin(2*np.pi*41.2*tt)+0.6*np.sin(2*np.pi*55*tt+0.4*np.sin(2*np.pi*0.2*tt))+0.3*np.sin(2*np.pi*82.4*tt)*(0.5+0.5*np.sin(2*np.pi*0.13*tt)))
+dr=(np.sin(2*np.pi*41.2*tt)+0.5*np.sin(2*np.pi*61.7*tt)+0.25*np.sin(2*np.pi*82.4*tt))*(0.8+0.2*np.sin(2*np.pi*0.15*tt))
 noise=np.random.randn(NS); nz=np.convolve(noise,np.ones(400)/400,mode='same')*6
-music+=0.16*dr*swell+0.10*nz*swell
+music+=0.16*dr*swell
 # ship hum during clip 1
 hum=np.sin(2*np.pi*95*tt+2*np.sin(2*np.pi*0.7*tt))*(0.5+0.5*np.sin(2*np.pi*3.1*tt))
-music+=0.05*hum*np.interp(tt,[0,0.5,7.5,7.9],[0,1,1,0])
+pass
 # booms
 def boom(t0,g=1.0):
     i0=int(t0*SR); n=int(1.8*SR); x=np.arange(n)/SR
@@ -238,14 +238,18 @@ def boom(t0,g=1.0):
 boom(0.03,1.0); boom(C1,0.9); boom(LOCK_T,1.1); boom(16.0,0.6); boom(12.7,0.5)
 # whoosh into transition
 i0=int((C1-0.7)*SR); n=int(0.75*SR); w=np.random.randn(n); w=np.convolve(w,np.ones(30)/30,'same')
-mix[i0:i0+n]+=0.5*w*np.linspace(0,1,n)**2
+mix[i0:i0+n]+=0.3*np.convolve(w,np.ones(60)/60,'same')*np.linspace(0,1,n)**2
 # glitch bursts
 for tg in (C1-0.08,C1+0.02,LOCK_T):
     i0=int(tg*SR); n=int(0.14*SR); g=np.sign(np.random.randn(n))*(np.random.rand(n)>0.4)
-    g=np.repeat(g[::12],12)[:n]; mix[i0:i0+n]+=0.18*g
+    g=np.repeat(g[::12],12)[:n]; g=np.convolve(g,np.ones(24)/24,'same'); mix[i0:i0+n]+=0.06*g*np.hanning(n)
 # scan sound: pulsed tone
 sc=np.sin(2*np.pi*620*tt)*(np.sin(2*np.pi*9*tt)>0.6)*0.05*((tt>SCAN_T)&(tt<LOCK_T))
-mix+=sc
+# heartbeat pulse during scan
+for hb in np.arange(SCAN_T,LOCK_T,0.62):
+    for o,g in ((0,1.0),(0.16,0.6)):
+        i0=int((hb+o)*SR); n=int(0.25*SR); x=np.arange(n)/SR
+        mix[i0:i0+n]+=0.35*g*np.sin(2*np.pi*(55+25*np.exp(-x*30))*x)*np.exp(-x*14)
 for tb in (13.05,13.55,14.05,14.55,15.05):
     i0=int(tb*SR); n=int(0.09*SR); x=np.arange(n)/SR
     mix[i0:i0+n]+=0.22*np.sin(2*np.pi*1850*x)*np.exp(-x*25)
@@ -255,10 +259,10 @@ mix+=0.08*np.sin(2*np.pi*np.cumsum(fr)/SR)*m_*np.clip((tt-14.4)/1.1,0,1)
 # lock alarm
 for j in range(4):
     i0=int((LOCK_T+0.05+j*0.12)*SR); n=int(0.1*SR); x=np.arange(n)/SR
-    mix[i0:i0+n]+=0.2*np.sign(np.sin(2*np.pi*(880 if j%2==0 else 660)*x))*np.exp(-x*8)
+    mix[i0:i0+n]+=0.22*np.sin(2*np.pi*(880 if j%2==0 else 660)*x)*np.exp(-x*8)*np.minimum(1,x*400)
 # voice
 voice=np.zeros(NS)
-for f,st in [(l[0],l[1]) for l in LINES]+[('l8.wav',16.05)]:
+for f,st in [(l[0],l[1]) for l in LINES]+[('v8.wav',16.05)]:
     sr,a=wav_read(S+f)
     a=np.interp(np.arange(0,len(a),sr/SR),np.arange(len(a)),a)
     a=a/ (np.max(np.abs(a))+1e-6)*0.9
@@ -266,7 +270,7 @@ for f,st in [(l[0],l[1]) for l in LINES]+[('l8.wav',16.05)]:
 # duck music under voice
 venv=np.convolve(np.abs(voice),np.ones(4800)/4800,'same'); duck=1-0.55*np.clip(venv*6,0,1)
 out=(music*duck+mix)*0.8+voice*0.95
-out=np.tanh(out*1.2)/1.2
+out=out/ max(1.0,np.max(np.abs(out))/0.95)
 st=np.stack([out,out],1)
 st[:,0]+=0.0
 pcm=(np.clip(st,-1,1)*32767).astype(np.int16)
