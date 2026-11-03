@@ -4,7 +4,7 @@ S='/tmp/claude-0/-home-user-Negin/d5288e51-5e9b-5613-adee-5159b473691a/scratchpa
 W,H,FPS=1080,1920,24
 C1,C2=8.75,7.9167
 VEND=C1+C2                  # end of moving video
-DUR=18.7; N=int(DUR*FPS)
+DUR=20.0; N=int(DUR*FPS)
 random.seed(4); np.random.seed(4)
 
 # ---------------- voice lines ----------------
@@ -204,8 +204,9 @@ for i in range(N):
         caption(img,"YOU DO?",{"YOU"},16.662,t,y=900,font=FBIG)
     if t>=17.311999999999998:
         k=t-17.311999999999998; bob=8*math.sin(k*6)
-        caption(img,"FULL STORY: 30 DAYS",{"30","DAYS"},17.311999999999998,t,y=1250,font=FSM)
-        d=ImageDraw.Draw(img); ax,ay=540,1345+bob
+        caption(img,"WATCH THE FULL VIDEO",{"FULL","VIDEO"},17.311999999999998,t,y=1230,font=FSM)
+        caption(img,"TAP THE LINK BELOW",{"LINK"},17.311999999999998+0.25,t,y=1310,font=FSM)
+        d=ImageDraw.Draw(img); ax,ay=540,1385+bob
         d.polygon([(ax-34,ay),(ax+34,ay),(ax,ay+40)],fill=GREEN+(int(255*ease(k/0.3)),))
     enc.stdin.write(np.asarray(img.convert('RGB')).tobytes())
 enc.stdin.close(); enc.wait()
