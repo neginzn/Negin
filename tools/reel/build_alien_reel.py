@@ -2,27 +2,27 @@ import numpy as np, subprocess, math, random, wave
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 S='/tmp/claude-0/-home-user-Negin/d5288e51-5e9b-5613-adee-5159b473691a/scratchpad/reel/'
 W,H,FPS=1080,1920,24
-C1,C2=7.9167,7.9167
+C1,C2=8.75,7.9167
 VEND=C1+C2                  # end of moving video
-DUR=18.0; N=int(DUR*FPS)
+DUR=18.7; N=int(DUR*FPS)
 random.seed(4); np.random.seed(4)
 
 # ---------------- voice lines ----------------
 LINES=[ # (file, start, caption, highlight words)
- ('v1.wav',0.20,"ALIENS JUST INVADED YOUR CITY!",{"INVADED"}),
- ('v2.wav',2.30,"THE GOVERNMENT? HAS NO PLAN.",{"NO","PLAN."}),
- ('v3.wav',4.15,"ANYONE THEY SPOT OUTSIDE... DISAPPEARS. IN SECONDS.",{"DISAPPEARS."}),
- ('v4.wav',8.25,"YOU HAVE WHAT'S IN YOUR HOME.",{"HOME."}),
- ('v5.wav',9.75,"AND 30 DAYS.",{"30","DAYS."}),
- ('v6.wav',11.05,"STAY INSIDE AND RATION EVERYTHING.",{"RATION"}),
- ('v7.wav',13.55,"OR GO OUT AND LOOK FOR FOOD.",{"FOOD."}),
+ ('u1.wav',0.2,"ALIENS JUST INVADED YOUR CITY!",{"INVADED"}),
+ ('u2.wav',2.564,"THE GOVERNMENT HAS NO PLAN.",{"NO","PLAN."}),
+ ('u3.wav',4.834,"ANYONE THEY SPOT OUTSIDE... DISAPPEARS. IN SECONDS.",{"DISAPPEARS."}),
+ ('u4.wav',8.794,"YOU HAVE WHAT'S IN YOUR HOME.",{"HOME."}),
+ ('u5.wav',10.233,"AND 30 DAYS.",{"30","DAYS."}),
+ ('u6.wav',11.615,"STAY INSIDE AND RATION EVERYTHING.",{"RATION"}),
+ ('u7.wav',14.268,"OR GO OUT AND LOOK FOR FOOD.",{"FOOD."}),
 ]
 def wav_read(p):
     with wave.open(p) as w:
         sr=w.getframerate(); a=np.frombuffer(w.readframes(w.getnframes()),np.int16).astype(np.float32)/32768
     return sr,a
 durs=[]
-for f,st,_,_ in LINES+[('v8.wav',16.05,'',set())]:
+for f,st,_,_ in LINES+[('u8.wav',16.362,'',set())]:
     sr,a=wav_read(S+f); durs.append(len(a)/sr)
 
 # ---------------- fonts ----------------
@@ -64,7 +64,7 @@ def caption(img,text,hl,t0,t,y=1400,font=FCAP):
     img.alpha_composite(lay,(int((W-lay.width)/2),int(y-lay.height/2)))
 
 # ---------------- HUD ----------------
-HUD_T=9.75
+HUD_T=10.233
 def hud(img,t):
     if t<HUD_T: return
     k=t-HUD_T
@@ -91,7 +91,7 @@ def hud(img,t):
     img.alpha_composite(lay)
 
 # ---------------- scan overlay ----------------
-SCAN_T=12.7; LOCK_T=15.55
+SCAN_T=13.55; LOCK_T=16.05
 def scan(img,t):
     if t<SCAN_T: return
     k=t-SCAN_T; locked=t>=LOCK_T
@@ -113,7 +113,7 @@ def scan(img,t):
         for j in range(18):
             d.line((cx-bw,yy-j*3,cx+bw,yy-j*3),fill=col+(int(110*(1-j/18)),),width=3)
     # data panel top-right
-    rows=[(13.05,"SCANNING..."),(13.55,"SPECIES: HUMAN"),(14.05,"HEART RATE: {hr} BPM"),(14.55,"BODY TEMP: 36.9°C"),(15.05,"STATUS: ALIVE")]
+    rows=[(SCAN_T+0.35,"SCANNING..."),(SCAN_T+0.85,"SPECIES: HUMAN"),(SCAN_T+1.35,"HEART RATE: {hr} BPM"),(SCAN_T+1.75,"BODY TEMP: 36.9°C"),(SCAN_T+2.15,"STATUS: ALIVE")]
     px,py=560,150
     vis=[r for r in rows if t>=r[0]]
     if vis:
@@ -144,7 +144,7 @@ def frames(path):
         if len(b)<W*H*3: break
         out.append(np.frombuffer(b,np.uint8).reshape(H,W,3))
     return out
-f1=frames(S+'c1.mp4'); f2=frames(S+'c2.mp4')
+f1=frames(S+'c1s.mp4'); f2=frames(S+'c2.mp4')
 print(len(f1),len(f2))
 
 def glitch(arr,amt):
@@ -162,7 +162,7 @@ def glitch(arr,amt):
 def zoom(arr,z,dx=0,dy=0):
     if z<=1.0001 and dx==0 and dy==0: return arr
     im=Image.fromarray(arr); w2,h2=W/z,H/z
-    x0=(W-w2)/2+dx; y0=(H-h2)/2+dy
+    x0=min(max((W-w2)/2+dx,0),W-w2); y0=min(max((H-h2)/2+dy,0),H-h2)
     return np.asarray(im.resize((W,H),Image.BICUBIC,box=(x0,y0,x0+w2,y0+h2)))
 
 HITS=[0.05,C1,LOCK_T]
@@ -199,12 +199,12 @@ for i in range(N):
         end=min(nxt-0.05, st+durs[j]+0.6)
         if st-0.05<=t<end: caption(img,txt,hl,st-0.05,t,y=(1580 if t>=SCAN_T else 1420))
     # end card
-    if t>=16.0:
-        caption(img,"WHAT WOULD",{"YOU"},16.0,t,y=740,font=FBIG)
-        caption(img,"YOU DO?",{"YOU"},16.25,t,y=900,font=FBIG)
-    if t>=16.9:
-        k=t-16.9; bob=8*math.sin(k*6)
-        caption(img,"FULL STORY: 30 DAYS",{"30","DAYS"},16.9,t,y=1250,font=FSM)
+    if t>=16.362:
+        caption(img,"WHAT WOULD",{"YOU"},16.362,t,y=740,font=FBIG)
+        caption(img,"YOU DO?",{"YOU"},16.662,t,y=900,font=FBIG)
+    if t>=17.311999999999998:
+        k=t-17.311999999999998; bob=8*math.sin(k*6)
+        caption(img,"FULL STORY: 30 DAYS",{"30","DAYS"},17.311999999999998,t,y=1250,font=FSM)
         d=ImageDraw.Draw(img); ax,ay=540,1345+bob
         d.polygon([(ax-34,ay),(ax+34,ay),(ax,ay+40)],fill=GREEN+(int(255*ease(k/0.3)),))
     enc.stdin.write(np.asarray(img.convert('RGB')).tobytes())
@@ -222,7 +222,7 @@ def lp(x,c=0.02):
     for i in range(0,len(x)): acc+=c*(x[i]-acc); y[i]=acc
     return y
 # drone
-swell=np.interp(tt,[0,1,7.9,9,12.7,15.5,16,17.4,18],[0,0.55,0.7,0.6,0.8,1.0,0.45,0.35,0])
+swell=np.interp(tt,[0,1,C1,C1+1,SCAN_T,LOCK_T,LOCK_T+0.4,DUR-1.2,DUR],[0,0.55,0.7,0.6,0.8,1.0,0.45,0.35,0])
 dr=(np.sin(2*np.pi*41.2*tt)+0.5*np.sin(2*np.pi*61.7*tt)+0.25*np.sin(2*np.pi*82.4*tt))*(0.8+0.2*np.sin(2*np.pi*0.15*tt))
 noise=np.random.randn(NS); nz=np.convolve(noise,np.ones(400)/400,mode='same')*6
 music+=0.16*dr*swell
@@ -235,7 +235,7 @@ def boom(t0,g=1.0):
     f=35+90*np.exp(-x*6); ph=2*np.pi*np.cumsum(f)/SR
     s=np.sin(ph)*np.exp(-x*2.2)+0.5*np.random.randn(n)*np.exp(-x*30)
     m=min(n,NS-i0); mix[i0:i0+m]+=g*0.55*s[:m]
-boom(0.03,1.0); boom(C1,0.9); boom(LOCK_T,1.1); boom(16.0,0.6); boom(12.7,0.5)
+boom(0.03,1.0); boom(C1,0.9); boom(LOCK_T,1.1); boom(16.362,0.6); boom(SCAN_T,0.5)
 # whoosh into transition
 i0=int((C1-0.7)*SR); n=int(0.75*SR); w=np.random.randn(n); w=np.convolve(w,np.ones(30)/30,'same')
 mix[i0:i0+n]+=0.3*np.convolve(w,np.ones(60)/60,'same')*np.linspace(0,1,n)**2
@@ -250,7 +250,7 @@ for hb in np.arange(SCAN_T,LOCK_T,0.62):
     for o,g in ((0,1.0),(0.16,0.6)):
         i0=int((hb+o)*SR); n=int(0.25*SR); x=np.arange(n)/SR
         mix[i0:i0+n]+=0.35*g*np.sin(2*np.pi*(55+25*np.exp(-x*30))*x)*np.exp(-x*14)
-for tb in (13.05,13.55,14.05,14.55,15.05):
+for tb in (SCAN_T+0.35,SCAN_T+0.85,SCAN_T+1.35,SCAN_T+1.75,SCAN_T+2.15):
     i0=int(tb*SR); n=int(0.09*SR); x=np.arange(n)/SR
     mix[i0:i0+n]+=0.22*np.sin(2*np.pi*1850*x)*np.exp(-x*25)
 # riser
@@ -262,7 +262,7 @@ for j in range(4):
     mix[i0:i0+n]+=0.22*np.sin(2*np.pi*(880 if j%2==0 else 660)*x)*np.exp(-x*8)*np.minimum(1,x*400)
 # voice
 voice=np.zeros(NS)
-for f,st in [(l[0],l[1]) for l in LINES]+[('v8.wav',16.05)]:
+for f,st in [(l[0],l[1]) for l in LINES]+[('u8.wav',16.362)]:
     sr,a=wav_read(S+f)
     a=np.interp(np.arange(0,len(a),sr/SR),np.arange(len(a)),a)
     a=a/ (np.max(np.abs(a))+1e-6)*0.9
