@@ -30,7 +30,7 @@ Character reference sheet of a new stickman character named Daniel, same drawing
 Character reference of the two stickmen from the references wearing sleek alien-made protective suits: matte white and silver suits with thin glowing teal seams, flexible joints, a clear round glass bubble helmet, and a small glowing teal display on the left wrist. The grey-cap stickman (Ray) and the black-beanie stickman (Jax) are clearly recognizable through the clear helmets, Ray's grey cap and Jax's black beanie visible inside. Front view, standing side by side on a plain light grey background. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**R3 · آزمایشگاه سفینه (بدون آدم)**
+**R3 · آزمایشگاه سفینه (بدون آدم) — نسخه‌ی پیشرفته‌ی روشن را از چت استفاده کن**
 ```
 Interior of an alien spaceship laboratory, no characters. Smooth curved white and pale grey walls, cold white ceiling lights, glowing teal panels, strange organic-looking machines with soft green lights, cables running along the floor, a tall metal storage cabinet, a large sliding door with a round frame. Clean, sterile, eerie, futuristic. Wide shot. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
@@ -54,14 +54,15 @@ Extreme close-up of the grey-cap stickman's face from the reference, lying on hi
 Exterior view of a colossal alien mothership floating in deep space above Earth, gunmetal grey hull with glowing teal lights, thousands of tiny lit windows, Earth's blue edge curving in the lower corner, stars in the black sky. Epic, ominous, cinematic wide shot. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**03** · «trapped inside a rectangular chamber surrounded by a glowing blue laser field…» — مرجع: `RAY` + `LAB`
+**03** · «trapped inside a rectangular chamber surrounded by a glowing blue laser field…» — مرجع: `RAY` + `JAX` + `LAB`
 ```
-Wide shot inside the alien laboratory from the reference. The grey-cap stickman in a navy hoodie from the reference stands inside a tall rectangular chamber whose walls are made of a glowing blue laser field, thin bright blue beams forming a grid. Cold white lights above, strange machines with soft green lights surround the room. He looks around in confusion. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
+Wide shot inside the advanced alien laboratory from the reference. In the center, the grey-cap stickman in a navy hoodie from the reference stands inside an empty human-sized rectangular containment field made only of thin bright glowing blue laser beams forming a transparent cage, a glowing emitter pad on the floor and an emitter ring on the ceiling, no booth and no box, he looks around in confusion. In the background on the left, slightly out of focus, the black-beanie stickman in a black tracksuit with a silver chain from the reference sits unconscious on the laboratory chair, wrists and chest strapped with metal restraints, head hanging forward. Bright cold white light, teal accents, floating holographic screens. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
+(قاعده: تا صحنه‌ی ۰۸ هر جا صندلی در قاب است، جکس بسته‌شده رویش باشد. از ۰۹ به بعد صندلی خالی با بندهای باز.)
 
 **04** · «You try to move, but you can't get out.» — مرجع: `RAY`
 ```
-Medium close-up of the grey-cap stickman from the reference pressing both hands against a glowing blue laser wall, small electric sparks flying where his palms touch the field, his face strained and frightened, blue light reflecting on his face. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
+Medium close-up of the grey-cap stickman from the reference pressing both hands against the glowing blue laser beams of an empty transparent laser cage (no booth, no box), small electric sparks flying where his palms touch the field, his face strained and frightened, blue light reflecting on his face. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
 **05** · «A few meters away, you notice Jax… tied to it.» — مرجع: `JAX` + `LAB`
