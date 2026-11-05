@@ -94,17 +94,11 @@ If any part of you is visible, they can scan you.
 
 📊 DAY 1 | PEOPLE: 2 | FOOD: 0 | WATER: 0 | OXYGEN: SUITS 100%
 
-DAY 3
+DAY 2
 
-For the next two days, you and Jax stay inside the laboratory.
+You and Jax stay inside the laboratory.
 
 You explore carefully, searching for anything useful.
-
-Behind one of the machines, you find a small tank of clean water used to cool the equipment. About twenty liters.
-
-A human can survive around three weeks without food, but only about three days without water.
-
-So you start with the water.
 
 The display on your wrist runs a test of the air.
 
@@ -114,27 +108,59 @@ You take off your helmets and save the suit oxygen for later.
 
 You might need it.
 
-You also find an identification card near a workstation. It has an alien symbol on it, but the door beside the desk responds when you hold the card against its scanner.
+Near a workstation, you find an identification card. It has an alien symbol on it.
+
+You hold it against the scanner beside the lab door.
+
+The door responds.
 
 You keep it.
 
 It might be useful later.
 
-You also begin to understand how the aliens detect humans.
+But there's a bigger problem.
 
-From what you’ve observed, you learn a few important things:
+There's no water in this laboratory.
 
-* Their eyes can scan humans and display information about them.
-* A solid object, like a wall or cabinet, can block their scan.
-* Every part of your body has to stay behind it.
-* Darkness alone won’t protect you if they can still see you.
-* They react to sudden noises, bright lights, and movement.
+📊 DAY 2 | PEOPLE: 2 | FOOD: 0 | WATER: 0 | OXYGEN: SHIP AIR OK
 
-You write these rules down on a piece of paper.
+DAY 3
+
+A human can survive around three weeks without food, but only about three days without water.
+
+This is day three.
+
+You have to leave the laboratory.
+
+You use the card and step into a narrow side corridor.
+
+Above the main corridor, you notice a small black dome with a red light. A security camera.
+
+So you stay in the quiet side passages.
 
 The ship also has security cameras in important areas, especially main corridors, laboratory entrances, and the hangar.
 
 You need to be careful about where you move.
+
+At the end of the side corridor, the air gets colder.
+
+You enter a cooling section, full of humming machines and frosted pipes.
+
+Behind one of the machines, you find a tank of clean water used to cool the equipment. About twenty liters.
+
+You fill your bottles and drink slowly.
+
+Back in the laboratory, you begin to understand how the aliens detect humans.
+
+From what you've observed, you learn a few important things:
+
+* Their eyes can scan humans and display information about them.
+* A solid object, like a wall or cabinet, can block their scan.
+* Every part of your body has to stay behind it.
+* Darkness alone won't protect you if they can still see you.
+* They react to sudden noises, bright lights, and movement.
+
+You write these rules down on a piece of paper.
 
 📊 DAY 3 | PEOPLE: 2 | FOOD: 0 | WATER: 20 L | OXYGEN: SHIP AIR OK
 

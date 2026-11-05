@@ -137,73 +137,94 @@ Wide shot of the alien laboratory: the tall green alien from the reference walks
 
 ---
 
-## فصل ۲ — DAY 3
+## فصل ۲ — DAY 2 و DAY 3
 
-**19** · «…a small tank of clean water used to cool the equipment.» — مرجع: `RAY` + `SUITS`
-```
-Behind a large humming machine in the alien lab, a small transparent cylindrical water tank connected to cooling pipes; the grey-cap stickman in a white protective suit from the reference kneels and carefully fills a clear bottle from a small valve, clean water glowing slightly in teal light. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
-```
+(سکانس جدید: کارت روز ۲، آب در بخش خنک‌کننده‌ی سفینه در روز ۳)
 
-**20** · «AIR: BREATHABLE. You take off your helmets.» — مرجع: `SUITS`
-```
-The two stickmen in white protective suits from the reference take off their clear bubble helmets at the same time, taking a deep relieved breath; the grey cap and the black beanie now fully visible, helmets held under their arms. Soft white lab light. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
-```
+### DAY 2
 
-**21** · «You find an identification card near a workstation…» — مرجع: `RAY` + `LAB`
+**19** · «AIR: BREATHABLE. You take off your helmets.» — مرجع: Edit روی عکس آزمایشگاه (همان جایی که ایستاده‌اند) + `SUITS`
 ```
-Close-up of a sleek alien workstation desk; a thin glowing translucent card with a strange alien symbol rests on it; the grey-cap stickman's gloved hand from the reference picks it up. Soft teal light from screens. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
+Keep the laboratory and the two stickmen exactly the same, same place and camera angle. Only change this: both stickmen take off their clear bubble helmets and hold them under their arms, taking a deep relieved breath, the grey cap and the black beanie now fully visible. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no flags, no logos, no text, no letters, no watermark.
 ```
 
-**22** · «…the door responds when you hold the card against its scanner.» — مرجع: `RAY`
+**20** · «Near a workstation, you find an identification card.» — مرجع: `LAB` + `RAY` + `SUITS`
 ```
-The grey-cap stickman in a white protective suit from the reference holds a glowing translucent card against a round door scanner; the scanner ring lights up green and the curved sliding door beside it begins to open. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
-```
-
-**23** · «You write these rules down on a piece of paper.» — مرجع: `RAY` + `JAX`
-```
-The grey-cap stickman sits on the floor of the alien lab, leaning against a machine, writing on a crumpled piece of paper with a short pencil, a short list of lines drawn on it; the black-beanie stickman sits next to him, watching and pointing at the paper. Quiet, focused, dim light. Both in white protective suits without helmets. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
+Use the laboratory reference only for the room design, materials, colors and lighting, but show a new close camera angle at one of the sleek white workstations of the same lab. A thin glowing translucent card with a strange alien symbol lies on the desk next to floating holographic teal screens. The grey-cap stickman wearing the spacesuit from the suit reference, helmet off, picks it up with his gloved hand, curious. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no flags, no logos, no text, no letters, no watermark.
 ```
 
-**24** · «The ship also has security cameras in important areas…» — بدون مرجع
+**21** · «You hold it against the scanner beside the lab door. The door responds.» — مرجع: Edit روی عکس آزمایشگاه اول
 ```
-Low angle view of a long curved white main corridor of an alien spaceship, a sleek black security camera dome mounted on the ceiling with a small glowing red light, slowly rotating, soft teal floor lights leading into the distance. Empty, cold, watchful. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
+Keep the laboratory exactly the same, same camera angle. Only change this: the grey-cap stickman in his spacesuit, helmet off, stands at the large oval door at the back and holds a glowing translucent card against a small round scanner beside the door; the scanner ring glows green and the door has opened a few centimeters, a thin line of light in the middle. The black-beanie stickman in his spacesuit stands behind him, watching. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no flags, no logos, no text, no letters, no watermark.
+```
+
+**22** · «But there's a bigger problem. There's no water in this laboratory.» — مرجع: `RAY` + `JAX` + `SUITS`
+```
+Medium shot of the two stickmen in spacesuits with helmets off sitting on the glossy white floor of the bright alien laboratory, leaning against a white machine, exhausted and thirsty, the black-beanie stickman holding an empty clear bottle upside down, not a drop left, the grey-cap stickman staring at it. Soft cold light. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no flags, no logos, no text, no letters, no watermark.
+```
+
+### DAY 3
+
+**23** · «You have to leave the laboratory. …a narrow side corridor.» — مرجع: `RAY` + `JAX` + `SUITS`
+```
+A narrow quiet side corridor of the alien spaceship, darker and tighter than the laboratory: low curved ceiling, soft dim blue floor lights, smooth grey wall panels with thin glowing seams, small maintenance hatches and bundled cables running along the walls. The two stickmen in spacesuits with helmets off sneak along the wall in a crouch, the grey-cap stickman in front holding the glowing card. Quiet, tense, claustrophobic. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no flags, no logos, no text, no letters, no watermark.
+```
+
+**24** · «Above the main corridor, you notice… A security camera.» — مرجع: `RAY` + `JAX` + `SUITS`
+```
+View from the end of the narrow dark side corridor looking out into a wide, brightly lit main corridor of the alien spaceship; on its high ceiling a sleek black security camera dome with a small glowing red light slowly turns. In the foreground, the two stickmen in spacesuits press their backs against the side corridor wall, peeking out carefully, staying in the shadow. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no flags, no logos, no text, no letters, no watermark.
+```
+
+**25** · «…the air gets colder. You enter a cooling section…» — مرجع: بدون مرجع شخصیت (یا `RAY` + `JAX` + `SUITS` اگر می‌خواهی در قاب باشند)
+```
+Wide establishing shot of a cooling section inside the alien spaceship, a completely different look from the laboratory: a large dim industrial hall bathed in cold deep blue light, rows of tall humming cylindrical cooling machines, thick frosted pipes covered in white frost running along the walls and ceiling, cold mist drifting near the floor, small blue indicator lights, metal grated walkways. Advanced but heavy and mechanical. Cold, eerie, beautiful. The two small stickmen in spacesuits enter from a doorway on the left, their breath visible in the cold air. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no flags, no logos, no text, no letters, no watermark.
+```
+
+**26** · «Behind one of the machines, you find a tank of clean water… About twenty liters.» — مرجع: `RAY` + `JAX` + `SUITS` + تصویر ۲۵
+```
+In the same cold blue cooling section from the reference, behind one of the tall humming cooling machines: a transparent cylindrical water tank about waist height, connected to frosted pipes, full of clean clear water, a small metal valve at the bottom. The grey-cap stickman in his spacesuit, helmet off, kneels and fills a clear bottle from the valve; the black-beanie stickman drinks slowly from another bottle, eyes closed with relief. Cold mist, frost on the pipes. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no flags, no logos, no text, no letters, no watermark.
+```
+
+**27** · «You write these rules down on a piece of paper.» — مرجع: Edit روی عکس آزمایشگاه یا `LAB` + `RAY` + `JAX`
+```
+Back in the bright alien laboratory: the grey-cap stickman sits on the floor leaning against a white machine, writing a short list on a crumpled piece of paper with a short pencil, two full water bottles beside him; the black-beanie stickman sits next to him, pointing at the paper. Both in spacesuits with helmets off. Quiet, focused. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no flags, no logos, no text, no letters, no watermark.
 ```
 
 ---
 
 ## فصل ۳ — DAY 5
 
-**25** · «…a large room behind a locked door. You use the identification card.» — مرجع: `RAY` + `JAX`
+**27** · «…a large room behind a locked door. You use the identification card.» — مرجع: `RAY` + `JAX`
 ```
 The grey-cap and black-beanie stickmen from the references, in white protective suits, stand in front of a massive round locked door in a quiet dim section of the ship; Ray holds the glowing card to the scanner, a ring of green light opening around the door edges. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**26** · «Inside, you see rows of transparent capsules. There are humans inside them.» — بدون مرجع
+**28** · «Inside, you see rows of transparent capsules. There are humans inside them.» — بدون مرجع
 ```
 Vast dark hall inside an alien spaceship, endless rows of tall transparent glass capsules lit from within by cold blue light, each holding a sleeping stickman human floating peacefully, men and women of different looks, small children in smaller capsules, soft mist at the floor, rows fading into the distance. Haunting, epic, eerie. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**27** · «You and Jax walk between the capsules…» — مرجع: `RAY` + `JAX`
+**29** · «You and Jax walk between the capsules…» — مرجع: `RAY` + `JAX`
 ```
 The two stickmen from the references, in white protective suits, walk slowly down a narrow aisle between towering rows of glowing blue glass capsules with sleeping humans inside; they look up in shock, small figures compared to the capsules. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**28** · «Then someone moves. A man inside one of the capsules opens his eyes.» — مرجع: `DANIEL`
+**30** · «Then someone moves. A man inside one of the capsules opens his eyes.» — مرجع: `DANIEL`
 ```
 Close-up through the glass of a blue-lit capsule: the stickman Daniel from the reference, in an orange maintenance jumpsuit, floating inside, suddenly opens his eyes wide and presses one hand against the glass from the inside. Tiny bubbles around him. Startling moment. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**29** · «…you manage to release the capsule. The man falls forward, coughing.» — مرجع: `DANIEL` + `RAY` + `JAX`
+**31** · «…you manage to release the capsule. The man falls forward, coughing.» — مرجع: `DANIEL` + `RAY` + `JAX`
 ```
 The glass front of a capsule slides open with a burst of mist; the stickman Daniel in an orange jumpsuit from the reference falls forward, coughing, and the black-beanie stickman catches him by the shoulders, while the grey-cap stickman stands at a small glowing control panel beside the capsule. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**30** · «“My name is Daniel.” …abducted eleven days ago… forced him to work…» — مرجع: `DANIEL`
+**32** · «“My name is Daniel.” …abducted eleven days ago… forced him to work…» — مرجع: `DANIEL`
 ```
 Medium shot of the stickman Daniel from the reference sitting on the floor against a capsule, exhausted, wrapped in his orange maintenance jumpsuit, talking with a tired, haunted expression, one hand gesturing. Cold blue capsule light behind him. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**31** · «“Then why were you treated differently?” Nobody has an answer.» — مرجع: `DANIEL` + `RAY` + `JAX`
+**33** · «“Then why were you treated differently?” Nobody has an answer.» — مرجع: `DANIEL` + `RAY` + `JAX`
 ```
 The three stickmen from the references stand together in the capsule hall: Daniel in his orange jumpsuit looks back over his shoulder at the endless rows of capsules, confused; the grey-cap and black-beanie stickmen in white suits look at each other, uneasy, the question hanging in the air. Long shadows, mysterious blue light. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
@@ -212,37 +233,37 @@ The three stickmen from the references stand together in the capsule hall: Danie
 
 ## فصل ۴ — DAY 8
 
-**32** · «By the morning of the eighth day, the water tank is almost empty.» — مرجع: `RAY`
+**34** · «By the morning of the eighth day, the water tank is almost empty.» — مرجع: `RAY`
 ```
 Close-up of the small transparent water tank behind the machine, almost completely empty, only a few drops at the bottom; the grey-cap stickman's hand from the reference holds an empty bottle under the dripping valve. Worried mood, dim light. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**33** · «…sealed ration packages, compressed food blocks, and three containers of drinking water.» — مرجع: `RAY` + `JAX` + `DANIEL`
+**35** · «…sealed ration packages, compressed food blocks, and three containers of drinking water.» — مرجع: `RAY` + `JAX` + `DANIEL`
 ```
 A small alien storage room with tall shelves: sealed silver ration packages, stacked dense beige food blocks wrapped in clear film, and three large transparent water containers on the floor. The three stickmen from the references stand in the doorway, amazed, light spilling in from behind them. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**34** · «The food blocks are dense and dry… about a quarter of what an adult body needs.» — مرجع: `DANIEL`
+**36** · «The food blocks are dense and dry… about a quarter of what an adult body needs.» — مرجع: `DANIEL`
 ```
 Close-up of a dense dry beige food block in a gloved hand, small crumbs falling, the stickman Daniel from the reference in the background taking a reluctant bite, unimpressed expression. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**35** · «Jax reaches into his pocket. He finds a small chocolate bar.» — مرجع: `JAX`
+**37** · «Jax reaches into his pocket. He finds a small chocolate bar.» — مرجع: `JAX`
 ```
 Medium close-up of the black-beanie stickman from the reference, wearing the white protective suit with the helmet off, pulling a small slightly crushed chocolate bar out of his pocket, looking at it with a soft surprised smile. Warm light on the chocolate. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**36** · «Then he breaks it into three pieces.» — مرجع: `JAX` + `RAY` + `DANIEL`
+**38** · «Then he breaks it into three pieces.» — مرجع: `JAX` + `RAY` + `DANIEL`
 ```
 The three stickmen from the references sit in a small circle on the floor of the storage room; the black-beanie stickman breaks the chocolate bar into three equal pieces and hands them out, the grey-cap stickman and Daniel smiling for the first time. Warm, human moment in a cold place. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**37** · «Jax puts his piece back in his pocket. “Later.”» — مرجع: `JAX`
+**39** · «Jax puts his piece back in his pocket. “Later.”» — مرجع: `JAX`
 ```
 Close-up of the black-beanie stickman from the reference slipping his small piece of chocolate back into his pocket with a sly little grin and a wink. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**38** · «You start dividing the remaining supplies into daily portions.» — مرجع: `RAY` + `JAX` + `DANIEL`
+**40** · «You start dividing the remaining supplies into daily portions.» — مرجع: `RAY` + `JAX` + `DANIEL`
 ```
 Top-down view of the floor: food blocks and water bottles arranged in neat small groups like daily portions, a piece of paper with a hand-drawn tally list, the three stickmen's hands from the references sorting the supplies carefully. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
@@ -251,27 +272,27 @@ Top-down view of the floor: food blocks and water bottles arranged in neat small
 
 ## فصل ۵ — DAY 10
 
-**39** · «He removes a few screws and pulls the panel away.» — مرجع: `DANIEL`
+**41** · «He removes a few screws and pulls the panel away.» — مرجع: `DANIEL`
 ```
 The stickman Daniel in an orange maintenance jumpsuit from the reference kneels behind a row of humming machines, unscrewing a square metal wall panel with a small tool, screws on the floor, a dark opening behind the panel. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**40** · «A large ventilation fan is running inside… extremely dangerous.» — بدون مرجع
+**42** · «A large ventilation fan is running inside… extremely dangerous.» — بدون مرجع
 ```
 View down a narrow rectangular metal ventilation passage full of cables; at the far end a huge industrial fan spins fast, its blades a blur, wind blowing dust toward the viewer, ominous orange light behind the blades. Dangerous and claustrophobic. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**41** · «Daniel points to a control switch. You wait until the fan stops completely.» — مرجع: `DANIEL`
+**43** · «Daniel points to a control switch. You wait until the fan stops completely.» — مرجع: `DANIEL`
 ```
 The stickman Daniel from the reference flips a heavy lever switch on a wall box; in the background through the vent opening the giant fan's blades are slowing down, blades now clearly visible. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**42** · «Then you crawl through, one at a time.» — مرجع: `RAY` + `JAX` + `DANIEL`
+**44** · «Then you crawl through, one at a time.» — مرجع: `RAY` + `JAX` + `DANIEL`
 ```
 Side cutaway view of a narrow dusty ventilation passage: the three stickmen from the references crawl through in a line, one behind the other, past the stopped fan blades, cables along the walls, dust in the air, a small light at the end. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**43** · «Beyond it is the hangar. A shuttle is parked inside… several aliens are guarding it.» — مرجع: `ALIEN`
+**45** · «Beyond it is the hangar. A shuttle is parked inside… several aliens are guarding it.» — مرجع: `ALIEN`
 ```
 View through a small dirty observation window from inside a vent: a vast alien hangar with a sleek small silver shuttle parked in the center under bright lights, and several tall green aliens from the reference standing guard around it. Hope and danger in one frame. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
@@ -280,22 +301,22 @@ View through a small dirty observation window from inside a vent: a vast alien h
 
 ## فصل ۶ — DAY 12
 
-**44** · «…you observe the guards from a safe distance.» — مرجع: `RAY` + `JAX` + `DANIEL`
+**46** · «…you observe the guards from a safe distance.» — مرجع: `RAY` + `JAX` + `DANIEL`
 ```
 The three stickmen from the references lie on their stomachs inside a vent behind a metal grate, peeking down into a corridor through the gaps, their faces striped by shadows, watching silently. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**45** · «During the shift change, the main corridor stays empty for a short time.» — مرجع: `ALIEN`
+**47** · «During the shift change, the main corridor stays empty for a short time.» — مرجع: `ALIEN`
 ```
 A long curved main corridor of the alien ship: two tall green aliens from the reference walk away in opposite directions, leaving the center of the corridor empty, soft teal light, a camera dome on the ceiling. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**46** · «You write down the times on your paper.» — مرجع: `RAY`
+**48** · «You write down the times on your paper.» — مرجع: `RAY`
 ```
 Close-up of the grey-cap stickman from the reference writing small marks on his crumpled paper, his glowing wrist display beside the paper, a focused expression, dim vent light. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**47** · «…quietly enter a security room. Several monitors… a map of the lower levels.» — مرجع: `RAY`
+**49** · «…quietly enter a security room. Several monitors… a map of the lower levels.» — مرجع: `RAY`
 ```
 A dark alien security room: a curved wall of many glowing monitors showing different corridors and rooms of the ship from above, one large central screen showing a simple glowing schematic map of the lower levels; the grey-cap stickman from the reference stands in front of it, lit by the screens. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
@@ -304,32 +325,32 @@ A dark alien security room: a curved wall of many glowing monitors showing diffe
 
 ## فصل ۷ — DAY 15
 
-**48** · «You reach the power room… Daniel finds the emergency release.» — مرجع: `DANIEL`
+**50** · «You reach the power room… Daniel finds the emergency release.» — مرجع: `DANIEL`
 ```
 A huge alien power room full of humming electrical equipment, thick glowing cables and tall control panels; the stickman Daniel from the reference grips a large red emergency lever with both hands, about to pull it. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**49** · «A loud alarm immediately fills the ship. Red lights begin flashing.» — مرجع: `RAY` + `JAX` + `DANIEL`
+**51** · «A loud alarm immediately fills the ship. Red lights begin flashing.» — مرجع: `RAY` + `JAX` + `DANIEL`
 ```
 The power room is suddenly bathed in flashing red emergency light; the three stickmen from the references flinch, covering their ears, shocked, long red shadows on the walls. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**50** · «An alien enters the room… Every part of you behind the metal.» — مرجع: `ALIEN` + `RAY` + `JAX`
+**52** · «An alien enters the room… Every part of you behind the metal.» — مرجع: `ALIEN` + `RAY` + `JAX`
 ```
 Red-lit power room: a tall green alien from the reference stands in the doorway, eyes glowing with a faint green scanning light; in the foreground the grey-cap and black-beanie stickmen hide completely behind a large machine, knees pulled in, nothing sticking out; Daniel's orange sleeve barely visible behind a cabinet on the other side. Extreme tension. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**51** · «Instead, every corridor door on the lower level locks at once.» — بدون مرجع
+**53** · «Instead, every corridor door on the lower level locks at once.» — بدون مرجع
 ```
 A long alien corridor in red emergency light: a series of heavy round blast doors slamming shut one after another down the corridor, sparks at the seams, motion lines. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**52** · «The ship is in lockdown. The guards double.» — مرجع: `ALIEN`
+**54** · «The ship is in lockdown. The guards double.» — مرجع: `ALIEN`
 ```
 A wide corridor in red alarm light with twice as many tall green aliens from the reference walking in formation, searching, their eyes glowing. Threatening. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**53** · «…you hide inside the maintenance passage… drinking only when you have to.» — مرجع: `RAY` + `JAX` + `DANIEL`
+**55** · «…you hide inside the maintenance passage… drinking only when you have to.» — مرجع: `RAY` + `JAX` + `DANIEL`
 ```
 Inside the narrow dusty vent passage, the three exhausted stickmen from the references sit hunched together, sharing a single almost-empty water bottle, tiny sips, red alarm light flickering through a grate. Weak, tired, determined. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
@@ -338,27 +359,27 @@ Inside the narrow dusty vent passage, the three exhausted stickmen from the refe
 
 ## فصل ۸ — DAY 18
 
-**54** · «On the third day, the alarm finally stops.» — بدون مرجع
+**56** · «On the third day, the alarm finally stops.» — بدون مرجع
 ```
 The same alien corridor now calm again: red lights turned off, soft teal light back, blast doors open, empty and silent. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**55** · «Daniel reconnects a loose cable and activates the backup release.» — مرجع: `DANIEL`
+**57** · «Daniel reconnects a loose cable and activates the backup release.» — مرجع: `DANIEL`
 ```
 Close-up of the stickman Daniel's hands from the reference connecting two thick cable ends inside an open wall panel, a bright spark jumping between them, his face lit by the spark. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**56** · «A heavy door begins to open. The sound echoes… You freeze.» — مرجع: `RAY` + `JAX` + `DANIEL`
+**58** · «A heavy door begins to open. The sound echoes… You freeze.» — مرجع: `RAY` + `JAX` + `DANIEL`
 ```
 A massive heavy metal door slowly sliding open with dust falling from its edges; in front of it the three stickmen from the references freeze mid-step, wincing at the loud noise. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**57** · «Somewhere nearby, an alien responds to the noise.» — مرجع: `ALIEN`
+**59** · «Somewhere nearby, an alien responds to the noise.» — مرجع: `ALIEN`
 ```
 In a dim side corridor, a tall green alien from the reference stops and sharply turns its head toward the camera, eyes starting to glow, listening. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**58** · «But your last bottle of water is empty.» — مرجع: `RAY`
+**60** · «But your last bottle of water is empty.» — مرجع: `RAY`
 ```
 Close-up of the grey-cap stickman's hand from the reference shaking an empty clear water bottle upside down, not a single drop falling, his worried face blurred behind it. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
@@ -367,52 +388,52 @@ Close-up of the grey-cap stickman's hand from the reference shaking an empty cle
 
 ## فصل ۹ — DAY 20
 
-**59** · «You finally reach the hangar… one alien guard is standing near the entrance.» — مرجع: `ALIEN` + `RAY` + `JAX` + `DANIEL`
+**61** · «You finally reach the hangar… one alien guard is standing near the entrance.» — مرجع: `ALIEN` + `RAY` + `JAX` + `DANIEL`
 ```
 Wide shot of the vast alien hangar: the small silver shuttle in the center; one tall green alien from the reference stands guard near its entrance ramp; in the foreground the three stickmen hide behind a huge support column, peeking around it. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**60** · «…you use the identification card on the shuttle's access panel. The door opens.» — مرجع: `RAY`
+**62** · «…you use the identification card on the shuttle's access panel. The door opens.» — مرجع: `RAY`
 ```
 The grey-cap stickman from the reference presses the glowing card to the shuttle's access panel; the shuttle's side door hisses open with a burst of white light and steam. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**61** · «Under the seats, you find an emergency kit… Jax drinks first.» — مرجع: `JAX` + `SHUTTLE`
+**63** · «Under the seats, you find an emergency kit… Jax drinks first.» — مرجع: `JAX` + `SHUTTLE`
 ```
 Inside the shuttle cockpit from the reference: an emergency hatch under the seats is open, revealing water bottles and wrapped food blocks; the black-beanie stickman from the reference drinks greedily from a bottle, eyes closed in relief. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**62** · «Daniel moves toward the control panel… The display lights up.» — مرجع: `DANIEL` + `SHUTTLE`
+**64** · «Daniel moves toward the control panel… The display lights up.» — مرجع: `DANIEL` + `SHUTTLE`
 ```
 The stickman Daniel from the reference sits in the pilot seat of the shuttle cockpit, hands hovering over the glowing console, three large screens lighting up with blank bright teal glow, the stars visible through the window. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**63** · «You select Earth as the destination.» — مرجع: `SHUTTLE`
+**65** · «You select Earth as the destination.» — مرجع: `SHUTTLE`
 ```
 Close-up of a shuttle navigation screen showing a simple glowing map of the solar system with a small bright blue planet highlighted by a glowing circle, a finger touching it. No letters or numbers on the screen. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**64** · «Then the display changes. You stare at the screen.» — مرجع: `SHUTTLE`
+**66** · «Then the display changes. You stare at the screen.» — مرجع: `SHUTTLE`
 ```
 The same navigation screen now glowing red, the highlight circle jumped from the blue planet to a small red planet; red light spilling onto the cockpit. No letters or numbers on the screen. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**65** · «Jax turns toward you. “What?”» — مرجع: `RAY` + `JAX` + `DANIEL` + `SHUTTLE`
+**67** · «Jax turns toward you. “What?”» — مرجع: `RAY` + `JAX` + `DANIEL` + `SHUTTLE`
 ```
 Inside the shuttle cockpit, the three stickmen from the references stare at the red-glowing screen in disbelief; the black-beanie stickman turns his head toward the grey-cap stickman with a shocked open mouth. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**66** · «The hangar doors start closing. An alien appears outside the shuttle.» — مرجع: `ALIEN`
+**68** · «The hangar doors start closing. An alien appears outside the shuttle.» — مرجع: `ALIEN`
 ```
 View from inside the shuttle cockpit through the front window: the giant hangar doors closing in the background, red alarm lights flashing, and a tall green alien from the reference standing right outside the window, staring in, eyes glowing with scanning light. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**67** · «The shuttle launches just before the doors close.» — بدون مرجع
+**69** · «The shuttle launches just before the doors close.» — بدون مرجع
 ```
 Exterior shot: a small silver shuttle blasting out through the narrowing gap of two huge closing hangar doors of a colossal alien mothership, engine flames bright teal, sparks and debris, stars behind. Dynamic and explosive. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**68** · «For the first time in twenty days, you're free. But you're not going home.» — بدون مرجع
+**70** · «For the first time in twenty days, you're free. But you're not going home.» — بدون مرجع
 ```
 Wide space shot: the tiny silver shuttle flying away into the dark, the giant alien mothership shrinking behind it, a distant small red dot of Mars ahead. Quiet, lonely, bittersweet. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
@@ -421,22 +442,22 @@ Wide space shot: the tiny silver shuttle flying away into the dark, the giant al
 
 ## فصل ۱۰ — DAY 22
 
-**69** · «A human spacecraft needs about seven months to reach Mars.» — بدون مرجع
+**71** · «A human spacecraft needs about seven months to reach Mars.» — بدون مرجع
 ```
 Simple infographic-style space illustration: Earth on the left, Mars on the right, a long dotted curved path between them with a small classic human spacecraft on it, a starry dark background. No text, no numbers. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**70** · «You shut down every system you don't need… The cabin turns cold.» — مرجع: `SHUTTLE`
+**72** · «You shut down every system you don't need… The cabin turns cold.» — مرجع: `SHUTTLE`
 ```
 The shuttle cockpit from the reference with all screens and lights switched off, only a faint blue starlight through the window, thin frost forming on the metal surfaces and window edges, visible cold. Silent and dark. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**71** · «You put the suits back on.» — مرجع: `SUITS` + `DANIEL` + `SHUTTLE`
+**73** · «You put the suits back on.» — مرجع: `SUITS` + `DANIEL` + `SHUTTLE`
 ```
 In the cold dark shuttle cockpit, the three stickmen sit strapped in their seats wearing the white protective suits with clear bubble helmets from the reference (Daniel in a matching suit, orange jumpsuit visible underneath), small teal lights glowing on their wrists. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**72** · «And then you do the hardest thing. Nothing. You stay still. You breathe slowly.» — مرجع: `RAY` + `SUITS`
+**74** · «And then you do the hardest thing. Nothing. You stay still. You breathe slowly.» — مرجع: `RAY` + `SUITS`
 ```
 Close-up of the grey-cap stickman's face inside a clear bubble helmet from the reference, eyes half closed, breathing slowly and calmly, a faint fog of breath on the inside of the visor, stars reflected on the glass. Calm, meditative, fragile. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
@@ -445,22 +466,22 @@ Close-up of the grey-cap stickman's face inside a clear bubble helmet from the r
 
 ## فصل ۱۱ — DAY 27
 
-**73** · «A large red planet fills the window. Mars.» — مرجع: `SHUTTLE`
+**75** · «A large red planet fills the window. Mars.» — مرجع: `SHUTTLE`
 ```
 View from inside the shuttle cockpit through the front window: the huge red planet Mars fills the entire window, craters and dusty red surface details, thin pale atmosphere glow at its edge, the silhouettes of three helmeted heads in the foreground. Awe and dread. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**74** · «The air on Mars is about one percent as thick as Earth's.» — بدون مرجع
+**76** · «The air on Mars is about one percent as thick as Earth's.» — بدون مرجع
 ```
 Simple comparison illustration: on the left, Earth with a thick glowing blue atmosphere layer; on the right, Mars with an extremely thin, barely visible pale atmosphere layer; dark space background. No text, no numbers. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**75** · «The heat shield glows as the outside temperature rises.» — بدون مرجع
+**77** · «The heat shield glows as the outside temperature rises.» — بدون مرجع
 ```
 Exterior shot of the small silver shuttle plunging into the Martian atmosphere at an angle, its bottom heat shield glowing bright orange and white, a trail of fiery plasma behind it, the red planet below. Dramatic. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**76** · «He breaks it in half and gives you one. “Later is now.”» — مرجع: `RAY` + `JAX` + `SUITS`
+**78** · «He breaks it in half and gives you one. “Later is now.”» — مرجع: `RAY` + `JAX` + `SUITS`
 ```
 Inside the shaking shuttle cockpit with orange glow coming through the window, the black-beanie stickman in a white protective suit with his helmet visor open hands half of a small chocolate piece to the grey-cap stickman, a brave tired smile on his face. Emotional, warm moment amid chaos. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
@@ -469,17 +490,17 @@ Inside the shaking shuttle cockpit with orange glow coming through the window, t
 
 ## فصل ۱۲ — DAY 29
 
-**77** · «CONTROL SYSTEM FAILURE. The shuttle begins spinning.» — مرجع: `DANIEL` + `SHUTTLE`
+**79** · «CONTROL SYSTEM FAILURE. The shuttle begins spinning.» — مرجع: `DANIEL` + `SHUTTLE`
 ```
 Chaotic shuttle cockpit bathed in flashing red warning light, sparks bursting from the console, the horizon of Mars tilting sharply through the window; the stickman Daniel in a suit from the reference fights the controls, the others pressed into their seats. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**78** · «The surface of Mars is rushing toward you.» — بدون مرجع
+**80** · «The surface of Mars is rushing toward you.» — بدون مرجع
 ```
 Exterior shot: the small silver shuttle spinning out of control toward the red rocky surface of Mars, trailing smoke, red canyons and rocks below, dusty orange sky. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**79** · «The shuttle hits the ground. Metal tears apart.» — بدون مرجع
+**81** · «The shuttle hits the ground. Metal tears apart.» — بدون مرجع
 ```
 Exterior impact shot: the shuttle crashing into red Martian sand, a huge explosion of red dust and rocks, metal pieces flying, a long trench carved behind it. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
@@ -488,22 +509,22 @@ Exterior impact shot: the shuttle crashing into red Martian sand, a huge explosi
 
 ## فصل ۱۳ — DAY 30
 
-**80** · «You slowly open your eyes… Smoke fills the cabin.» — مرجع: `RAY` + `SUITS`
+**82** · «You slowly open your eyes… Smoke fills the cabin.» — مرجع: `RAY` + `SUITS`
 ```
 Close-up inside a cracked clear bubble helmet: the grey-cap stickman from the reference slowly opening his eyes, dazed, thin smoke drifting through the broken dark cabin behind him, a faint red light. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**81** · «You look toward Jax. He's still breathing. …Daniel coughing.» — مرجع: `JAX` + `DANIEL` + `SUITS`
+**83** · «You look toward Jax. He's still breathing. …Daniel coughing.» — مرجع: `JAX` + `DANIEL` + `SUITS`
 ```
 Inside the wrecked shuttle cabin full of thin smoke: the black-beanie stickman in a white suit slumped in his seat but breathing, fog on his visor; behind him the stickman Daniel coughing, pushing debris off his lap. Dusty red light through cracks. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**82** · «Red sand. Rocks. A dark sky.» — بدون مرجع
+**84** · «Red sand. Rocks. A dark sky.» — بدون مرجع
 ```
 View through a broken shuttle window with cracked glass edges: an endless Martian landscape of red sand dunes and scattered dark rocks, a dark dusky sky with a small pale sun, silent and empty. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
 
-**83** · «You're on Mars… And now, you have thirty days to survive.» — مرجع: `RAY` + `JAX` + `DANIEL` + `SUITS`
+**85** · «You're on Mars… And now, you have thirty days to survive.» — مرجع: `RAY` + `JAX` + `DANIEL` + `SUITS`
 ```
 Epic wide final shot: the crashed silver shuttle half buried in red Martian sand, a long trench behind it, three tiny stickmen in white protective suits standing beside the wreck looking out over the vast red desert under a dark sky. Lonely, epic, cliffhanger. Detailed hand-drawn 2D cartoon illustration, thick clean black outlines, smooth cel shading with soft gradients, cinematic lighting, rich detailed background, sharp focus, 16:9, no text, no letters, no watermark.
 ```
