@@ -526,7 +526,7 @@ The cabin turns cold.
 
 You put the suits back on.
 
-The suit oxygen you saved on day three is now the reason you can breathe.
+The suit oxygen you saved on day two is now the reason you can breathe.
 
 You ration the water to one liter each per day.
 
