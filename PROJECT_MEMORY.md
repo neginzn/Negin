@@ -54,6 +54,11 @@ Last updated: 15 Nov 2026. Written so a brand-new Claude session can continue th
 - Existing Ray videos: Short "Aliens Invaded..." (515 views), long video "Can You Survive 30 Days..." (16 views). Ask before changing/privating anything.
 - Episode 1 script, titles, 18 brick-style image prompts, host design: `research/what-if/ep01-always-winter.md`.
 
+## UPDATE 26 Nov 2026 (night): What If host "Bo" is final
+- Reference image: `assets/what-if/bo_reference.jpg` (square-bodied brick figure: blue knitted beanie, white sunglasses, plain white tee with beige sleeves, navy trousers with white side stripe + white drawstring, white sneakers; NO text/logos). She chose exactly this look (minifigure-like, claw hands). Claude warned about trademark risk twice; decision is hers. Rules kept: never write the word LEGO anywhere (name/title/tags/description), no logos/text on clothes.
+- Profile image: `assets/what-if/profile_bo_800.png`. Style line v2 (photoreal macro bricks) is in `channels/what-if-bricks.md`.
+- Still pending: final channel name (suggested The What If Toybox), banner, ElevenLabs key, Bo scene images, ElevenLabs voice for ep01.
+
 ## Git
 - All work is on branch **`claude/youtube-viral-seo-rules-t1g9ga`** (main only has the initial commit unless merged). Commit and push there. Do not open PRs unless asked.
 
