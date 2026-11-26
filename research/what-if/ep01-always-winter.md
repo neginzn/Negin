@@ -104,13 +104,13 @@ And next time: what if one single person ruled the entire world?
 ---
 
 ## SCENE LIST + IMAGE PROMPTS (16:9)
-`STYLE` (append to every prompt): `Glossy generic plastic toy bricks with visible studs, tilt-shift miniature look, shallow depth of field, soft studio lighting, handmade toy-model feel, 16:9, no text, no letters, no logos, no brand names, no watermark.`
+`STYLE` (append to every prompt): `Photorealistic macro photograph of a miniature scene built entirely from glossy generic plastic building bricks, ultra-detailed visible studs and seams, crisp plastic reflections, tiny scratches and fingerprints on the bricks, tilt-shift depth of field, soft studio lighting, cinematic color grading, extremely sharp focus, 8K detail, 16:9, no text, no letters, no logos, no brand names, no watermark.`
 Figures (never copy the official minifigure): `small toy-brick figure with a squared block head, simple painted dot eyes and a smile, mitten-shaped hands, no stud on top of the head`.
 Host **Bo**: same figure with an orange scarf and a blue beanie. Reference: character sheet from `HOST` prompt below.
 
 **HOST** (make first, use as reference everywhere)
 ```
-Character reference sheet of a small toy-brick figure named Bo: squared block head with simple painted dot eyes and a friendly smile, mitten-shaped hands, no stud on top of the head, blue knitted beanie and a bright orange scarf, short block body, front, three-quarter and side views on a plain light grey background. Glossy generic plastic toy bricks with visible studs, soft studio lighting, 16:9, no text, no letters, no logos, no brand names, no watermark.
+Character reference sheet of a small toy-brick figure named Bo: squared block head with simple painted dot eyes and a friendly smile, mitten-shaped hands, no stud on top of the head, blue knitted beanie and a bright orange scarf, short block body, front, three-quarter and side views on a plain light grey background. Photorealistic macro photograph of a miniature scene built entirely from glossy generic plastic building bricks, ultra-detailed visible studs and seams, crisp plastic reflections, tiny scratches and fingerprints on the bricks, tilt-shift depth of field, soft studio lighting, cinematic color grading, extremely sharp focus, 8K detail, 16:9, no text, no letters, no logos, no brand names, no watermark.
 ```
 
 1. **Hook, first day of spring**

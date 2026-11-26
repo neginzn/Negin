@@ -17,8 +17,8 @@
 ## Language plan
 English first. Persian version later (same footage, Persian voice + Persian on-screen text) once the English channel has ~3 videos.
 
-## Master style line for prompts
-`Glossy generic plastic toy bricks with visible studs, tilt-shift miniature look, shallow depth of field, soft studio lighting, handmade toy-model feel, 16:9, no text, no letters, no logos, no brand names, no watermark.`
+## Master style line for prompts (v2, higher quality, photoreal macro look)
+`Photorealistic macro photograph of a miniature scene built entirely from glossy generic plastic building bricks, ultra-detailed visible studs and seams, crisp plastic reflections, tiny scratches and fingerprints on the bricks, tilt-shift depth of field, soft studio lighting, cinematic color grading, extremely sharp focus, 8K detail, 16:9, no text, no letters, no logos, no brand names, no watermark.`
 
 ## Topic list
 1. What if it was always winter? (first video)
