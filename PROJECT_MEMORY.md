@@ -67,3 +67,7 @@ Last updated: 15 Nov 2026. Written so a brand-new Claude session can continue th
 2. Ray ep4: she continues generating images chapter by chapter; Claude assembles on the voice track with HUD, scan overlays, SFX, SRT.
 3. More Shorts from Ray ep3 (vanishing girl, three knocks, red sneakers).
 4. Suggested weekly rhythm: Stranger Files 1 video/week; Ray 1 video every 2 weeks.
+
+## UPDATE 26 Nov 2026 (late): channel name + banner
+- Channel name decision: **The What If Toybox** (user renames in Studio herself). Banner: `assets/what-if/banner_subscribe_flow_2560x1440.png` (Flow-made, resized; outer letters S/E touch mobile safe zone). Profile: user has hi-res version; upload issue = use Files/Safari Studio, not Photos/app.
+- Next: ep01 scene images in Flow (batch 1 = scenes 1-5), Bo winter hoodie, ElevenLabs key (Network secrets, new session).
