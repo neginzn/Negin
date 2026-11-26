@@ -49,6 +49,11 @@ Last updated: 15 Nov 2026. Written so a brand-new Claude session can continue th
 - Ray channel has almost no audience; not abandoned, but low priority.
 - ElevenLabs key still NOT connected (she pasted a workspace id by mistake; the real key starts with `sk_`). Never use keys pasted in chat; they go in environment Network secrets.
 
+## UPDATE 26 Nov 2026 (evening): decision to convert the Ray channel into the "What If" channel
+- She decided to **rebrand the existing Ray channel (4 subs) into the What If brick channel** and start today. Her Windsor.ai connector is connected to this channel (YouTube account id 125801): Claude can read stats, reply to comments, update video details/privacy, add to playlists and **upload_video from a public URL (max 100 MB)**. Windsor plan = Trial (30 days history). Stranger Files is NOT connected yet (different Google account).
+- Existing Ray videos: Short "Aliens Invaded..." (515 views), long video "Can You Survive 30 Days..." (16 views). Ask before changing/privating anything.
+- Episode 1 script, titles, 18 brick-style image prompts, host design: `research/what-if/ep01-always-winter.md`.
+
 ## Git
 - All work is on branch **`claude/youtube-viral-seo-rules-t1g9ga`** (main only has the initial commit unless merged). Commit and push there. Do not open PRs unless asked.
 
