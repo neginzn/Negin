@@ -80,3 +80,5 @@ Last updated: 15 Nov 2026. Written so a brand-new Claude session can continue th
 - Ep01 shots received and saved: `assets/what-if/shots/ep01/` (H1-H8, D1-D14 except missing H9 and D8b). Silent animatic of hook: `assets/what-if/hook_animatic_silent.mp4`.
 - QA finding: Flow sometimes prints the brand name on studs in macro shots (seen in D5a, D9a, D9b(one stud), D12 globe even after edit, original globe; faint marks on D11 baseplate). Redo those with wide framing / stronger "blank studs" wording; check every new shot at zoom before use.
 - Bo in D12-like edit did not remove logos; use fresh generation instead of Edit.
+- Edit decisions (user, 26 Nov): NO background music, only sound effects where needed (wind, hits, power-down, silence beats). She LOVES strong motion graphics: animated HUD (day/temp), counters, thermometers, charts, red/amber/cool colour changes per section, glitch/flash at Year 5, map/timeline animations. Camera moves on stills (slow push/pull/pan) approved. Two voices (Bo + Professor).
+- Shot lists: `research/what-if/ep01-shotlist-hook-day1.md` (done), `ep01-shotlist-part2.md` (she is generating). Next: Year 1 to end.
