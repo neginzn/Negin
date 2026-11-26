@@ -98,14 +98,14 @@ Food gets more expensive, more local, more careful. But it keeps growing.
 
 📊 YEAR 100 | AVG TEMP: 9 C (scenario)
 
-**[YEAR 100]** (scenes 20-22)
+**[YEAR 100]** (scenes 20-21)
 A hundred years later, the world looks like the last ice age.
 About twenty thousand years ago, Earth was roughly six degrees colder than today.
 Giant ice sheets, miles thick, covered Canada and Northern Europe. Sea level was more than a hundred meters lower.
 And people survived, with fire, fur, and spears.
 We'd have far better tools. But it would be a smaller, colder, more crowded world.
 
-**[OUTRO]** (scenes 22-23)
+**[OUTRO]** (scene 22)
 So, what if winter never ended?
 We would survive. But the hardest year wouldn't be the coldest one. It would be year five, when the world has to decide whether to share, or to fight over what's left.
 Would you move to the equator, or stay and face the cold? Tell me in the comments.
