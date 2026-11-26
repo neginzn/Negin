@@ -30,9 +30,10 @@ Thumbnail text ideas (3 words max, adds to the title): `NO MORE SPRING` / `YEAR 
 It's the first day of spring.
 But the snow doesn't melt.
 Not tomorrow. Not next year. Not ever.
-If winter never ended, one year would probably decide whether the world holds together.
-It's not day one. And it's not year one hundred.
-Stay until year five. But first, day one.
+If winter never ended, it wouldn't be day one that breaks us.
+Not the first year. Not even the hundredth.
+Year five. That's when things could start falling apart.
+But first, day one.
 
 *(thought-experiment note goes on screen as small text, not spoken: "A thought experiment, not a prediction. Temperatures are scenario assumptions.")*
 
@@ -54,7 +55,7 @@ Scientists call it the ice-albedo feedback. Winter, feeding itself.
 By the end of the first week, the pipes start freezing.
 Ponds. Rivers. Even the water in your house.
 And here's a trap: you're surrounded by snow, so why not eat it?
-Because your body has to burn its own heat to melt it. In the cold, that can make you colder.
+Eating snow directly can cool your body down, especially when you're already freezing.
 Melt it first. Then drink.
 But water is the small problem. The big one is food.
 
@@ -79,7 +80,7 @@ And that's where the real trouble begins.
 
 **[YEAR 5]** (scenes 13-16)  <- NEW, the turning point promised in the hook
 By year five, this is no longer a weather problem. It's a civilization problem.
-Rich countries start rationing food. Poor countries can't afford to buy it.
+Even wealthy countries begin rationing food. Poorer countries face something worse: they may not be able to afford what's left.
 And some countries stop selling it. Export bans are real: Russia banned grain exports after its 2010 drought, and India banned wheat exports in 2022. Now imagine every country doing it at once.
 Big cities in the north run short of fuel and electricity, just when they need heat the most.
 And the warm regions near the equator, the new safe lands, receive a wave of people they have no homes, food, or jobs for.
@@ -94,7 +95,7 @@ By year ten, we adapt. We always do.
 Energy first. Solar panels buried in snow work badly. But geothermal and nuclear plants don't care about the weather. The ones that keep running become the new lifelines.
 Then food. Farms go underground, under bright LED lights. Greenhouses spread, heated by hot water from deep in the ground.
 This is already real. In Iceland, geothermal greenhouses grow tomatoes, cucumbers, even bananas, in the middle of a snowy country.
-Food gets more expensive, more local, more careful. But it keeps growing.
+Fresh vegetables become possible again. But feeding billions of people is still a massive challenge. Indoor farms need enormous amounts of energy, and not every country can afford them.
 
 📊 YEAR 100 | AVG TEMP: 9 C (scenario)
 
@@ -111,7 +112,7 @@ We would survive. But the hardest year wouldn't be the coldest one. It would be 
 Would you move to the equator, or stay and face the cold? Tell me in the comments.
 And next time: what if one single person ruled the entire world?
 
-Runtime estimate: ~1,010 words at 150 wpm = about 6 min 45 s.
+Runtime estimate: see voiceover file (~6:50 incl. pauses).
 
 ---
 
