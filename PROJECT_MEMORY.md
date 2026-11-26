@@ -77,3 +77,6 @@ Last updated: 15 Nov 2026. Written so a brand-new Claude session can continue th
 - Bo = narrator; the Professor explains the science (about 17 lines). Two ElevenLabs voices. Script: `research/what-if/ep01-voiceover-DUO.txt` (~1690 words, ~11.5 min). Old single-voice: `ep01-voiceover-FINAL.txt`. Extra scenes 37-42 in `ep01-always-winter.md`.
 - Higgsfield free plan cannot generate images (needs Basic plan). She generates images in Flow; Claude does everything after.
 - Bo winter hoodie reference saved: `assets/what-if/bo_hoodie_reference.jpg` (orange hooded sweatshirt, hood down, kangaroo pocket; beanie, white sunglasses, navy trousers with white stripe, white sneakers). Use for all snow/winter scenes.
+- Ep01 shots received and saved: `assets/what-if/shots/ep01/` (H1-H8, D1-D14 except missing H9 and D8b). Silent animatic of hook: `assets/what-if/hook_animatic_silent.mp4`.
+- QA finding: Flow sometimes prints the brand name on studs in macro shots (seen in D5a, D9a, D9b(one stud), D12 globe even after edit, original globe; faint marks on D11 baseplate). Redo those with wide framing / stronger "blank studs" wording; check every new shot at zoom before use.
+- Bo in D12-like edit did not remove logos; use fresh generation instead of Edit.
