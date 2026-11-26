@@ -24,82 +24,94 @@ Thumbnail text ideas (3 words max, adds to the title): `NO MORE SPRING` / `YEAR 
 
 ---
 
-## SCRIPT
+## SCRIPT (v2: Year 5 added, hook and flow tightened)
 
 **[HOOK]** (scene 1-2)
 It's the first day of spring.
 But the snow doesn't melt.
-Not tomorrow. Not next month. Not ever.
-What if winter never ended?
-Let's find out, from day one, to year one hundred.
+Not tomorrow. Not next year. Not ever.
+If winter never ended, one year would probably decide whether the world holds together.
+It's not day one. And it's not year one hundred.
+Stay until year five. But first, day one.
 
-Quick note: seasons don't come from Earth getting closer to or farther from the Sun. They come from Earth's tilt, about twenty-three and a half degrees.
-So for winter to stay forever, something big would have to change. A dimmer sun, a giant volcano, a different sky.
-Today, we won't ask how. We'll only ask: what then?
+*(thought-experiment note goes on screen as small text, not spoken: "A thought experiment, not a prediction. Temperatures are scenario assumptions.")*
 
 📊 DAY 1 | AVG TEMP: 15 C (scenario)
 
-**[DAY 1]** (scenes 3-5)
+**[DAY 1]** (scenes 3-6)
 At first, it looks beautiful.
 Snow on every roof. Quiet streets. Schools closed.
 But the heaters never turn off.
 Power grids built for a few cold weeks now have to carry the whole year.
-And the snow isn't just sitting there. Fresh snow bounces back about eighty to ninety percent of the sunlight that hits it.
-So the more snow there is, the colder it gets, which makes even more snow.
-Scientists call this the ice-albedo feedback. It's winter, feeding itself.
+And the snow makes things worse. Fresh snow bounces back about eighty to ninety percent of the sunlight that hits it.
+More snow means more cold, and more cold means more snow.
+Scientists call it the ice-albedo feedback. Winter, feeding itself.
+(One quick fact: seasons come from Earth's tilt, about twenty-three and a half degrees, not from distance to the Sun. So for winter to stay, something huge would have to change. Today we don't ask how. Only: what then?)
 
 📊 WEEK 1 | AVG TEMP: 14.5 C (scenario)
 
-**[WEEK 1]** (scene 6)
+**[WEEK 1]** (scene 7)
 By the end of the first week, the pipes start freezing.
 Ponds. Rivers. Even the water in your house.
 And here's a trap: you're surrounded by snow, so why not eat it?
-Because your body would have to burn its own heat to melt it. In the cold, that can make you colder.
+Because your body has to burn its own heat to melt it. In the cold, that can make you colder.
 Melt it first. Then drink.
+But water is the small problem. The big one is food.
 
 📊 MONTH 3 | AVG TEMP: 13 C (scenario)
 
-**[MONTH 3]** (scenes 7-9)
-Now the real problem starts.
+**[MONTH 3]** (scenes 8-10)
 Farmers are waiting for spring. Seeds can't sprout in frozen soil.
 And the world doesn't keep much food in storage, roughly a few months of grain.
 This isn't pure imagination. It almost happened once.
-In 1816, after the huge Tambora volcano erupted, summer nearly disappeared across Europe and North America. There was snow in June in parts of New England. Crops failed, food prices exploded, and famine spread.
-And the planet only cooled by less than one degree Celsius on average.
+In 1816, after the huge Tambora volcano erupted, summer nearly disappeared across Europe and North America. Snow in June, in parts of New England. Crops failed, food prices exploded, and famine spread.
+And the planet cooled by less than one degree Celsius on average.
 Imagine ten times more.
 
 📊 YEAR 1 | AVG TEMP: 11 C (scenario)
 
-**[YEAR 1]** (scenes 10-12)
-People start to move.
+**[YEAR 1]** (scenes 11-12)
+So people start to move.
 Cities in the far north slowly empty out. Everyone heads toward the equator.
-The tropics would probably become the most valuable land on Earth.
-Energy changes too. Solar panels buried in snow work badly. But geothermal and nuclear plants don't care about the weather.
-The ones that keep running become the new lifelines.
+And that's where the real trouble begins.
+
+📊 YEAR 5 | AVG TEMP: 10.5 C (scenario)
+
+**[YEAR 5]** (scenes 13-16)  <- NEW, the turning point promised in the hook
+By year five, this is no longer a weather problem. It's a civilization problem.
+Rich countries start rationing food. Poor countries can't afford to buy it.
+And some countries stop selling it. Export bans are real: Russia banned grain exports after its 2010 drought, and India banned wheat exports in 2022. Now imagine every country doing it at once.
+Big cities in the north run short of fuel and electricity, just when they need heat the most.
+And the warm regions near the equator, the new safe lands, receive a wave of people they have no homes, food, or jobs for.
+That's the moment a climate crisis turns into a crisis of everything. Food, energy, borders, trust.
+That's year five. If the world is going to break, this is where.
+But humans don't break easily.
 
 📊 YEAR 10 | AVG TEMP: 10 C (scenario)
 
-**[YEAR 10]** (scenes 13-14)
-Humans adapt. We always do.
-Farms go underground, under bright LED lights. Greenhouses spread, heated by hot water from deep in the ground.
-This is already real. In Iceland, greenhouses heated by geothermal energy grow tomatoes and cucumbers, even bananas, in the middle of a snowy country.
+**[YEAR 10]** (scenes 17-19)
+By year ten, we adapt. We always do.
+Energy first. Solar panels buried in snow work badly. But geothermal and nuclear plants don't care about the weather. The ones that keep running become the new lifelines.
+Then food. Farms go underground, under bright LED lights. Greenhouses spread, heated by hot water from deep in the ground.
+This is already real. In Iceland, geothermal greenhouses grow tomatoes, cucumbers, even bananas, in the middle of a snowy country.
 Food gets more expensive, more local, more careful. But it keeps growing.
 
 📊 YEAR 100 | AVG TEMP: 9 C (scenario)
 
-**[YEAR 100]** (scenes 15-17)
+**[YEAR 100]** (scenes 20-22)
 A hundred years later, the world looks like the last ice age.
 About twenty thousand years ago, Earth was roughly six degrees colder than today.
 Giant ice sheets, miles thick, covered Canada and Northern Europe. Sea level was more than a hundred meters lower.
 And people survived, with fire, fur, and spears.
-We'd have far better tools.
-But it would be a smaller, colder, more crowded world.
+We'd have far better tools. But it would be a smaller, colder, more crowded world.
 
-**[OUTRO]** (scenes 17-18)
+**[OUTRO]** (scenes 22-23)
 So, what if winter never ended?
-We would survive. But we would change everything: where we live, what we eat, even what we call home.
+We would survive. But the hardest year wouldn't be the coldest one. It would be year five, when the world has to decide whether to share, or to fight over what's left.
 Would you move to the equator, or stay and face the cold? Tell me in the comments.
 And next time: what if one single person ruled the entire world?
+
+Runtime estimate: ~1,010 words at 150 wpm = about 6 min 45 s.
 
 ---
 
@@ -161,34 +173,54 @@ A long line of small toy-brick figures with suitcases and sleds walking along a 
 ```
 A crowded sunny toy-brick tropical city on the coast with palm trees and beach, packed with small figures arriving, big contrast with snow-covered mountains far in the background. STYLE
 ```
-13. **Energy: solar buried vs geothermal**
+13. **Year 5: rationing line**
+```
+A long line of small toy-brick figures in winter coats queueing outside a toy-brick grocery store where only a few shelves hold food, a small brick guard handing out thin paper-bag rations, tense and quiet, cold blue evening light. STYLE
+```
+14. **Year 5: export ban**
+```
+A toy-brick harbor with huge cargo ships tied up and idle, stacked grain sacks blocked behind a closed striped barrier gate, a small figure in a coat shrugging next to it, grey winter light. STYLE
+```
+15. **Year 5: dark northern city**
+```
+A toy-brick big city at dusk, only a few windows lit, many street lights off, long dark streets under thick snow, small figures in coats huddled around a single warm brick street heater. STYLE
+```
+16. **Year 5: crowded warm land**
+```
+A tropical toy-brick coastline overwhelmed by newcomers: tents and tiny shelters on the beach, long queues at a border gate, palm trees in the background, crowded and tense but warm sunlight. STYLE
+```
+17. **Energy: solar buried vs geothermal**
 ```
 Split composition: on the left a field of toy-brick solar panels completely buried under snow; on the right a toy-brick geothermal power plant with warm steam rising and glowing windows, snow all around. STYLE
 ```
-14. **Year 10 underground farm**
+18. **Year 10 underground farm**
 ```
 An underground toy-brick farm tunnel with rows of green lettuce and tomatoes growing under bright pink and white LED lights, small figures in work clothes harvesting, warm and busy. STYLE
 ```
-15. **Iceland-style greenhouse**
+19. **Iceland-style greenhouse**
 ```
 A big glass toy-brick greenhouse glowing warm from inside, full of tomato plants and banana trees, surrounded by deep snow and steaming hot-spring pools, night, magical contrast. STYLE
 ```
-16. **Year 100 ice-age world**
+20. **Year 100 ice-age world**
 ```
 A wide landscape of a toy-brick continent covered by a gigantic wall of white ice sheets many studs thick, a small brick city under glass domes at the edge, the sea lower and far away, long cold blue shadows. STYLE
 ```
-17. **Ancient survivors**
+21. **Ancient survivors**
 ```
 Small toy-brick figures in fur coats sitting around a campfire in an ice cave, holding stick spears, orange firelight on their faces, huge ice walls around them, cozy and resilient. STYLE
 ```
-18. **Outro / next video teaser**
+22. **Outro / next video teaser**
 ```
 The host figure Bo (reference) standing on top of a toy-brick globe, looking at a golden toy-brick throne with a single small crown on it, curious. STYLE
 ```
 
+Mapping note: scenes 1-12 are unchanged; 13-16 are NEW (Year 5); old 13-18 are now 17-22 (energy, underground farm, greenhouse, year 100, survivors, outro). Script scene tags above are approximate, match by title when building the edit.
+
 ## Fact sources to double-check before publishing
 - Fresh-snow albedo about 0.8 to 0.9 (reflects 80-90% of sunlight).
 - Year Without a Summer: 1816, after the Tambora eruption (1815); global cooling well under 1 C; snow in June in parts of New England; crop failures and famine in Europe.
+- Export bans: Russia banned grain exports in Aug 2010 after drought and wildfires; India banned wheat exports in May 2022. (Re-check wording and dates before voicing.)
 - Last Glacial Maximum: about 20,000 years ago, ~6 C colder than today; large ice sheets over Canada and Northern Europe; sea level more than 100 m lower.
 - Iceland geothermal greenhouses grow tomatoes, cucumbers and bananas.
 - World grain stocks: "roughly a few months of use" (check latest FAO stocks-to-use figure before stating a number).
+- Year 5 events (rationing, blackouts, migration pressure) are scenario reasoning, always said with "probably/would", never as fact.
