@@ -71,3 +71,8 @@ Last updated: 15 Nov 2026. Written so a brand-new Claude session can continue th
 ## UPDATE 26 Nov 2026 (late): channel name + banner
 - Channel name decision: **The What If Toybox** (user renames in Studio herself). Banner: `assets/what-if/banner_subscribe_flow_2560x1440.png` (Flow-made, resized; outer letters S/E touch mobile safe zone). Profile: user has hi-res version; upload issue = use Files/Safari Studio, not Photos/app.
 - Next: ep01 scene images in Flow (batch 1 = scenes 1-5), Bo winter hoodie, ElevenLabs key (Network secrets, new session).
+
+## UPDATE 26 Nov 2026 (late): Professor character + duo script
+- New second character **the Professor** (white wild hair, mustache, round glasses, white lab coat, green vest, red bow tie, beige trousers). Reference: `assets/what-if/professor_reference.jpg`. She chose an Einstein-like look on purpose: never name Einstein/Albert in video, title, tags or description; no E=mc2.
+- Bo = narrator; the Professor explains the science (about 17 lines). Two ElevenLabs voices. Script: `research/what-if/ep01-voiceover-DUO.txt` (~1690 words, ~11.5 min). Old single-voice: `ep01-voiceover-FINAL.txt`. Extra scenes 37-42 in `ep01-always-winter.md`.
+- Higgsfield free plan cannot generate images (needs Basic plan). She generates images in Flow; Claude does everything after.

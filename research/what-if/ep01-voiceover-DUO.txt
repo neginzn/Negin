@@ -1,0 +1,160 @@
+WHAT IF WINTER NEVER ENDED? (Day 1 to Year 1,000) - voiceover script DUO v6 (Bo + Professor, 10+ min)
+VOICES: two ElevenLabs voices. BO = main narrator (friendly, curious, younger). PROF = the Professor (older, warm, slightly raspy, calm). Generate each line with its voice, then I cut them together with natural pauses.
+SPEAKER ON SCREEN: Bo appears when BO speaks, the Professor appears (next to Bo) when PROF speaks; in between, scenes show the story world.
+
+
+[HOOK]
+BO: It's the first day of spring.
+BO: But the snow doesn't melt.
+BO: Not tomorrow. Not next year. Not ever.
+BO: If winter never ended, it wouldn't be day one that breaks us.
+BO: Not the first year. Not even the hundredth.
+BO: Year five. That's when things could start falling apart.
+BO: But first, day one.
+
+[DAY 1]  (HUD: DAY 1 | 15 C)
+BO: At first, it looks beautiful.
+BO: Snow on every roof. Quiet streets. Schools closed.
+BO: But the heaters never turn off.
+BO: Power grids built for a few cold weeks now have to carry the whole year.
+BO: And the snow makes things worse. Professor, why does more snow make it colder?
+PROF: Great question, Bo. Fresh snow bounces back about eighty to ninety percent of the sunlight that hits it.
+PROF: More snow means more cold, and more cold means more snow.
+PROF: Scientists call it the ice-albedo feedback. Winter, feeding itself.
+BO: But wait. Isn't winter just Earth being far from the Sun?
+PROF: Not at all. Seasons come from Earth's tilt, about twenty-three and a half degrees, not from distance to the Sun.
+PROF: So for winter to stay, something huge would have to change. We'll come back to what, at the end.
+BO: For now, we only ask: what then?
+
+[DAY 3]  (HUD: DAY 3 | 14.8 C)
+BO: By day three, the roads give up.
+BO: Snowplows run out of fuel. Salt runs out. Trucks get stuck, and airports close one by one.
+BO: And that matters, because modern cities run on a very thin margin.
+BO: Most supermarkets keep only a few days of food on their shelves. The rest is always on a truck, on its way.
+BO: So when the trucks stop, the shelves start to empty.
+BO: Not in a month. In days.
+
+[WEEK 1]  (HUD: WEEK 1 | 14.5 C)
+BO: By the end of the first week, the pipes start freezing.
+BO: Ponds. Rivers. Even the water in your house.
+BO: And here's a trap: you're surrounded by snow, so why not eat it?
+PROF: Eating snow directly can cool your body down, especially when you're already freezing.
+PROF: Melt it first. Then drink.
+BO: And there's a second trap. People start burning anything to stay warm. Charcoal grills indoors. Gas stoves for heating.
+PROF: In real winter disasters, carbon monoxide poisoning is one of the biggest silent killers.
+PROF: You can't see it. You can't smell it.
+BO: The cold is loud. This killer is quiet.
+
+[MONTH 1]  (HUD: MONTH 1 | 14 C)
+BO: Now look outside, at nature.
+BO: The flowers that should be blooming never open. The insects that should be waking up never wake. Bees stay in their hives, and many plants have no one to pollinate them.
+BO: Birds that came back from the south find nothing to eat, and turn around.
+BO: Forests that should be loud with life are quiet.
+BO: And that is the first sign that this isn't just a very long winter.
+BO: It's the missing half of a cycle that everything depends on.
+
+[MONTH 3]  (HUD: MONTH 3 | 13 C)
+BO: Then comes the real problem. Farmers are waiting for spring. Seeds can't sprout in frozen soil.
+BO: And the world doesn't keep much food in storage, roughly a few months of grain.
+BO: Rivers and harbors freeze, so even the food that exists has a harder time moving.
+BO: This isn't pure imagination. Professor, has it ever really happened?
+PROF: Almost. In 1816, after the huge Tambora volcano erupted, summer nearly disappeared across Europe and North America. Snow in June, in parts of New England. Crops failed, food prices exploded, and famine spread.
+PROF: And the planet cooled by less than one degree Celsius on average.
+BO: Now imagine a cooling event that doesn't end after one summer.
+BO: What happens when the next spring never comes?
+
+[IF YOU HAD TO SURVIVE]  (HUD: MONTH 3 | 13 C)
+BO: Now, let's make it personal. If you were living through this, what would actually keep you alive?
+BO: First: heat one small room, not the whole house. A small space with good insulation is far easier to keep warm.
+BO: Second: layers. Several thin layers trap more warm air than one thick coat.
+BO: Third: water and food that doesn't need a kitchen. Rice, beans, canned food, and a way to melt snow safely.
+BO: And fourth, the one people forget: don't do it alone.
+BO: Communities that share heat, food and tools survive far better than people who hide behind their doors.
+BO: That idea will matter a lot, very soon.
+
+[YEAR 1]  (HUD: YEAR 1 | 11 C)
+BO: So people start to move.
+BO: Cities in the far north slowly empty out. Everyone heads toward the equator.
+BO: And the north isn't just any place. Some of the world's biggest wheat exporters, like Russia, Canada and Ukraine, sit in the cold part of the map.
+BO: When their farms freeze, the whole planet feels it.
+BO: The tropics would probably become the most valuable land on Earth.
+BO: And that's where the real trouble begins.
+
+[YEAR 5]  (HUD: YEAR 5 | 10.5 C)
+BO: By year five, this is no longer a weather problem. It's a civilization problem.
+BO: Even wealthy countries begin rationing food. Poorer countries face something worse: they may not be able to afford what's left.
+BO: Supermarket shelves stand bare. Lines for bread stretch around the block. People wait in the cold for hours, just to carry home a small ration.
+BO: And some countries stop selling it. Export bans are real: Russia banned grain exports after its 2010 drought, and India restricted wheat exports in 2022. Now imagine dozens of countries doing the same thing at once.
+BO: Big cities in the north run short of fuel and electricity, just when they need heat the most.
+BO: Whole districts would go dark at night. Hospitals and a few key buildings keep the power. The rest of the city waits in the black.
+BO: And the warm regions near the equator, the new safe lands, receive a wave of people they have no homes, food, or jobs for.
+BO: Long columns of people walk toward the border gates, with sleds, with children, with everything they own.
+BO: That's the moment a climate crisis turns into a crisis of everything. Food, energy, borders, trust.
+BO: That's year five. If the world is going to break, this is where.
+BO: But humans don't break easily.
+
+[YEAR 10]  (HUD: YEAR 10 | 10 C)
+BO: By year ten, something quiet happens. People stop only surviving, and start building.
+BO: We adapt. We always do.
+BO: Energy first. Solar panels buried in snow work badly. But geothermal and nuclear plants don't care about the weather. The ones that keep running become the new lifelines.
+BO: Then food. Farms go underground, under bright LED lights. Greenhouses spread, heated by hot water from deep in the ground.
+BO: This is already real. In Iceland, geothermal greenhouses grow tomatoes, cucumbers, even bananas, in the middle of a snowy country.
+BO: Fresh vegetables become possible again. But feeding billions of people is still a massive challenge. Indoor farms need enormous amounts of energy, and not every country can afford them.
+BO: But for the first time in years, warm windows glow in the snow. A world that has learned to live with the cold.
+
+[YEAR 25]  (HUD: YEAR 25 | 9.6 C)
+BO: Twenty-five years in, something strange happens.
+BO: A whole generation grows up that has never seen a summer.
+BO: For them, snow isn't magic. It's just weather. Spring is a story their grandparents tell.
+BO: Cities change shape. Streets move underground, into tunnels and heated halls, with the snow left on top.
+BO: And the map of power changes too.
+BO: Countries that were rich because of cold-climate farms, oil and trade lose ground.
+BO: Countries near the equator, with warm land and sunlight, probably gain more than they ever had.
+BO: Nothing is fair about it. But it is how the world would likely rebalance.
+
+[YEAR 50]  (HUD: YEAR 50 | 9.3 C)
+BO: Half a century in, nature has also found a new balance.
+BO: Cold-adapted animals spread toward the equator, moving into regions that were once too warm for them.
+BO: But here's a surprise. The tropics wouldn't be a paradise either.
+BO: In the last ice age, much of the tropics became drier, and rainforests shrank.
+BO: Safe doesn't mean easy.
+BO: So even the new safe lands would need careful, shared management of water and food.
+BO: Which brings us back to year five, and to that same question: share, or fight.
+
+[YEAR 100]  (HUD: YEAR 100 | 9 C)
+BO: A hundred years later, the average temperature could be approaching levels last seen during the ice age.
+BO: About twenty thousand years ago, Earth was roughly six degrees colder than today.
+BO: And people survived, with fire, fur, and spears.
+BO: We'd have far better tools. But it would be a smaller, colder, more crowded world.
+BO: Now, one honest detail, Professor. Wouldn't the ice sheets be here already?
+PROF: Not quite. Temperature changes fast, but ice sheets grow slowly.
+PROF: After a hundred years, the ice would still be spreading. The real ice age takes thousands of years to arrive.
+
+[YEAR 1,000+]  (HUD: YEAR 1,000+ | scenario)
+BO: So, jump ahead.
+BO: Giant ice sheets, miles thick, cover Canada and Northern Europe.
+BO: So much water is locked in the ice that sea level drops by more than a hundred meters.
+BO: New land appears. In the last ice age, Britain was connected to Europe by dry land, and Asia was connected to North America across the Bering Strait.
+BO: Maybe our descendants would walk across them.
+BO: Vast. Silent. Reshaped by ice.
+BO: A different planet. Same humans.
+
+[HOW COULD IT HAPPEN?]
+BO: So, how could winter really last this long?
+BO: We promised to come back to it, Professor.
+PROF: A dimmer sun is the least likely. In fact, the Sun is very slowly getting brighter.
+PROF: A huge volcanic eruption could do it for a few years. That's what Tambora did, on a small scale.
+PROF: So could a giant asteroid or a large nuclear war, by throwing dust and soot into the sky and blocking the light. Scientists call it a nuclear winter.
+PROF: Real ice ages are different. They come from slow changes in Earth's orbit, over tens of thousands of years.
+BO: So no, winter is not going to stay forever.
+BO: But the question is still worth asking, because the answer shows how fragile our food, our energy and our trust really are.
+
+[OUTRO]
+BO: Let's recap the whole journey.
+BO: Day three, the shelves empty. Month three, the food clock runs out. Year five, the world is tested. Year ten, we adapt. And over centuries, the planet itself changes shape.
+BO: So, what if winter never ended?
+BO: We would survive. But the hardest year wouldn't be the coldest one. It would be year five, when the world has to decide whether to share, or to fight over what's left.
+BO: Would you move to the equator, or stay and face the cold? Tell me in the comments.
+BO: And next time: what if one single person ruled the entire world?
+
+(On-screen small text at start: "A thought experiment, not a prediction. Temperatures are scenario assumptions.")

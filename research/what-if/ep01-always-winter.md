@@ -292,3 +292,29 @@ An enormous epic wide landscape of a toy-brick planet in deep ice age: towering 
 - **Year 5 (peak):** music drops to a low pulse; HUD turns red; cuts get faster (2-3 s per image): scenes 13 -> 31 -> 32 -> 14 -> 15 -> 34 -> 33 -> 16. SFX: wind, distant crowd murmur, a single power-down hum then silence for 1 s before "That's year five." Voice slower and lower.
 - **Year 10 (hope):** colour grade warmer, music rises with a gentle piano/strings, HUD turns warm amber, slow push-in shots: scenes 17 -> 18 -> 19 -> 35. Let the last line breathe (1 s silence).
 - **Year 1,000+ (awe):** slow wide drifts, deep low music swell, minimal HUD, scene 28 then 36 held 5-6 s. End with a tiny sound of wind.
+
+## PROFESSOR scenes (duo cut). Attach BOTH references: bo_reference (or hoodie Bo) + professor_reference. Keep both characters identical to their references.
+37. **Albedo: Bo asks, Professor explains**
+```
+Bo and the Professor (both exactly as in their reference images) standing side by side in a huge white toy-brick snow field, Bo in his orange hooded sweatshirt looking up with a question, the Professor pointing at bright sunbeams bouncing off the snow back into the sky as thin glowing lines. STYLE
+```
+38. **Tilt of Earth**
+```
+The Professor (exactly as in his reference) holding a small tilted glossy toy-brick globe next to a round yellow brick Sun, Bo in his orange hooded sweatshirt watching with his head tilted, plain soft studio backdrop. STYLE
+```
+39. **Eat snow? Melt it first**
+```
+Bo in his orange hooded sweatshirt and the Professor in a cozy toy-brick kitchen, a pot of snow melting over a small flame between them, the Professor holding up one finger as a warning, steam rising, snowy window. STYLE
+```
+40. **Tambora 1816**
+```
+The Professor (exactly as in his reference) pointing at a large toy-brick painting of an erupting volcano with dark ash clouds, Bo watching beside him, a thin layer of snow on a green toy-brick village visible through the window. STYLE
+```
+41. **Ice sheets grow slowly**
+```
+Bo and the Professor standing at the edge of a snowy toy-brick plain, a slow-growing wall of white brick ice in the distance, the Professor shaking his head gently, Bo curious, long cold shadows. STYLE
+```
+42. **How could it happen**
+```
+The Professor in front of a blackboard-like toy-brick wall with simple brick-built symbols (a volcano, an asteroid, a small sun), Bo sitting on a stack of bricks listening, warm classroom light. STYLE
+```
