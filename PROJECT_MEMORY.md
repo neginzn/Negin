@@ -43,6 +43,12 @@ Last updated: 15 Nov 2026. Written so a brand-new Claude session can continue th
 - **No computer connected.** Remote Control needs Mac/Linux with Claude Desktop.
 - **Upload** is always done by Negin (YouTube app / Studio). Related video on Shorts needed phone verification (done); "Advanced features" selfie verification was pending.
 
+
+## NEW (26 Nov 2026): "What If" channel idea
+- Decision: a **new separate channel** (not on Ray), generic **toy-brick** visual style (no LEGO name/minifig copy). Full rules: `channels/what-if-bricks.md`. English first, Persian version later. First video: "What if it was always winter?".
+- Ray channel has almost no audience; not abandoned, but low priority.
+- ElevenLabs key still NOT connected (she pasted a workspace id by mistake; the real key starts with `sk_`). Never use keys pasted in chat; they go in environment Network secrets.
+
 ## Git
 - All work is on branch **`claude/youtube-viral-seo-rules-t1g9ga`** (main only has the initial commit unless merged). Commit and push there. Do not open PRs unless asked.
 
