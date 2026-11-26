@@ -1,4 +1,4 @@
-WHAT IF WINTER NEVER ENDED? (Day 1 to Year 100) - voiceover script FINAL v3
+WHAT IF WINTER NEVER ENDED? (Day 1 to Year 1,000) - voiceover script FINAL v4 (long cut, 10+ min)
 
 [HOOK]
 It's the first day of spring.
@@ -17,7 +17,15 @@ Power grids built for a few cold weeks now have to carry the whole year.
 And the snow makes things worse. Fresh snow bounces back about eighty to ninety percent of the sunlight that hits it.
 More snow means more cold, and more cold means more snow.
 Scientists call it the ice-albedo feedback. Winter, feeding itself.
-One quick fact: seasons come from Earth's tilt, about twenty-three and a half degrees, not from distance to the Sun. So for winter to stay, something huge would have to change. Today we don't ask how. Only: what then?
+One quick fact: seasons come from Earth's tilt, about twenty-three and a half degrees, not from distance to the Sun. So for winter to stay, something huge would have to change. We'll come back to what, at the end. For now, we only ask: what then?
+
+[DAY 3]  (HUD: DAY 3 | 14.8 C)
+By day three, the roads give up.
+Snowplows run out of fuel. Salt runs out. Trucks get stuck, and airports close one by one.
+And that matters, because modern cities run on a very thin margin.
+Most supermarkets keep only a few days of food on their shelves. The rest is always on a truck, on its way.
+So when the trucks stop, the shelves start to empty.
+Not in a month. In days.
 
 [WEEK 1]  (HUD: WEEK 1 | 14.5 C)
 By the end of the first week, the pipes start freezing.
@@ -25,19 +33,43 @@ Ponds. Rivers. Even the water in your house.
 And here's a trap: you're surrounded by snow, so why not eat it?
 Eating snow directly can cool your body down, especially when you're already freezing.
 Melt it first. Then drink.
-But water is the small problem. The big one is food.
+And there's a second trap. People start burning anything to stay warm. Charcoal grills indoors. Gas stoves for heating.
+In real winter disasters, carbon monoxide poisoning is one of the biggest silent killers.
+You can't see it. You can't smell it.
+The cold is loud. This killer is quiet.
+
+[MONTH 1]  (HUD: MONTH 1 | 14 C)
+Now look outside, at nature.
+The flowers that should be blooming never open. The insects that should be waking up never wake. Bees stay in their hives, and many plants have no one to pollinate them.
+Birds that came back from the south find nothing to eat, and turn around.
+Forests that should be loud with life are quiet.
+And that is the first sign that this isn't just a very long winter.
+It's the missing half of a cycle that everything depends on.
 
 [MONTH 3]  (HUD: MONTH 3 | 13 C)
-Farmers are waiting for spring. Seeds can't sprout in frozen soil.
+Then comes the real problem. Farmers are waiting for spring. Seeds can't sprout in frozen soil.
 And the world doesn't keep much food in storage, roughly a few months of grain.
+Rivers and harbors freeze, so even the food that exists has a harder time moving.
 This isn't pure imagination. It almost happened once.
 In 1816, after the huge Tambora volcano erupted, summer nearly disappeared across Europe and North America. Snow in June, in parts of New England. Crops failed, food prices exploded, and famine spread.
 And the planet cooled by less than one degree Celsius on average.
 Imagine ten times more.
 
+[IF YOU HAD TO SURVIVE]  (HUD: MONTH 3 | 13 C)
+Now, let's make it personal. If you were living through this, what would actually keep you alive?
+First: heat one small room, not the whole house. A small space with good insulation is far easier to keep warm.
+Second: layers. Several thin layers trap more warm air than one thick coat.
+Third: water and food that doesn't need a kitchen. Rice, beans, canned food, and a way to melt snow safely.
+And fourth, the one people forget: don't do it alone.
+Communities that share heat, food and tools survive far better than people who hide behind their doors.
+That idea will matter a lot, very soon.
+
 [YEAR 1]  (HUD: YEAR 1 | 11 C)
 So people start to move.
 Cities in the far north slowly empty out. Everyone heads toward the equator.
+And the north isn't just any place. Some of the world's biggest wheat exporters, like Russia, Canada and Ukraine, sit in the cold part of the map.
+When their farms freeze, the whole planet feels it.
+The tropics would probably become the most valuable land on Earth.
 And that's where the real trouble begins.
 
 [YEAR 5]  (HUD: YEAR 5 | 10.5 C)
@@ -57,14 +89,54 @@ Then food. Farms go underground, under bright LED lights. Greenhouses spread, he
 This is already real. In Iceland, geothermal greenhouses grow tomatoes, cucumbers, even bananas, in the middle of a snowy country.
 Fresh vegetables become possible again. But feeding billions of people is still a massive challenge. Indoor farms need enormous amounts of energy, and not every country can afford them.
 
+[YEAR 25]  (HUD: YEAR 25 | 9.6 C)
+Twenty-five years in, something strange happens.
+A whole generation grows up that has never seen a summer.
+For them, snow isn't magic. It's just weather. Spring is a story their grandparents tell.
+Cities change shape. Streets move underground, into tunnels and heated halls, with the snow left on top.
+And the map of power changes too.
+Countries that were rich because of cold-climate farms, oil and trade lose ground.
+Countries near the equator, with warm land and sunlight, probably gain more than they ever had.
+Nothing is fair about it. But it is how the world would likely rebalance.
+
+[YEAR 50]  (HUD: YEAR 50 | 9.3 C)
+Half a century in, nature has also found a new balance.
+Animals that love the cold move south, and spread across lands that never saw them.
+But here's a surprise. The tropics wouldn't be a paradise either.
+In the last ice age, much of the tropics became drier, and rainforests shrank.
+Safe doesn't mean easy.
+So even the new safe lands would need careful, shared management of water and food.
+Which brings us back to year five, and to that same question: share, or fight.
+
 [YEAR 100]  (HUD: YEAR 100 | 9 C)
-A hundred years later, the world looks like the last ice age.
+A hundred years later, the average temperature looks like the last ice age.
 About twenty thousand years ago, Earth was roughly six degrees colder than today.
-Giant ice sheets, miles thick, covered Canada and Northern Europe. Sea level was more than a hundred meters lower.
 And people survived, with fire, fur, and spears.
 We'd have far better tools. But it would be a smaller, colder, more crowded world.
+Now, one honest detail. Temperature changes fast, but ice sheets grow slowly.
+After a hundred years, the ice would still be spreading. The real ice age takes thousands of years to arrive.
+
+[YEAR 1,000+]  (HUD: YEAR 1,000+ | scenario)
+So, jump ahead.
+Giant ice sheets, miles thick, cover Canada and Northern Europe.
+So much water is locked in the ice that sea level drops by more than a hundred meters.
+New land appears. In the last ice age, Britain was connected to Europe by dry land, and Asia was connected to North America across the Bering Strait.
+Maybe our descendants would walk across them.
+A different planet. Same humans.
+
+[HOW COULD IT HAPPEN?]
+So, how could winter really last this long?
+We said we'd come back to it.
+A dimmer sun is the least likely. In fact, the Sun is very slowly getting brighter.
+A huge volcanic eruption could do it for a few years. That's what Tambora did, on a small scale.
+So could a giant asteroid or a large nuclear war, by throwing dust and soot into the sky and blocking the light. Scientists call it a nuclear winter.
+Real ice ages are different. They come from slow changes in Earth's orbit, over tens of thousands of years.
+So no, winter is not going to stay forever.
+But the question is still worth asking, because the answer shows how fragile our food, our energy and our trust really are.
 
 [OUTRO]
+Let's recap the whole journey.
+Day three, the shelves empty. Month three, the food clock runs out. Year five, the world is tested. Year ten, we adapt. And over centuries, the planet itself changes shape.
 So, what if winter never ended?
 We would survive. But the hardest year wouldn't be the coldest one. It would be year five, when the world has to decide whether to share, or to fight over what's left.
 Would you move to the equator, or stay and face the cold? Tell me in the comments.

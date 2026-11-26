@@ -24,7 +24,9 @@ Thumbnail text ideas (3 words max, adds to the title): `NO MORE SPRING` / `YEAR 
 
 ---
 
-## SCRIPT (v2: Year 5 added, hook and flow tightened)
+## SCRIPT: SUPERSEDED. The final long script (v4, 10+ min) is in `ep01-voiceover-FINAL.txt`. The text below is the old short v2 kept for reference; scene prompts at the end of this file include the new scenes 23-30 for the long cut.
+
+## (old v2 script)
 
 **[HOOK]** (scene 1-2)
 It's the first day of spring.
@@ -225,3 +227,37 @@ Mapping note: scenes 1-12 are unchanged; 13-16 are NEW (Year 5); old 13-18 are n
 - Iceland geothermal greenhouses grow tomatoes, cucumbers and bananas.
 - World grain stocks: "roughly a few months of use" (check latest FAO stocks-to-use figure before stating a number).
 - Year 5 events (rationing, blackouts, migration pressure) are scenario reasoning, always said with "probably/would", never as fact.
+
+## EXTRA SCENES for the long cut (v4), numbers 23-30 (use STYLE line as above)
+23. **Day 3: roads and empty shelves**
+```
+A toy-brick street where snowplows and delivery trucks are stuck in deep brick-snow, and next to it a toy-brick supermarket with almost empty shelves seen through the window, a few small figures looking worried. STYLE
+```
+24. **Month 1: silent forest**
+```
+A silent snowy toy-brick forest with bare brick trees, a single small bee-shaped brick on a frozen flower that never opened, a lone bird looking down at white ground, hushed blue light. STYLE
+```
+25. **Survival: one warm room**
+```
+The host figure Bo (reference, in his orange hooded sweatshirt) sitting in one tiny insulated toy-brick room with a small heater, several thin layers of clothes, cans and rice on a shelf, a pot of melting snow, cozy warm light, snowstorm behind the window. STYLE
+```
+26. **Year 25: generation without summer**
+```
+Small toy-brick children in colorful winter coats playing happily on a heated glass-covered street built above tunnels, with snow piled on the glass roof, normal and cheerful, a grandmother figure pointing to an old photo of a sunny day. STYLE
+```
+27. **Year 50: tropics drier, animals move**
+```
+A toy-brick warm coastline with a smaller, thinner jungle than before, and a few cold-loving animals made of bricks (a fox, a deer) walking south through the trees, golden light but drier ground. STYLE
+```
+28. **Year 1,000+: land bridge**
+```
+A vast toy-brick landscape in a deep ice age: giant white brick ice sheets in the distance, a long strip of dry land crossing between two continents where the sea used to be, tiny figures with fur coats walking across it. STYLE
+```
+29. **How it could happen: volcano and asteroid**
+```
+Split composition: on the left a toy-brick volcano erupting with dark ash clouds spreading across the sky; on the right a small toy-brick asteroid streaking toward Earth; the sun dimmed behind thick grey clouds. STYLE
+```
+30. **Recap timeline**
+```
+A long toy-brick timeline road from left to right: a green sunny town on the left turning into snow, underground farms, glass greenhouses, and an ice-age landscape on the right, with Bo (reference) walking along it. STYLE
+```
