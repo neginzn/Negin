@@ -261,3 +261,34 @@ Split composition: on the left a toy-brick volcano erupting with dark ash clouds
 ```
 A long toy-brick timeline road from left to right: a green sunny town on the left turning into snow, underground farms, glass greenhouses, and an ice-age landscape on the right, with Bo (reference) walking along it. STYLE
 ```
+
+31. **Year 5: bare shelves close-up**
+```
+Close-up of toy-brick supermarket shelves almost completely empty, one lonely can left on a shelf, a small figure in a winter coat reaching for it with a mitten hand, cold fluorescent light. STYLE
+```
+32. **Year 5: bread line in the snow**
+```
+A very long line of small toy-brick figures in winter coats waiting in falling snow outside a bakery, breath clouds drawn as tiny translucent bricks, a few figures holding small paper bags, grey cold light, quiet and tense. STYLE
+```
+33. **Year 5: migration at the border**
+```
+A long column of small toy-brick figures with sleds, suitcases and children walking toward a striped border gate in a snowy landscape, border guards figures stopping the line, dusk light, emotional and tense. STYLE
+```
+34. **Year 5: city blackout, one lit hospital**
+```
+A toy-brick big city at night completely dark under deep snow, only one hospital building glowing warm with every window lit, tiny figures walking toward it through the snow, stars above. STYLE
+```
+35. **Year 10: warm windows, hope**
+```
+A snowy toy-brick village at blue dusk with every window glowing warm orange, a greenhouse glowing green beside it, small figures carrying baskets of vegetables, smoke from chimneys, hopeful cozy mood. STYLE
+```
+36. **Year 1,000+: epic wide shot**
+```
+An enormous epic wide landscape of a toy-brick planet in deep ice age: towering white ice walls, a lone tiny figure with a fur coat standing on a long land bridge under a huge sky, cold gold sunrise, a feeling of vastness. STYLE
+```
+
+## EDIT NOTES (emotional curve)
+- Curve: Hook (curiosity) -> Day 3 / Week 1 (tension) -> Month 3 (dread) -> Year 5 = PEAK -> Year 10 = hope -> Year 1,000+ = awe.
+- **Year 5 (peak):** music drops to a low pulse; HUD turns red; cuts get faster (2-3 s per image): scenes 13 -> 31 -> 32 -> 14 -> 15 -> 34 -> 33 -> 16. SFX: wind, distant crowd murmur, a single power-down hum then silence for 1 s before "That's year five." Voice slower and lower.
+- **Year 10 (hope):** colour grade warmer, music rises with a gentle piano/strings, HUD turns warm amber, slow push-in shots: scenes 17 -> 18 -> 19 -> 35. Let the last line breathe (1 s silence).
+- **Year 1,000+ (awe):** slow wide drifts, deep low music swell, minimal HUD, scene 28 then 36 held 5-6 s. End with a tiny sound of wind.

@@ -1,4 +1,4 @@
-WHAT IF WINTER NEVER ENDED? (Day 1 to Year 1,000) - voiceover script FINAL v4 (long cut, 10+ min)
+WHAT IF WINTER NEVER ENDED? (Day 1 to Year 1,000) - voiceover script FINAL v5 (long cut, 10+ min)
 
 [HOOK]
 It's the first day of spring.
@@ -53,7 +53,8 @@ Rivers and harbors freeze, so even the food that exists has a harder time moving
 This isn't pure imagination. It almost happened once.
 In 1816, after the huge Tambora volcano erupted, summer nearly disappeared across Europe and North America. Snow in June, in parts of New England. Crops failed, food prices exploded, and famine spread.
 And the planet cooled by less than one degree Celsius on average.
-Imagine ten times more.
+Now imagine a cooling event that doesn't end after one summer.
+What happens when the next spring never comes?
 
 [IF YOU HAD TO SURVIVE]  (HUD: MONTH 3 | 13 C)
 Now, let's make it personal. If you were living through this, what would actually keep you alive?
@@ -75,19 +76,24 @@ And that's where the real trouble begins.
 [YEAR 5]  (HUD: YEAR 5 | 10.5 C)
 By year five, this is no longer a weather problem. It's a civilization problem.
 Even wealthy countries begin rationing food. Poorer countries face something worse: they may not be able to afford what's left.
-And some countries stop selling it. Export bans are real: Russia banned grain exports after its 2010 drought, and India banned wheat exports in 2022. Now imagine every country doing it at once.
+Supermarket shelves stand bare. Lines for bread stretch around the block. People wait in the cold for hours, just to carry home a small ration.
+And some countries stop selling it. Export bans are real: Russia banned grain exports after its 2010 drought, and India restricted wheat exports in 2022. Now imagine dozens of countries doing the same thing at once.
 Big cities in the north run short of fuel and electricity, just when they need heat the most.
+Whole districts would go dark at night. Hospitals and a few key buildings keep the power. The rest of the city waits in the black.
 And the warm regions near the equator, the new safe lands, receive a wave of people they have no homes, food, or jobs for.
+Long columns of people walk toward the border gates, with sleds, with children, with everything they own.
 That's the moment a climate crisis turns into a crisis of everything. Food, energy, borders, trust.
 That's year five. If the world is going to break, this is where.
 But humans don't break easily.
 
 [YEAR 10]  (HUD: YEAR 10 | 10 C)
-By year ten, we adapt. We always do.
+By year ten, something quiet happens. People stop only surviving, and start building.
+We adapt. We always do.
 Energy first. Solar panels buried in snow work badly. But geothermal and nuclear plants don't care about the weather. The ones that keep running become the new lifelines.
 Then food. Farms go underground, under bright LED lights. Greenhouses spread, heated by hot water from deep in the ground.
 This is already real. In Iceland, geothermal greenhouses grow tomatoes, cucumbers, even bananas, in the middle of a snowy country.
 Fresh vegetables become possible again. But feeding billions of people is still a massive challenge. Indoor farms need enormous amounts of energy, and not every country can afford them.
+But for the first time in years, warm windows glow in the snow. A world that has learned to live with the cold.
 
 [YEAR 25]  (HUD: YEAR 25 | 9.6 C)
 Twenty-five years in, something strange happens.
@@ -101,7 +107,7 @@ Nothing is fair about it. But it is how the world would likely rebalance.
 
 [YEAR 50]  (HUD: YEAR 50 | 9.3 C)
 Half a century in, nature has also found a new balance.
-Animals that love the cold move south, and spread across lands that never saw them.
+Cold-adapted animals spread toward the equator, moving into regions that were once too warm for them.
 But here's a surprise. The tropics wouldn't be a paradise either.
 In the last ice age, much of the tropics became drier, and rainforests shrank.
 Safe doesn't mean easy.
@@ -109,7 +115,7 @@ So even the new safe lands would need careful, shared management of water and fo
 Which brings us back to year five, and to that same question: share, or fight.
 
 [YEAR 100]  (HUD: YEAR 100 | 9 C)
-A hundred years later, the average temperature looks like the last ice age.
+A hundred years later, the average temperature could be approaching levels last seen during the ice age.
 About twenty thousand years ago, Earth was roughly six degrees colder than today.
 And people survived, with fire, fur, and spears.
 We'd have far better tools. But it would be a smaller, colder, more crowded world.
@@ -122,6 +128,7 @@ Giant ice sheets, miles thick, cover Canada and Northern Europe.
 So much water is locked in the ice that sea level drops by more than a hundred meters.
 New land appears. In the last ice age, Britain was connected to Europe by dry land, and Asia was connected to North America across the Bering Strait.
 Maybe our descendants would walk across them.
+Vast. Silent. Reshaped by ice.
 A different planet. Same humans.
 
 [HOW COULD IT HAPPEN?]
