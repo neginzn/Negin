@@ -90,3 +90,9 @@ Last updated: 15 Nov 2026. Written so a brand-new Claude session can continue th
 - Her honest realisation: script has too little science + too little Bo/Professor dialogue (Prof only 16% of words, 17 lines, almost absent after Week 1). DECISION PENDING (she decides tomorrow): write script v7 with Prof ~35-40% of words, 2-3 sourced facts per section, 12-13 min, reusing ~90% existing shots; only ~10-12 new Bo+Prof / science shots needed. Rule for ALL future videos: min 35% dialogue + 2 sourced facts per section.
 - Edit plan: no music, SFX only, strong motion graphics (HUD, thermometer, charts, glitch at Year 5, timeline bar), small Bo/Prof corner frames when speaking, slow camera moves.
 - Still open: ElevenLabs key (Network secrets, new session), channel rename to The What If Toybox (she does in Studio), banner/profile upload, Stranger Files connection.
+
+## STATE 27 Nov 2026 (evening) - ep01 images DONE, voice next
+- All ep01 images saved: `assets/what-if/shots/ep01/` (134 files incl. Bo+Professor science stops N1-N5, R1-R3). Final script: `research/what-if/ep01-voiceover-v8.txt` (BO:/PROF: tagged, ~14 min). Shot lists: `research/what-if/ep01-shotlist-*.md`, `ep01-v8-extra-shots.md`.
+- Auto-OCR for brand text on studs does NOT work (tested). Check close-up shots by eye before use (Z3 was fixed; Z3_old_logo kept for reference).
+- ElevenLabs: she is adding the key in environment Network secrets (host api.elevenlabs.io, header xi-api-key) for env "Claude code". She shares the ElevenLabs account with her boyfriend (credits shared). NEXT SESSION: test key with a tiny TTS call, list voices, ask her to pick Bo + Professor voices, estimate credits for ~1700 words, then generate line by line, Whisper-align, build the video.
+- IMPORTANT style rules for me: ALWAYS answer in Persian only (never Arabic; she was upset once), explain BEFORE using any tool that opens a form, go step by step, read her words carefully.
