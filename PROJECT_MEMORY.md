@@ -59,6 +59,11 @@ Last updated: 15 Nov 2026. Written so a brand-new Claude session can continue th
 - Profile image: `assets/what-if/profile_bo_800.png`. Style line v2 (photoreal macro bricks) is in `channels/what-if-bricks.md`.
 - Still pending: final channel name (suggested The What If Toybox), banner, ElevenLabs key, Bo scene images, ElevenLabs voice for ep01.
 
+## UPDATE 27 Nov 2026: ElevenLabs key still failing
+- Network secret for `api.elevenlabs.io` (header `xi-api-key`) exists on env "Claude code", but every key saved via the form (3 tries) returns 401 "Invalid API key". A key pasted in chat also failed (she should delete it).
+- Next steps told to her: check the key is Active in ElevenLabs API Keys (Auto-disable if leaked may have turned it off) and the right workspace; or delete and re-add the Network secret in environment settings, then start a new session; or make the voice herself in the ElevenLabs app and send the mp3.
+- Key settings she uses: Restrict Key on, Text to Speech + Voices Read = Access, Restrict by IP OFF.
+
 ## Git
 - All work is on branch **`claude/youtube-viral-seo-rules-t1g9ga`** (main only has the initial commit unless merged). Commit and push there. Do not open PRs unless asked.
 
