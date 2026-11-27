@@ -60,7 +60,7 @@
 060|BO|That idea will matter a lot, very soon.
 061|BO|So people start to move.
 062|BO|Cities in the far north slowly empty out. Everyone heads toward the equator.
-063|BO|And the north isn't just any place. Some of the world's biggest wheat exporters, like Russia, Canada and Ukraine, sit in the cold part of the map.
+063|BO|And the north isn't just any place. Some of the world's biggest wheat exporters, like Russia and Canada, sit in the cold part of the map.
 064|BO|When their farms freeze, the whole planet feels it.
 065|BO|The tropics would probably become the most valuable land on Earth.
 066|BO|And that's where the real trouble begins.
@@ -97,8 +97,8 @@
 097|BO|For them, snow isn't magic. It's just weather. Spring is a story their grandparents tell.
 098|BO|Cities change shape. Streets move underground, into tunnels and heated halls, with the snow left on top.
 099|BO|Professor, why do people move underground?
-100|PROF|Because the ground stays warm. Ten meters down, the temperature barely changes, all year round.
-101|PROF|It's like a cave. Cold outside, but cozy inside.
+100|PROF|Because the ground stays steady. Ten meters down, the temperature barely changes, all year round.
+101|PROF|It's like a cave. Freezing outside, much milder inside.
 102|BO|And the map of power changes too.
 103|BO|Countries that were rich because of cold-climate farms, oil and trade lose ground.
 104|BO|Countries near the equator, with warm land and sunlight, probably gain more than they ever had.

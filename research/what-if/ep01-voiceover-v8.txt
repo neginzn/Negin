@@ -80,7 +80,7 @@ BO: That idea will matter a lot, very soon.
 [YEAR 1]  (HUD: YEAR 1 | 11 C)
 BO: So people start to move.
 BO: Cities in the far north slowly empty out. Everyone heads toward the equator.
-BO: And the north isn't just any place. Some of the world's biggest wheat exporters, like Russia, Canada and Ukraine, sit in the cold part of the map.
+BO: And the north isn't just any place. Some of the world's biggest wheat exporters, like Russia and Canada, sit in the cold part of the map.
 BO: When their farms freeze, the whole planet feels it.
 BO: The tropics would probably become the most valuable land on Earth.
 BO: And that's where the real trouble begins.
@@ -123,8 +123,8 @@ BO: A whole generation grows up that has never seen a summer.
 BO: For them, snow isn't magic. It's just weather. Spring is a story their grandparents tell.
 BO: Cities change shape. Streets move underground, into tunnels and heated halls, with the snow left on top.
 BO: Professor, why do people move underground?
-PROF: Because the ground stays warm. Ten meters down, the temperature barely changes, all year round.
-PROF: It's like a cave. Cold outside, but cozy inside.
+PROF: Because the ground stays steady. Ten meters down, the temperature barely changes, all year round.
+PROF: It's like a cave. Freezing outside, much milder inside.
 BO: And the map of power changes too.
 BO: Countries that were rich because of cold-climate farms, oil and trade lose ground.
 BO: Countries near the equator, with warm land and sunlight, probably gain more than they ever had.
