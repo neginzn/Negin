@@ -70,5 +70,6 @@ Last updated: 15 Nov 2026. Written so a brand-new Claude session can continue th
 
 ## UPDATE 27 Nov 2026: ElevenLabs key status
 - A network secret for `api.elevenlabs.io` (header `xi-api-key`) is saved in the "Claude code" environment, and she re-entered it via the secure form today, but ElevenLabs still answers **401 Invalid API key**. So the saved value is wrong: probably not the full `sk_...` key, or a key that was deleted/disabled, or a key without TTS/Voices permission.
+- 27 Nov (2nd try): new key saved via form, still 401 on every endpoint. If it fails again: try in a NEW session (proxy may cache), or she edits it in environment settings → Network secrets. Fallback: she makes the mp3 in the ElevenLabs app and uploads it; Claude trims + aligns.
 - Fix: in ElevenLabs make a **new** API key (Developers → API Keys → Create; turn on Text to Speech + Voices: Read + User: Read), copy the whole `sk_...` value, then save it again via the secure form. Test: `curl https://api.elevenlabs.io/v1/user/subscription` should give 200.
 - Next once it works: list her voices, she picks one for Bo, generate ep01 voiceover from `research/what-if/ep01-always-winter.md` (SCRIPT section only, no 📊 HUD lines).
