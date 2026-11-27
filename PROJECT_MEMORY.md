@@ -67,3 +67,8 @@ Last updated: 15 Nov 2026. Written so a brand-new Claude session can continue th
 2. Ray ep4: she continues generating images chapter by chapter; Claude assembles on the voice track with HUD, scan overlays, SFX, SRT.
 3. More Shorts from Ray ep3 (vanishing girl, three knocks, red sneakers).
 4. Suggested weekly rhythm: Stranger Files 1 video/week; Ray 1 video every 2 weeks.
+
+## UPDATE 27 Nov 2026: ElevenLabs key status
+- A network secret for `api.elevenlabs.io` (header `xi-api-key`) is saved in the "Claude code" environment, and she re-entered it via the secure form today, but ElevenLabs still answers **401 Invalid API key**. So the saved value is wrong: probably not the full `sk_...` key, or a key that was deleted/disabled, or a key without TTS/Voices permission.
+- Fix: in ElevenLabs make a **new** API key (Developers → API Keys → Create; turn on Text to Speech + Voices: Read + User: Read), copy the whole `sk_...` value, then save it again via the secure form. Test: `curl https://api.elevenlabs.io/v1/user/subscription` should give 200.
+- Next once it works: list her voices, she picks one for Bo, generate ep01 voiceover from `research/what-if/ep01-always-winter.md` (SCRIPT section only, no 📊 HUD lines).
