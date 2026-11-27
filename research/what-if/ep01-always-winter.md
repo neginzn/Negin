@@ -2,9 +2,8 @@
 
 Style: generic toy bricks (no LEGO, mitten-hand figures). Rules: `channels/what-if-bricks.md`.
 Length target: ~6 to 7 minutes (about 900 words). Language: English first.
-Honesty note (say it in the video): this is a thought experiment, not a prediction. HUD temperatures are scenario assumptions that ramp from today's ~15 C global average down to ~9 C (about the last ice age).
 
-HUD (top-left, digital): `TIME` and `AVG TEMP (SCENARIO)`.
+HUD (top-left, digital): `TIME` and `AVG TEMP`.
 
 ## Titles (12 options, pick #1)
 1. **What If Winter Never Ended? (Day 1 to Year 100)**  <- pick (keyword first, 49 chars, built-in structure)
@@ -37,9 +36,8 @@ Not the first year. Not even the hundredth.
 Year five. That's when things could start falling apart.
 But first, day one.
 
-*(thought-experiment note goes on screen as small text, not spoken: "A thought experiment, not a prediction. Temperatures are scenario assumptions.")*
 
-📊 DAY 1 | AVG TEMP: 15 C (scenario)
+📊 DAY 1 | AVG TEMP: 15 C
 
 **[DAY 1]** (scenes 3-6)
 At first, it looks beautiful.
@@ -51,7 +49,7 @@ More snow means more cold, and more cold means more snow.
 Scientists call it the ice-albedo feedback. Winter, feeding itself.
 (One quick fact: seasons come from Earth's tilt, about twenty-three and a half degrees, not from distance to the Sun. So for winter to stay, something huge would have to change. Today we don't ask how. Only: what then?)
 
-📊 WEEK 1 | AVG TEMP: 14.5 C (scenario)
+📊 WEEK 1 | AVG TEMP: 14.5 C
 
 **[WEEK 1]** (scene 7)
 By the end of the first week, the pipes start freezing.
@@ -61,7 +59,7 @@ Eating snow directly can cool your body down, especially when you're already fre
 Melt it first. Then drink.
 But water is the small problem. The big one is food.
 
-📊 MONTH 3 | AVG TEMP: 13 C (scenario)
+📊 MONTH 3 | AVG TEMP: 13 C
 
 **[MONTH 3]** (scenes 8-10)
 Farmers are waiting for spring. Seeds can't sprout in frozen soil.
@@ -71,14 +69,14 @@ In 1816, after the huge Tambora volcano erupted, summer nearly disappeared acros
 And the planet cooled by less than one degree Celsius on average.
 Imagine ten times more.
 
-📊 YEAR 1 | AVG TEMP: 11 C (scenario)
+📊 YEAR 1 | AVG TEMP: 11 C
 
 **[YEAR 1]** (scenes 11-12)
 So people start to move.
 Cities in the far north slowly empty out. Everyone heads toward the equator.
 And that's where the real trouble begins.
 
-📊 YEAR 5 | AVG TEMP: 10.5 C (scenario)
+📊 YEAR 5 | AVG TEMP: 10.5 C
 
 **[YEAR 5]** (scenes 13-16)  <- NEW, the turning point promised in the hook
 By year five, this is no longer a weather problem. It's a civilization problem.
@@ -90,7 +88,7 @@ That's the moment a climate crisis turns into a crisis of everything. Food, ener
 That's year five. If the world is going to break, this is where.
 But humans don't break easily.
 
-📊 YEAR 10 | AVG TEMP: 10 C (scenario)
+📊 YEAR 10 | AVG TEMP: 10 C
 
 **[YEAR 10]** (scenes 17-19)
 By year ten, we adapt. We always do.
@@ -99,7 +97,7 @@ Then food. Farms go underground, under bright LED lights. Greenhouses spread, he
 This is already real. In Iceland, geothermal greenhouses grow tomatoes, cucumbers, even bananas, in the middle of a snowy country.
 Fresh vegetables become possible again. But feeding billions of people is still a massive challenge. Indoor farms need enormous amounts of energy, and not every country can afford them.
 
-📊 YEAR 100 | AVG TEMP: 9 C (scenario)
+📊 YEAR 100 | AVG TEMP: 9 C
 
 **[YEAR 100]** (scenes 20-21)
 A hundred years later, the world looks like the last ice age.

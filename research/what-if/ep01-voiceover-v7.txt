@@ -145,7 +145,7 @@ BO: Now, one honest detail, Professor. Wouldn't the ice sheets be here already?
 PROF: Not quite. Think of a snowball rolling down a hill. It starts small, and takes a long time to grow huge.
 PROF: Temperature can drop fast. Ice sheets grow slowly. After a hundred years, the ice would still be spreading. The real ice age takes thousands of years to arrive.
 
-[YEAR 1,000+]  (HUD: YEAR 1,000+ | scenario)
+[YEAR 1,000+]  (HUD: YEAR 1,000+ )
 BO: So, jump ahead.
 BO: Giant ice sheets, miles thick, cover Canada and Northern Europe.
 BO: So much water is locked in the ice that sea level drops by more than a hundred meters.
@@ -174,4 +174,3 @@ BO: We would survive. But the hardest year wouldn't be the coldest one. It would
 BO: Would you move to the equator, or stay and face the cold? Tell me in the comments.
 BO: And next time: what if one single person ruled the entire world?
 
-(On-screen small text at start: "A thought experiment, not a prediction. Temperatures are scenario assumptions.")

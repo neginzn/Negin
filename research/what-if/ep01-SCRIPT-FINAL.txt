@@ -4,7 +4,6 @@ FINAL SCRIPT - Bo + Professor (one file, in speaking order)
 BO = Bo (narrator, young and friendly)    PROF = the Professor (older, warm, calm)
 Every spoken line starts with BO: or PROF:
 Text in [BRACKETS] is the section name. It is NOT spoken.
-(On-screen small text at the start, not spoken: "A thought experiment, not a prediction. Temperatures are scenario assumptions.")
 
 
 [HOOK]

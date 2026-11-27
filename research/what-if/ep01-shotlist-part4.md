@@ -89,7 +89,7 @@ A crowded modern toy-brick city under big glass domes at the edge of the ice, wi
 The front edge of a huge slow white toy-brick glacier wall pushing against the edge of a green toy-brick forest, a few trees leaning and half buried at the ice front, golden late light, quiet and inevitable. Photorealistic photograph of a miniature scene built entirely from glossy generic plastic building bricks, wide or medium shot framing (never extreme macro), every stud a perfectly smooth blank circle with nothing printed, engraved or embossed on it, ultra-detailed visible seams, crisp plastic reflections, soft studio lighting, cinematic color grading, deep focus with the entire scene sharp from the closest brick to the farthest building, no background blur, extremely sharp focus, 8K detail, 16:9, no text, no letters, no logos, no brand names, no watermark.
 ```
 
-## YEAR 1,000+  (HUD: YEAR 1,000+ | scenario)
+## YEAR 1,000+  (HUD: YEAR 1,000+ )
 
 ### G1  "So, jump ahead."  (camera: Push-in)
 ```
